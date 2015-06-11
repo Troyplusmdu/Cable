@@ -1,0 +1,1533 @@
+
+                                     DUE LIST
+                                     --------
+Area : N.G.O'S COLONY-I
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     2511      karan                  n.s.s.ground      .                 180             
+
+2     2378      SRINU                  A-20              .                 340             
+
+3     2421      satya babu             a-20              .                 340             
+
+4     654       APPA RAO               A-21                                140             
+
+5     2137      rafi                   a-22              .                 470             
+
+6     1         SATHYANARAYANA         A-23                                510             
+
+7     2491      narasimha houd         a-25              .                 170             
+
+8     1957      C.WILIAM               A-26              .                 170             
+
+9     469       D.MOULALI              A-27                                170             
+
+10    1499      PANDU RANGA RAO        A-27              .                 170             
+
+11    1774      venkatesh              A-28              NGO               180             
+
+12    617       N.KUMAR                A-28              .                 300             
+
+13    1616      SUSHEELA               A-29              .                 170             
+
+14    2612      om.kumar               a-29              .                 180             
+
+15    57        V.KRISHNA              A-30                                170             
+
+16    1950      ABDUL RAZAK            A-31              .                 170             
+
+17    963       S.V.PRASAD             A-33                                340             
+
+18    386       ANAND RAO              A-34                                200             
+
+19    877       JAIPAL                 A-35                                170             
+
+20    387       R.K.SUNKANNA           A-36                                170             
+
+21    1500      SKV.SUBHANI            A-36              .                 170             
+
+22    807       V.B.C.REDDY            A-37                                170             
+
+23    1778      Ch .ravi               A-37              NGO               170             
+
+24    829       BALAIAH                A-38                                340             
+
+25    2364      l.jagadesh kumar       a-39              .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    2106      JAYA SHAKAR            A-40              .                 350             
+
+27    2290      JAI SHNAKAR            A-40              .                 250             
+
+28    2109      sama shekar            A-42              .                 350             
+
+29    2469      kiran kumar            a-43              .                 170             
+
+30    1887      RAJU                   A-46              .                 440             
+
+31    2542      NARENDHAR              a-46              .                 190             
+
+32    2405      mahesh                 a-46              .                 340             
+
+33    391       M.D.YOUNUS             A-47                                170             
+
+34    1986      vishweshwar            a-48              .                 170             
+
+35    392       S.BALAIAH              A-50                                170             
+
+36    2484      krishna                a-51              .                 340             
+
+37    2645      r.madhuri              a-51              .                 170             
+
+38    394       MADHU                  A-54                                170             
+
+39    1869      NEELEMMA               a-56              .                 170             
+
+40    395       S.A.B.MOULALI          A-57                                170             
+
+41    2011      vasantha               a-57              .                 710             
+
+42    1796      SAI                    A-57              .                 320             
+
+43    2575      laxmi                  a-57              .                 680             
+
+44    2550      praveen                a-57              .                 170             
+
+45    2092      phnindra               a-58              .                 170             
+
+46    1423      YADAIAH                A-58              .                 170             
+
+47    1925      BALAIAH                A-58              .                 170             
+
+48    735       MANAMMA                A-59                                170             
+
+49    1795      B.KRISHNA              A-59              .                 1120            
+
+50    2040      m d hussain            A-59              .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    2057      kaza                   A-59              .                 380             
+
+52    2267      LAXAMMA                A-59              .                 170             
+
+53    2008      shamu                  a-60              .                 170             
+
+54    1403      VENKATESH              A-62              .                 510             
+
+55    1078      P.VENKATESHWARLU       A-64                                180             
+
+56    2496      hussan basha           a-65              .                 180             
+
+57    2377      konda babu             A-65              ...               170             
+
+58    2652      krishnaveni            b-139             .                 170             
+
+59    585       A.ANJAIAH              B-999                               170             
+
+60    514       SASTRY                 B-1001                              510             
+
+61    2195      bixam reddy            b-1002            .                 170             
+
+62    1235      SUBBA NADIU            B-1002            .                 530             
+
+63    1507      KONDAIAH               B-1002            .                 170             
+
+64    1676      B.L.SUDHARSINI         B-1002            .                 190             
+
+65    2416      speetar                b-1003            .                 340             
+
+66    2579      nava kanth             b-1004            .                 340             
+
+67    1528      JEWELLERS SHOP         B-1005            .                 170             
+
+68    2494      santosh                b-1008            .                 340             
+
+69    2000      mahesh                 b-1008            .                 300             
+
+70    958       SANTHOSH               B-1008                              340             
+
+71    179       JYOTHI CLINIC          B-1008            .                 400             
+
+72    2136      prakash                b-1010            .                 170             
+
+73    235       B.VENKATA REDDY        B-1010                              170             
+
+74    2615      nagadher reddy         b-1015            .                 170             
+
+75    2590      and food court         b-1015            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    2281      RAJESH                 B-1017            .                 600             
+
+77    2324      a.abhishek             b-1017            .                 170             
+
+78    2327      r.ramesh               b-1017            .                 1190            
+
+79    2335      sandeep reddy          b-1017            .                 340             
+
+80    901       ANNAPURNA PHOTO STUD   B-1017                              510             
+
+81    907       NEWROYALENTERPRISES    B-1018            .                 340             
+
+82    2656      sundeer fancos         b-1018            .                 170             
+
+83    513       JAYA PRAKASH           B-1018            .                 300             
+
+84    837       T. V. S. RAO           B-1019            .                 170             
+
+85    16        D.GANAPATHI            B-1020                              510             
+
+86    410       RUSHI MACHINE CENTRE   B-1020                              340             
+
+87    2657      padma seena            b-1020            .                 170             
+
+88    1464      GOVERDHAN              B-1021            .                 510             
+
+89    1428      LINGAIAH               B-1022            .                 340             
+
+90    20        T.RAKESH               B-1023            4CONNECTIONS      900             
+
+91    2248      rajesh singh           b-1023            .                 170             
+
+92    1692      SHIVA MEDICAL HALL     B-1024            .                 340             
+
+93    1600      SRINIVASA REDDY        B-1024            .                 680             
+
+94    255       DOMODAR REDDY          B-1024                              170             
+
+95    1947      T.SATISH               B-1026            .                 510             
+
+96    2121      ravinder               b-1026            .                 510             
+
+97    22        ROSAIAH                B-1027            .                 150             
+
+98    2300      D.PRAVEEN              B-1028            .                 510             
+
+99    2244      venkatesh              B-1029            .                 490             
+
+100   2360      venkat rao             b-1029            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   2223      man mama               b-1032            .                 170             
+
+102   2485      k.narsaiah             b-1032            .                 340             
+
+103   2126      shekar                 b-1032            .                 690             
+
+104   2146      srinivas               b-1033            .                 170             
+
+105   613       G.SUBBA RAO            B-1033                              170             
+
+106   2513      n.sai prasad           b-1035            .                 170             
+
+107   2448      sanjeevlu              b-1036            ...               340             
+
+108   2191      somaya                 b-1036            .                 150             
+
+109   1563      krishna kishore        B-1036            .                 340             
+
+110   2200      sri latha              b-1037            .                 170             
+
+111   2449      venu gopal             b-1037            .                 340             
+
+112   2436      sudhakar               b-1037            ...               170             
+
+113   1108      SRINIVAS               B-1039            .                 170             
+
+114   2510      muthulu                b-1039            .                 170             
+
+115   2519      rama krishna           b-1039            .                 380             
+
+116   490       B.PARAMESHWAR          B-1039                              170             
+
+117   1876      g.narasimha            b-1041            .                 170             
+
+118   35        VENKATESHWARULU        B-1042                              340             
+
+119   10        PRABAKAR               B-1043                              170             
+
+120   2463      vijay bhaskar          b-1044            .                 170             
+
+121   2601      narsimha shetty        b-1045            .                 170             
+
+122   2302      MANJUNATH              B-1045            .                 190             
+
+123   2563      s.sai reddy            b-1045            .                 200             
+
+124   2636      k.saidulu              b-1046            .                 100             
+
+125   570       A. VEERAIAH            B-1047                              170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   2607      p.kamala               b-1047            .                 340             
+
+127   2214      rama kumar             b-1048            .                 170             
+
+128   1348      RAM CHANDRA RAO        B-1048                              340             
+
+129   40        BABUSHANKAR            B-1051            .                 690             
+
+130   2517      chaitanya              b-1053            .                 170             
+
+131   957       M.VENKATA REDDY        B-1053            .                 170             
+
+132   2539      ramakrishna reddy      b-1054            .                 170             
+
+133   2147      ramesh babu            b-1054            .                 340             
+
+134   42        S.B.CHARY              B-1054                              340             
+
+135   43        A.VENKATA RAO          B-1055                              170             
+
+136   2609      satish                 b-1056            .                 170             
+
+137   2095      v.ellesh               b-1056            .                 170             
+
+138   2122      ramya                  b-1056            .                 340             
+
+139   2087      srinivas               b-1056            .                 170             
+
+140   2252      SRINIVAS               B-1056            .                 340             
+
+141   2580      mangala                b-1057            .                 190             
+
+142   2464      thirupathi reddy       b-1058            .                 180             
+
+143   2245      MADHU KUMARI           B-1059            .                 170             
+
+144   2547      ramadevi               b-1060            .                 170             
+
+145   46        D.RAMULU               B-1060                              180             
+
+146   1588      SUBASH                 B-1060            .                 170             
+
+147   2461      laxmi                  b-1062            .                 170             
+
+148   2487      anjana                 b-1062            .                 200             
+
+149   2206      v.ravi                 b-1062            .                 170             
+
+150   2082      c.v.shiva reddy        b-1062            .                 130             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   2418      santosh                b-1063            .                 250             
+
+152   1918      UDAY                   B-1063            .                 170             
+
+153   942       SATYANARAYANA          B-1063            .                 340             
+
+154   1958      ARAVINDHA REDDY        B-1063            .                 170             
+
+155   49        NAGAPPA                B-1063                              170             
+
+156   2037      g.vinod                b-1064            .                 170             
+
+157   2237      jagan                  b-1065            .                 340             
+
+158   2220      babu                   b-1065            .                 170             
+
+159   2658      laxmi                  b-1065            .                 170             
+
+160   2584      moulali                b-1066            .                 170             
+
+161   2637      madhu                  b-1067            .                 100             
+
+162   2387      MADHU                  B-1067            .                 1030            
+
+163   279       SATHYAVATHI            B-1068                              170             
+
+164   2054      nagarjuna reddy        b-1069            .                 170             
+
+165   1916      RAMA KRISHNA REDDY     B-1069            .                 340             
+
+166   2367      RAJA VARDHAN REDDY     B-1069            .                 340             
+
+167   2303      RAJU                   B-1069            .                 170             
+
+168   2288      LAXMI NARAYANA         B-1069            .                 340             
+
+169   1517      SUBRAMANYA SHARMA      B-1071            .                 340             
+
+170   2212      v.k.n.r.prasad         b-1071            .                 170             
+
+171   71        SRINIVAS               B-1071            .                 170             
+
+172   2535      JANADHARAN             b-1071.           .                 510             
+
+173   2139      thirupathi             b-1072            .                 180             
+
+174   2422      lokanatham             b-1072            .                 170             
+
+175   1998      t.ravi                 b-1072            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   2620      seshaiah               b-1074            .                 170             
+
+177   2270      C.SUBARAMANYAN         B-1075            .                 340             
+
+178   2516      b.mallikarjun          b-1076            .                 170             
+
+179   59        YADAIAH                B-1076                              170             
+
+180   2043      mohan reddy            b-1076            .                 170             
+
+181   2498      l.h.rayudu             b-1078            .                 680             
+
+182   952       V.RAMAKISHORE          B-1078            .                 340             
+
+183   511       V.S.V.SUBBA RAO        B-1079                              170             
+
+184   61        P.RAMCHANDAR RAO       B-1080                              170             
+
+185   64        M.ANAND                B-1083                              170             
+
+186   67        SHIVA RAM.S.V.M        B-1084            .                 170             
+
+187   68        G.MOTHI RAM            B-1085                              340             
+
+188   2265      g.v.murthy             B-1085            .                 170             
+
+189   2080      prashanth              b-1085            .                 170             
+
+190   1819      DUGRA PRASAD           B-1086            .                 170             
+
+191   2321      PRAMOD                 B-1087            .                 680             
+
+192   2186      chandra raju           b-1087            .                 170             
+
+193   2218      vinod kumar            b-1087            .                 490             
+
+194   800       M. SHIVARAM REDDI      B-1088            .                 170             
+
+195   2051      sathaiah               b-1089            .                 340             
+
+196   1418      SUMATHI                B-1090            .                 170             
+
+197   1659      VENKAT RAMANA          B-1091            .                 170             
+
+198   2060      N.NARSIMHA             B-1092            .                 450             
+
+199   1675      I.KAUSALYA             B-1093            -                 170             
+
+200   2242      RAJU                   B-1093            .                 370             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   1934      PRAmoD                 B-1093            .                 340             
+
+202   76        Y.SOMA NAIDU           B-1095                              340             
+
+203   2227      veermal reddy          b-1095            .                 310             
+
+204   77        SRI RAMULU             B-1096                              340             
+
+205   2571      sureka                 b-1096            .                 170             
+
+206   151       K. PRAVEEN KUMAR       B-1097            .                 170             
+
+207   2419      rafi                   b-1097            .                 340             
+
+208   1915      P.VINOD                B-1099            .                 340             
+
+209   2614      ramesh                 b-1100            .                 240             
+
+210   639       KONDAIAH               B-1100                              170             
+
+211   1890      KRISHNA REDDY          B-1102            .                 170             
+
+212   1902      pavan kumar            b-1102            .                 340             
+
+213   2633      thomas                 b-1102            .                 100             
+
+214   81        B.T.ANANTH             B-1104                              510             
+
+215   1901      SRIKANTAM              b-1104            .                 170             
+
+216   2586      r.venkat               b-1106            .                 340             
+
+217   2296      RAM REDDY              B-1106            .                 170             
+
+218   2062      N.VENKATRATHNAM        B-1106            .                 340             
+
+219   1652      NAGESH                 B-1108            .                 510             
+
+220   2610      G.SRINIVAS             b-1108            .                 170             
+
+221   2500      g.gopal krishna        b-1109            .                 170             
+
+222   2450      narendhar              B-1109            .                 340             
+
+223   84        SUBRAMANYAM            B-1110            .                 150             
+
+224   435       KIRAN MAI              B-1111                              340             
+
+225   2423      changal rao            b-1114            .                 510             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   1159      VENU                   B-1115                              170             
+
+227   89        T.V.RAMANA RAO         B-1116                              170             
+
+228   1126      J.SURYA PRASAD         B-1118                              170             
+
+229   371       SARWESHWAR RAO         B-1118                              150             
+
+230   2168      RAMA KRISHNA           B-1119            .                 340             
+
+231   12        RAVI                   B-1119            .                 220             
+
+232   706       E.NAGAIAH              B-1120            N GOS             170             
+
+233   1996      upendhar               b-1120            .                 680             
+
+234   1580      J. PHANISH KUMAR       B-1120            .                 170             
+
+235   684       RAVI                   B-1121            .                 150             
+
+236   2512      k.ramaiah              b-1121            .                 170             
+
+237   1954      RAGHAVENDHRA KUMAR     B-1122            .                 340             
+
+238   1191      VENKATESHWARLU         B-1123                              170             
+
+239   2410      gopal yadav            b-1124            .                 100             
+
+240   2417      t.baskar               b-1125            .                 170             
+
+241   101       SHEKSIDHA SAHEB        B-1126                              340             
+
+242   102       V.S.SHARMA             B-1127                              170             
+
+243   2363      anil kumar             b-1127            .                 170             
+
+244   2646      m.vijay                b-1127            .                 170             
+
+245   1945      K.PADMAVATHI           B-1128            .                 170             
+
+246   1734      VIJAYA SHANKAR         b-1130            NGO               170             
+
+247   1251      SUBBA RAO              B-1131                              340             
+
+248   2163      KUMARI                 B-1132            .                 150             
+
+249   218       B.JANARDHAN RAO        B-1132                              170             
+
+250   464       BASHA                  B-1134                              510             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   2624      basi mohammad          b-1134            .                 170             
+
+252   2594      l.venkat reddy         b-1134            .                 170             
+
+253   1548      LAL BASHA              B-1134            .                 180             
+
+254   2444      mahaboob basha         b-1134            .                 510             
+
+255   2002      k.rajendhar            b-1136            .                 170             
+
+256   445       GVSS. SHARMA           B-1137            .                 170             
+
+257   109       NARAYANA REDDY         B-1137                              150             
+
+258   1576      J. MALADRI             B-1139            .                 340             
+
+259   194       GANGADHAR              B-1139            .                 340             
+
+260   2359      raju                   b-1139            .                 340             
+
+261   1336      SINGHAIAH              B-1140            .                 220             
+
+262   2294      SHIVA NAGESH RAO       B-1140            ..                300             
+
+263   2393      ravendhar rao          B-1141            .                 270             
+
+264   1519      VENKATESHWAR RAO       B-1142            .                 170             
+
+265   2085      ramchandhar rao        b-1144            .                 170             
+
+266   2371      gANESH RAO             B-1145            .                 170             
+
+267   1785      Kondaiah               B-1145            NGOS              180             
+
+268   114       A.KRISHNA MOHAN        B-1146                              170             
+
+269   2634      y.shekar reddy         b-1147            .                 100             
+
+270   1372      SAAJAN                 B-1147            .                 170             
+
+271   522       KUMAR                  B-1148                              170             
+
+272   116       N.P.CHANDRA PALL       B-1149                              170             
+
+273   2151      k vijay laxmi          B-1150            ..                170             
+
+274   1780      KAMALANATHAN           B-1150            .                 170             
+
+275   2556      surendhar reddy        b-1150            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   2446      g.v.krishna            b-1150            .                 260             
+
+277   2460      somya                  b-1151            .                 170             
+
+278   2173      SURESH RAJU            B-1152            .                 170             
+
+279   205       DHANALAXMI             B-1153                              170             
+
+280   2411      subba rao              b-1155            2 conn            300             
+
+281   2654      wilson                 b-1156            .                 170             
+
+282   123       J.RAJ                  B-1158                              340             
+
+283   786       RAMA KRISHNA           B -1159           .                 170             
+
+284   548       K.RAMULU               B-1159            .                 510             
+
+285   124       GOVIND RAO             B-1159            .                 300             
+
+286   125       SAI KUMAR              B-1160            .                 170             
+
+287   2276      SAI KUMAR              B-1160            .                 170             
+
+288   1024      KRISHNA                B-1160            .                 170             
+
+289   1691      VENKATESH              B-1160            .                 170             
+
+290   1952      ZIYA UDDIN             B-1161            .                 170             
+
+291   2189      naga raju              b-1162            .                 170             
+
+292   2549      MADHAVA RAO            b-1162            .                 340             
+
+293   1558      K.SURYANARAYANA        B-1163            .                 340             
+
+294   2332      g.anil                 b-1164            .                 350             
+
+295   1476      VENKAT REDDY           B-1164            .                 170             
+
+296   127       RAMESH                 B-1165                              170             
+
+297   1733      VENKATESHWARA RAO      B-1165            NGO               170             
+
+298   2018      dhamodhar reddy        b-1166            .                 170             
+
+299   129       K.H.RAO                B-1167                              170             
+
+300   694       KRISHNA                B-1168            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   2606      madhu                  b-1168            .                 510             
+
+302   2537      ajay                   b-1169            .                 170             
+
+303   2653      eswar prasad           b-1171            .                 170             
+
+304   884       M. SIVA SHANKAR        B-1172                              280             
+
+305   2456      ali baig               b-1173            .                 340             
+
+306   2160      ramesh                 B-1174            .                 170             
+
+307   2187      srinivas               b-1174            .                 170             
+
+308   2385      MD.EHTESHAMUDDAN       B-1174            .                 350             
+
+309   2457      v.srinivas             b-1174            .                 170             
+
+310   630       P. GOVARDHAN           B-1175                              170             
+
+311   2207      j.ramana reddy         b-1176            .                 170             
+
+312   2230      vali                   b-1177            .                 340             
+
+313   718       PRASAD                 B-1178                              170             
+
+314   1618      V.NAGESH               B-1178            .                 170             
+
+315   1484      LAVANYA                B-1179            .                 340             
+
+316   2577      sandya rani            b-1180            .                 170             
+
+317   1984      nanda kishore          b-1180            .                 430             
+
+318   137       K.HARINATH             B-1180                              170             
+
+319   2495      laxmi                  b-1181            .                 170             
+
+320   2651      v.naga shashi          b-1182            .                 170             
+
+321   790       G.KUMAR                B-1184                              170             
+
+322   1590      K.V.R.SHARMA           B-1185            .                 170             
+
+323   550       CH.RAJESHWAR RAO       B-1187            .                 150             
+
+324   2113      JAI KISAN              B-1187            .                 150             
+
+325   1912      RAVI BABU              B-1189            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+326   2588      channaiah              b-1190            .                 170             
+
+327   564       D.V.N.SHARMA           B-1191                              170             
+
+328   1138      SWAMY DAS              B-1192                              180             
+
+329   2603      raju                   b-1194            .                 340             
+
+330   2304      T.MADAN MOHAN RAO      B-1194            .                 170             
+
+331   797       KAMAL                  B-1195                              170             
+
+332   2561      vijay kumar            b-1195            .                 170             
+
+333   1959      P.A.SHARMA             B-1196            .                 170             
+
+334   1301      GANESH                 B-1197                              680             
+
+335   604       P.BHASKAR REDDY        B-1197                              170             
+
+336   1416      D.BHASKAR              B-1197            .                 170             
+
+337   2226      p.ramu                 b-1197            .                 490             
+
+338   329       NAGARAJ                B-1198                              170             
+
+339   932       VENKATESH              B-1198                              170             
+
+340   448       PRAVEEN                B-1201                              340             
+
+341   1825      venu                   B-1202            .                 170             
+
+342   2007      istry shop             b-1204/a          .                 550             
+
+343   2616      nageswar rao           b-1204            .                 340             
+
+344   920       INDIRA                 B-1205                              340             
+
+345   2648      rama kumar             b-1206            .                 170             
+
+346   2282      RAJASHEAKR GOUD        B-1207            .                 510             
+
+347   2434      narendhar              b-1208            .                 170             
+
+348   156       G.VINOD KUMAR          B-1209            .                 150             
+
+349   2640      swarupa                b-1210            .                 170             
+
+350   2608      srinu                  b-1210            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+351   1985      abraham                b-1210            .                 170             
+
+352   96        NIKIT KUMAR            B-1210                              180             
+
+353   2091      nirajan                b-1211            .                 170             
+
+354   2382      ANJANEYULU             B-1211            .                 170             
+
+355   1923      VENKATESH              B-1211            .                 340             
+
+356   1411      RAVI                   B-1212            .                 510             
+
+357   1329      LAXMAN                 B-1213                              170             
+
+358   1584      S.V. SRINU             B-1213            .                 170             
+
+359   157       R.JAYA PRASAD          B-1213                              170             
+
+360   2501      sujatha                b-1213            .                 170             
+
+361   2019      jarina                 b-1213            .                 290             
+
+362   159       B.ARUN KUMAR           B-1214                              170             
+
+363   446       D.V.NIRMALA            B-1215                              170             
+
+364   2289      PRAKESH                B-1216            .                 340             
+
+365   2459      venkatesh              b-1217            .                 1700            
+
+366   2395      yadu kondalu           b-1217            .                 850             
+
+367   2618      gopal                  b-1218            .                 170             
+
+368   162       M.SATYANARAYANA        B-1219                              170             
+
+369   2528      praveen                b-1219            .                 170             
+
+370   2211      p.shankar              b-1219            .                 290             
+
+371   997       ANAND                  B-1220            .                 340             
+
+372   165       V.SATYANARAYANA        B-1221                              170             
+
+373   1359      M.NAGA RAJU            B-1221            .                 340             
+
+374   730       D. BALA KRISHNA        B-1222                              170             
+
+375   1653      P.NAGESHWAR RAO        B-1222            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+376   2066      VENKATESHWER RAO       B-1222            .                 170             
+
+377   93        SRINIVAS               B-1223                              170             
+
+378   2438      rama krishna           b-1225            ...               120             
+
+379   1766      Chandra mouli          B-1226            NGO               170             
+
+380   2631      ch.santosh             b-1226            .                 100             
+
+381   1741      SRINIVAS               B-1228            .                 0               
+
+382   1181      CHANNAKESHAVALU        B-1228            .                 520             
+
+383   2247      shakti swarop          b-1229            .                 170             
+
+384   1644      S.RAMU                 B-1230            .                 170             
+
+385   2621      murali                 b-1231            .                 170             
+
+386   1814      VIJAY KUMAR            B-1231            .                 410             
+
+387   1650      SARADHA                B-1231            .                 380             
+
+388   2216      srinivas               b-1231            .                 340             
+
+389   185       P.RAM MOHAN RAO        B-1233                              340             
+
+390   458       NAGESHWAR RAO          B-1235            .                 170             
+
+391   2150      r.s.bharathi           b-1236            ...               200             
+
+392   1866      ganesh                 b-1237            .                 340             
+
+393   174       P.P.PRASAD             B-1238                              170             
+
+394   2250      A.MAHENDER             B-1238            .                 170             
+
+395   1591      FAZAL                  B-1239            .                 170             
+
+396   2362      asad                   b-1239            .                 1000            
+
+397   2458      suman                  b-1240            .                 510             
+
+398   178       SUDHAKAR               B-1241                              170             
+
+399   180       R.S.RAM MURTHY         B-1243                              170             
+
+400   2553      mani kanth sharma      b-1244            .                 270             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+401   561       M.PULLAIAH             B-1245            .                 170             
+
+402   2551      venkat rao             b-1245            .                 170             
+
+403   181       M.JAI KUMAR            B-1247                              170             
+
+404   2140      j.bhoomaiah            b-1248            .                 170             
+
+405   2415      shashagiri rao         b-1248            .                 510             
+
+406   2413      sayed                  b-1249            .                 310             
+
+407   2348      m.d.hussan             B-1249            .                 170             
+
+408   2545      YADAIAH                b-1249            .                 510             
+
+409   183       G.N.APPA RAO           B-1249                              170             
+
+410   2638      shair kareen           b-1249            .                 170             
+
+411   2471      b.chandrakala          b-1250            .                 170             
+
+412   2644      thirumallesh           b-1250            .                 170             
+
+413   2622      B.ram babu             b-1251            .                 170             
+
+414   2441      koteshwar rao          b-1251            .                 170             
+
+415   188       SURESH                 B-1252            .                 120             
+
+416   1007      D.HANUMANTHA RAO       B-1255            .                 170             
+
+417   427       LAXMI                  B-1257                              170             
+
+418   1395      B.RAMA LINGAM          B-1258            .                 510             
+
+419   2333      sai babu               b-1258            .                 340             
+
+420   2164      a.vijay babu           B-1259            .                 170             
+
+421   1551      ANOOP                  B-1260            .                 170             
+
+422   195       SRI HARSHA             B-1261                              170             
+
+423   1387      P.V.RANGACHARYULU      B-1262            .                 170             
+
+424   2231      rajesh                 b-1262            .                 340             
+
+425   2379      SRI KANTH REDDY        B-1262            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+426   193       K.K.REDDY              B-1263            .                 170             
+
+427   2074      s.annapurna            b-1264            .                 510             
+
+428   529       L. RAO                 B-1265                              340             
+
+429   1481      MOHAN PRASAD           B-1267            .                 170             
+
+430   1710      m.s kumar              b-1267            NGO               170             
+
+431   2347      p.s.r.gopala rao       b-1267            .                 270             
+
+432   200       P.BADRAIAH             B-1269                              340             
+
+433   2566      gopal yadav            b-1270            .                 310             
+
+434   2481      sumitha                b-1270            .                 170             
+
+435   2445      m.narsimha             b-1270            .                 750             
+
+436   203       K.LAXMI KANTHAMMA      B-1271            2CONNECTIONS      300             
+
+437   2439      surya prakesh          b-1274            .                 510             
+
+438   206       SUGHUNA                B-1275                              150             
+
+439   2514      ramesh                 b-1283            .                 170             
+
+440   2271      venkateshwar rao       B-1285            .                 680             
+
+441   2599      srinath reddy          b-1286            .                 170             
+
+442   2088      arun kumar             b-1286            .                 340             
+
+443   212       KRISHNA                B-1286                              340             
+
+444   2515      vallidulla khan        b-1287            .                 170             
+
+445   1330      CH.VP. SHARMA          B-1288                              170             
+
+446   2564      abdul gagaru           b-1289            .                 330             
+
+447   2312      raviender              b-1289            .                 170             
+
+448   2518      umadevi                b-1290            .                 340             
+
+449   2576      mahendhar              b-1291            .                 170             
+
+450   215       SUMANTH KUMAR          B-1291                              340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+451   105       E.SAI BHASKAR          B-1292                              340             
+
+452   1694      VENU GUPAL             B-1292            .                 170             
+
+453   485       B.ARJUNA               B-1293                              340             
+
+454   216       M.P.SHARMA             B-1295                              170             
+
+455   2475      g.ram reddy            b-1297            .                 170             
+
+456   794       RAJU                   B-1298            .                 170             
+
+457   1999      uma rani               b-1299            .                 510             
+
+458   2527      nageshwar rao          b-1300            .                 340             
+
+459   95        D.USHA KIRAN           B-1300                              340             
+
+460   219       E.B.NAIDU              B-1300                              180             
+
+461   222       V.UPENDAR              B-1301                              340             
+
+462   223       T.KARUNAKAR            B-1302                              170             
+
+463   2503      sunil prabhakar        b-1302            .                 340             
+
+464   1568      Venkat Rao             B-1303            .                 170             
+
+465   2259      D.MURTHY               B-1303            .                 340             
+
+466   2273      SHANKARIAH             B-1304            .                 340             
+
+467   2635      pothalaiah             b-1304            .                 100             
+
+468   2649      ch.srinivas            b-1304            .                 170             
+
+469   2396      laxmi                  B-1306            .                 340             
+
+470   225       SHAM                   B-1307            .                 170             
+
+471   2567      bharth reddy           b-1308            .                 170             
+
+472   2613      k.gayathri             b-1308            .                 170             
+
+473   778       T.GANAPATHI            B-1309                              170             
+
+474   2650      ragavulu               b-1310            .                 170             
+
+475   2178      suresh                 b-1312            .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+476   229       P.KRISHNA MURTHY       B-1312            .                 150             
+
+477   2272      C.VENKAT               B-1313            .                 170             
+
+478   2587      deepak                 b-1314            .                 280             
+
+479   1571      Narsi Reddy            B-1315            .                 170             
+
+480   2004      mahendra reddy         b-1315            .                 340             
+
+481   2467      padma                  b-1315            .                 340             
+
+482   2158      madhu                  b-1317            .                 510             
+
+483   2595      sydulu                 b-1319            .                 170             
+
+484   1942      B.SRINIVAS RAO         B-1321            .                 340             
+
+485   239       M.SRINIVAS             B-1321            .                 340             
+
+486   2228      p.pavan kumar          b-1321            .                 340             
+
+487   605       A. MADHUSUDHAN         B - 1322                            170             
+
+488   2006      s.b saheb              b-1323            .                 270             
+
+489   56        G.GANGADHAR            B-1327                              170             
+
+490   2506      k.nageshwar rao        b-1328            .                 170             
+
+491   875       G.N.KUMAR              B-1328            .                 170             
+
+492   11        VENKATARAMANA          B-1329            .                 340             
+
+493   2573      k.v.v.prasad           b-1329            .                 170             
+
+494   890       CH.VD. PRASAD          B-1329            .                 340             
+
+495   2589      m.p.sharma             b-1330            .                 170             
+
+496   1747      BHAGHYAMMA             B-1331            .                 530             
+
+497   2201      v.srinivas rao         b-1333            .                 510             
+
+498   1748      P.SUDHAKAR REDDY       B-1334            .                 340             
+
+499   289       G.SRINIVAS             B-1337                              170             
+
+500   2365      D.V.SUBBARAMAYA        B-1338            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+501   1095      D . SURYA KIRAN KUMA   B-1338            .                 170             
+
+502   1913      ZAREENA                B-1339            .                 340             
+
+503   1555      M.SUBRAMANYAM          B-1341            .                 510             
+
+504   250       D.NARAYANA SWAMY       B-1341            .                 330             
+
+505   2299      SASTRY                 B-1342            .                 270             
+
+506   2283      SHAM                   B-1342            .                 170             
+
+507   846       SRIKANTH               B -1343                             270             
+
+508   2349      RAMA KRISHNA           B-1343            .                 280             
+
+509   1365      RAJU                   B-1343            .                 360             
+
+510   959       RAGHAVENDRA            B-1344            .                 170             
+
+511   566       PRASAD                 B-1345                              170             
+
+512   1289      K. SRINIVAS            B-1346                              170             
+
+513   2390      SRIKANTH               B-1347            .                 180             
+
+514   1953      SURATH BABU            B-1348            .                 340             
+
+515   2627      k.v.ramesh             b-1349            .                 170             
+
+516   2407      sathu reddy            b-1349            .                 170             
+
+517   257       R.V.G.S.PRASAD         B-1351                              340             
+
+518   2647      arjun naik             b-1353            .                 170             
+
+519   2625      joseph                 b-1353            .                 170             
+
+520   2632      mallesh                b-1353            .                 100             
+
+521   2489      t.t.swamy              b-1354            .                 340             
+
+522   2432      APPA RAO               B-1355            .                 690             
+
+523   2522      laxman rao             b-1357            .                 170             
+
+524   853       VARMA                  B-1359                              200             
+
+525   2546      BEAUTYPAROLUR          b-1364            .                 1190            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+526   2129      m.srinivas             b-1364            .                 600             
+
+527   2440      SAGAR                  b-1364            .                 170             
+
+528   2598      prasad                 b-1365            .                 340             
+
+529   2488      b.balaraj              b-1367            .                 570             
+
+530   2486      VENKATESHWARULU        b-1367            .                 340             
+
+531   2320      g.anjaneyulu           B-1367            .                 170             
+
+532   2619      m.narasimha            b-1367            .                 170             
+
+533   269       B.BALARAJU             B-1367            .                 120             
+
+534   1091      ARUN KUMAR             B-1371                              340             
+
+535   2472      shankar                b-1372            .                 850             
+
+536   276       C.V.VIJAY KUMAR        B-1372                              480             
+
+537   976       PRASAD                 B-1372            .                 680             
+
+538   2315      srinivas               b-1372            .                 170             
+
+539   2642      srikanth               b-1374            .                 170             
+
+540   2389      M.B.K.RAJU             B-1374            .                 340             
+
+541   1973      SUBRAMANYAM            B-1374            .                 340             
+
+542   1630      LATHA DENTAL  CLINIC   B-1376            -                 170             
+
+543   571       P.PAVAN KUMAR          B-1376                              340             
+
+544   759       NAVEEN                 B-1376                              340             
+
+545   1661      KRISHNA  REDDY         B-1377            -                 340             
+
+546   1772      Anjaneyulu             B-1377            NGO               190             
+
+547   1931      VENKATRA               B-1378            .                 460             
+
+548   929       RAGHUNATH              B-1379            .                 170             
+
+549   2233      satish                 b-1379            .                 340             
+
+550   1497      K. SATISH              B-1380            .                 390             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+551   1495      RAMU                   B-1380            .                 170             
+
+552   1966      m.padmini              B-1380            .                 340             
+
+553   2474      surya narayana         b-1381            .                 170             
+
+554   2402      pradeep                b-1381            .                 600             
+
+555   1612      RAMA RAO C.H           B-1382            .                 1010            
+
+556   2205      ragunathan             b-1383            .                 340             
+
+557   288       P.SOUDAMANI            B-1384                              170             
+
+558   2269      PRAVEEN                B-1385            .                 170             
+
+559   2246      MALLA REDDY            B-1385            .                 170             
+
+560   1230      SAI BABA               B-1386                              170             
+
+561   491       M. SAMBA SHIVA RAO     B-1387                              170             
+
+562   2112      S.HARI BABU            B-1388            .                 170             
+
+563   48        BHAVANAMMA             B-1389                              170             
+
+564   2071      govind                 b-1390            .                 170             
+
+565   1683      SHEKAR SINGH           B-1390            .                 100             
+
+566   2268      B.V.L.N.MURTHY         B-1392            .                 250             
+
+567   2569      kiran                  b-1392            .                 170             
+
+568   1932      DHARSHARAD  GOUD       B-1393            .                 510             
+
+569   2116      G.SRINIVAS             B-1394            .                 170             
+
+570   2399      ravi                   b-1394            .                 310             
+
+571   2565      l.sairam               b-1396            .                 340             
+
+572   2655      rajesh                 b-1399            .                 170             
+
+573   2568      santosh                b-1399            .                 170             
+
+574   300       S.KRISHNA MURTHY       B-1399                              170             
+
+575   2578      satya rao              b-1400            .                 850             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+576   302       GOPALA SWAMY           B-1400                              170             
+
+577   1410      SESHINDRA              B-1400            .                 170             
+
+578   2403      koteshwar rao          b-1401            .                 340             
+
+579   1882      VENKATESH              B-1401            .                 360             
+
+580   303       D.RATHNAM              B-1401                              170             
+
+581   2617      rama chary             b-1402            .                 340             
+
+582   507       P.VENKANNA BABU        B-1403                              340             
+
+583   2398      mahender               b-1404            .                 510             
+
+584   913       VM.REDDY               B-1404            .                 340             
+
+585   1987      leeladhar              b-1404            .                 510             
+
+586   642       S.PURUSHOTHAMA REDDY   B-1404                              120             
+
+587   867       K.V.RAMESH             B-1406            .                 510             
+
+588   517       S.V.SASTRY             B-1406            .                 170             
+
+589   2560      PRAVEEN KUmar          b-1410            .                 170             
+
+590   2597      p.jaya paval           b-1412            .                 170             
+
+591   2611      p.ram murhty           b-1413            .                 170             
+
+592   792       SRIKANTH               B-1415                              340             
+
+593   599       ABDUL SUKUR            B-1416                              170             
+
+594   575       PRABAKAR               B-1417                              170             
+
+595   969       VAMSHI                 B-1418                              340             
+
+596   2593      SATYA NARAYANA         b-1419            .                 170             
+
+597   1921      SHANKAR1               B-1420            .                 170             
+
+598   2357      K.RAM MURTHY           B-1422            .                 170             
+
+599   2552      srikanth               b-1423            .                 510             
+
+600   2478      srinivas               b-1423            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+601   437       B.SATYANARAYANA        B-1425                              170             
+
+602   316       T.C.RAMESH KUMAR       B-1426                              170             
+
+603   1654      BHARGAVA               b-1426            .                 170             
+
+604   2493      n.appa rao             b-1426            .                 340             
+
+605   2058      annop kumar            b-1426            .                 170             
+
+606   2338      shetal                 b-1426            .                 730             
+
+607   186       ANURADHA               B-1427                              170             
+
+608   317       K.SUDHAKAR             B-1428                              340             
+
+609   318       D.VENKATESHWARA RAO    B-1429                              150             
+
+610   2623      nagabhushanam          b-1430            .                 340             
+
+611   320       G.PRABAKAR             B-1431                              170             
+
+612   241       YADAV REDDY            B-1432                              150             
+
+613   322       K.ANANTHA SWAMY        B-1433            2CONNECTIONS      230             
+
+614   2505      ramchandhar rao        b-1434            .                 680             
+
+615   82        NARASHIMULU            B-1434                              340             
+
+616   325       S.SRINIVAS RAO         B-1435                              340             
+
+617   326       T.SATYANARAYANA        B-1438                              170             
+
+618   496       R.SRI HARI RAO         B-1439                              170             
+
+619   1629      RAM PRAKASH            B-1441            -                 340             
+
+620   1771      Goutham goud           B-1441            2 conn            300             
+
+621   1553      ROSE FOOTWARE          B-1442            .                 150             
+
+622   1384      BHAVARLAL CHOWDARY     B-1442            .                 170             
+
+623   2369      varesh pearls          b-1442            .                 510             
+
+624   2483      shashalu               b-1442            .                 340             
+
+625   1638      PRASAD                 B-1442            .                 1030            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+626   1579      YOUSUF                 B-1442            .                 700             
+
+627   1546      BEAUTYPAROLUR          B-1442            .                 170             
+
+628   330       A.CHANDRA MOHAN        B-1443                              170             
+
+629   2065      K.V.RAO                B-1445            .                 170             
+
+630   345       MANOHAR                B-1446                              170             
+
+631   2170      SUDHIR.N               B-1448            .                 510             
+
+632   2401      aravind kumar          B-1449            ..                1360            
+
+633   171       B.GOVIND               B-1449                              120             
+
+634   1690      SACHIN KUMAR           B-1449            .                 170             
+
+635   2490      niharika               b-1449            .                 340             
+
+636   1935      N.VIJAY KUMAR          B-1450            .                 750             
+
+637   411       K.SOORI BABU           B-1451                              340             
+
+638   2591      sagar                  b-1451            .                 340             
+
+639   1992      b.l.k kishore          b-1451            .                 340             
+
+640   337       KRISHNA RAO            B-1452            .                 430             
+
+641   2643      k.leelavathi           b-1452            .                 170             
+
+642   1123      RAMANA                 B-1454                              340             
+
+643   2557      BALAIAH                b-1454            .                 170             
+
+644   1174      UMA SHANKAR            B-1455                              170             
+
+645   508       A.SHESHAGIRI RAO       B-1456                              510             
+
+646   2295      AMITH REDDY            B-1457            .                 170             
+
+647   1527      RAJ SHEKAR             B-1457            .                 170             
+
+648   342       O.RAMACHANDRA RAO      B-1458            .                 300             
+
+649   695       N.SRINIVAS             B-1462                              510             
+
+650   2524      s.kanchana             b-1462            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+651   2509      s.k.abdulla            b-1462            .                 170             
+
+652   347       D.SURYANARAYANA        B-1463            1 CONN            430             
+
+653   2316      P.S.BASKAR             B-1463            .                 340             
+
+654   217       SUDHEER                B-1464                              340             
+
+655   973       D. INDIRA SINDHOOR     B-1465            .                 150             
+
+656   2203      vinay                  b-1465            .                 180             
+
+657   350       SRI THIRUMAL STORE     B-1466                              340             
+
+658   2626      prasad                 b-1467            .                 170             
+
+659   2641      rameshwar rao          b-1467            .                 170             
+
+660   1536      MALLESH                B-1468            .                 170             
+
+661   526       V.S. RAMA CHANDRA RA   B-1468            .                 170             
+
+662   2437      b.yadagiri             b-1469            ...               340             
+
+663   356       P.KRISHNA              B-1471                              170             
+
+664   2473      purna                  b-1471            .                 310             
+
+665   354       G.SATYANARAYANA        B-1472                              170             
+
+666   1854      sunitha                b-1473            .                 340             
+
+667   444       YELLAIAH               B-1474            .                 210             
+
+668   2504      rajendhar              b-1474            .                 420             
+
+669   501       JYOTHI                 B-1475/A                            170             
+
+670   357       CH.D.RAMAIAH           B-1475                              170             
+
+671   418       VAMSHI                 B-1476                              170             
+
+672   636       SADHARSHAN SHINGH      B-1477            .                 340             
+
+673   968       SRINIVASA RAO          B-1480                              340             
+
+674   361       C.SAROJINI             B-1480                              170             
+
+675   2172      MURLIDAR RAO           B-1480            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+676   1666      RAVI  BABU             B-1481            -                 170             
+
+677   914       BHUSHAN RAO            B-1481                              170             
+
+678   2465      durga prasad           b-1482            .                 510             
+
+679   1611      KAVITHA                B-1482            .                 720             
+
+680   2538      varma                  b-1482            .                 170             
+
+681   2356      RAJ SHEKAR             B-1484            .                 280             
+
+682   1759      A.V.S.SASTRY           B-1485            .                 170             
+
+683   2340      SURESH                 b-1489            .                 220             
+
+684   2400      ganesh                 b-1490            .                 340             
+
+685   2193      shirish kanth          b-1491            .                 170             
+
+686   1990      p.nagshwar rao         b-1492            .                 170             
+
+687   2582      venkatesh              b-1493            .                 170             
+
+688   370       A.THIRUPALAIAH         B-1493            .                 510             
+
+689   2034      suresh                 b-1493            .                 170             
+
+690   1025      UMA MAHESWAR RAO       B-1494            .                 510             
+
+691   781       DR.VENKATESHWARLU      B-1494                              170             
+
+692   1596      PREM KUMAR             B-1495            .                 680             
+
+693   2287      ARUNA                  B-1495            .                 170             
+
+694   374       THANVEER FATIMA        B-1498            .                 340             
+
+695   2639      m.v.l.n.sharma         b-1499            .                 170             
+
+696   2602      moulaham               b-1499            .                 170             
+
+697   2600      Babulal chowdhary      b-1499            .                 170             
+
+698   375       A.KUMAR                B-1500                              170             
+
+699   1077      L.V.ARJUNUDU           B-1500            .                 340             
+
+700   2462      bala kotaiah           b-1502            .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+701   1777      G.bikshapathi          B-1502            NGO               680             
+
+702   378       NARAYANA REDDY         B-1505                              170             
+
+703   2574      SWAMULU                b-1507            .                 170             
+
+                                                                    	----------
+                                                                    	193570
+                                                                    	----------
+
+                                END OF THE REPORT

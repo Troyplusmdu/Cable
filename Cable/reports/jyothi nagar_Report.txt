@@ -1,0 +1,61 @@
+
+                                     DUE LIST
+                                     --------
+Area : jyothi nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     25        ramanamma              .                 .                 100             
+
+2     11        srinivas reddy         pt.no:18          .                 150             
+
+3     9         sky computers          pt.no:23          .                 50              
+
+4     10        sri reddy brothers     pt.no:23          .                 50              
+
+5     20        sri sai ram bangeel    pt.no:32          .                 50              
+
+6     19        ...                    pt.no:33          .                 50              
+
+7     18        simhachalam            pt.no:33          .                 50              
+
+8     17        mayuri hairstyle       pt.no:33/a        .                 100             
+
+9     23        raj kumar              pt.no:39          .                 50              
+
+10    22        k.k.nagar              pt.no:39          .                 150             
+
+11    21        rini tailors           pt.no:39          .                 50              
+
+12    24        suresh                 pt.no:39/a        .                 50              
+
+13    16        jaga reddy             h.no:8-6/1        .                 150             
+
+14    15        ravindhar              h.no:8-6/1        .                 100             
+
+15    14        jyothi                 h.no:8-6/1        .                 100             
+
+16    13        balu goud              h.no:8-6/2        .                 50              
+
+17    12        sridhar                h.no:8-6/2        .                 50              
+
+18    8         venkatesh              h.no:8-52/1       .                 50              
+
+19    4         yoganadh               h.no:8-52/1/1     .                 150             
+
+20    7         krishna                h.no:8-52/2/1     .                 50              
+
+21    6         ravi                   h.no:8-52/2/1     .                 150             
+
+22    5         devendhar              h.no:8-52/2/1     .                 150             
+
+23    26        aravind                44                .                 50              
+
+                                                                    	----------
+                                                                    	1950
+                                                                    	----------
+
+                                END OF THE REPORT

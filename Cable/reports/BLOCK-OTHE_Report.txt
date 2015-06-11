@@ -1,0 +1,99 @@
+
+                                     DUE LIST
+                                     --------
+Area : BLOCK-OTHE
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     571       post office            .                 .                 300             
+
+2     570       normal mess            .                 .                 300             
+
+3     565       d.r.d.l nd d s c       .....             .                 900             
+
+4     569       sweet house            ......            .                 400             
+
+5     497       SWEET HOUSE            .......           .                 300             
+
+6     511       NAVAL MESS             ...........       .                 400             
+
+7     475       APOLLO                 APOLLO HOSPITAL                     1600            
+
+8     440       D. AMAR BABU           DOCT QURT SQ                        155             
+
+9     466       HOSTAL                 DOCTORS QURTS                       275             
+
+10    554       SHASTRY                F5(SQ)            .                 210             
+
+11    482       G. MARUTHI             FOOT WEAR SHOP    .                 300             
+
+12    533       R.S.P.                 GENERAL STORE     .                 300             
+
+13    324       SUDHAKAR               HAIR CUTTING                        200             
+
+14    516       BHASKAR                II FLOOR          .                 100             
+
+15    473       MIDHANI                MIDHANI GSTHS (12C                  1800            
+
+16    368       K.LAXMAN               NAVALMESS-SQ                        780             
+
+17    43        MOSES                  OR-T.V.SHOP       -                 310             
+
+18    540       TAJ.V.MARKET           OTHER             -                 100             
+
+19    537       ...........            POST OFFICE       .                 200             
+
+20    367       MILK SHOP              SAI OTHERS                          100             
+
+21    534       SANTHOSH               TEA SHOP          .                 200             
+
+22    333       SURENDER REDDY         TENT HOUSE                          200             
+
+23    221       J.N.RAO                TYPE I/D                            150             
+
+24    468       VEERABHADRA REDDY      TYPE-II/C                           0               
+
+25    568       krishna kanth          or 1/4            .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    573       suresh                 or 4/4            .                 300             
+
+27    567       sujith                 or 4/4            .                 200             
+
+28    574       titender singh         or 3/7            .                 300             
+
+29    553       JITENDER               OR4/9             .                 0               
+
+30    563       rambeer singh          or 4/10           .                 200             
+
+31    499       PRATAP SINGH           JC-1/4            .                 300             
+
+32    253       JAGADISH SINGH         JC-1/5            .                 100             
+
+33    486       A.K. PARIDA            OR-3/3            .                 400             
+
+34    564       jitender singh         or-3/7            .                 100             
+
+35    572       bharth                 or-4/3            .                 400             
+
+36    102       SHASTRY                TYPE-11/A                           875             
+
+37    544       OFFICER MESS           1-7               .                 710             
+
+38    562       radho                  2 grand flour     .                 250             
+
+39    551       K.PRASAD               3/13              drdo              100             
+
+40    545       OFFICER MESS           8-14              .                 900             
+
+                                                                    	----------
+                                                                    	15015
+                                                                    	----------
+
+                                END OF THE REPORT

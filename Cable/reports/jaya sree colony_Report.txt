@@ -1,0 +1,159 @@
+
+                                     DUE LIST
+                                     --------
+Area : jaya sree colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     77        raju                   hut               .                 150             
+
+2     84        ANJANEYULU             HUT               .                 150             
+
+3     78        baghaiamma             hut               .                 1400            
+
+4     100       l.m.tywari             5-1               .                 0               
+
+5     106       koteshwar rao          5-1/1             .                 0               
+
+6     99        narsimha reddy         5-1/1             .                 0               
+
+7     5         RAGHU RAM SHARMA       5-5               .                 150             
+
+8     6         BRAHMAN                5-6               .                 300             
+
+9     75        JAGADESH GOUD          5-6               .                 300             
+
+10    8         A.B.REDDY              5-9               .                 250             
+
+11    89        kiran                  5-10              .                 1200            
+
+12    10        P.T.G.KUTTY            5-11              .                 300             
+
+13    105       sandeep                5-12              .                 0               
+
+14    85        sai                    5-12              .                 1800            
+
+15    69        HARI KIRAN             5-15              .                 400             
+
+16    14        PRASAD                 5-16              .                 600             
+
+17    15        C.H.RAMESH             5-17              .                 500             
+
+18    86        samba shiva rao        5-18              .                 0               
+
+19    17        NINAM                  5-19              .                 350             
+
+20    93        sudharshan             5-20              .                 300             
+
+21    19        VISHWANATHAM           5-21              .                 0               
+
+22    20        ANIL                   5-23              .                 1000            
+
+23    63        BALA KRISHNA           5-25              .                 300             
+
+24    22        RAJAMALLAIAH           5-25              .                 50              
+
+25    23        PENTAIAH               5-26              .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    25        B.LAXMI NARAYANA       5-27              .                 150             
+
+27    104       ramana                 5-29              .                 0               
+
+28    26        SAMBA SHIVA RAO        5-29              .                 150             
+
+29    92        surendhar              5-30/1            .                 450             
+
+30    96        navanitha              5-30              .                 300             
+
+31    95        kalish                 5-31              .                 450             
+
+32    30        CHANDRA                5-32              .                 50              
+
+33    31        VENKATESHWARA          5-33/1            .                 100             
+
+34    76        anand                  5-34              .                 150             
+
+35    34        KIRAN KUMAR            5-34              .                 350             
+
+36    36        SATISH                 5-36              .                 1200            
+
+37    35        ARUNA DEVI             5-36              .                 750             
+
+38    94        kiran                  5-36              .                 0               
+
+39    87        dhanaraju              5-39              .                 1200            
+
+40    90        siddu                  5-39              .                 400             
+
+41    98        KAVITHA                5-39              .                 0               
+
+42    37        SHANKARAIAH            5-41              .                 450             
+
+43    38        SARVA RAYUDU           5-43              .                 150             
+
+44    97        ganadhar               5-43              .                 0               
+
+45    81        murali                 5-44              .                 200             
+
+46    39        NARSIMHA RAO           5-45              .                 300             
+
+47    41        AMRUTHA                5-47              .                 450             
+
+48    60        kashwav rao            5-49              .                 150             
+
+49    73        praveen kumar          5-50              .                 100             
+
+50    42        TRISHUL                5-51              .                 250             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    43        BALA KRISHNA           5-52              .                 300             
+
+52    46        SRINU                  5-53              .                 450             
+
+53    83        OBUPAPPLA              5-54              .                 0               
+
+54    88        suresh reddy           5-54              .                 0               
+
+55    72        RAJA SHAKAR            5-54              .                 0               
+
+56    103       venkateshwarlu         5-55              .                 0               
+
+57    102       shamba shiva rao       5-56              .                 0               
+
+58    82        ramu                   5-58              .                 150             
+
+59    107       chandrakala            5-59              .                 0               
+
+60    51        KULKARNI               5-59              .                 0               
+
+61    50        TYRGI                  5-59              .                 300             
+
+62    52        VENKAT RAMANA          5-62              .                 1050            
+
+63    101       venkat ramana          5-62              .                 0               
+
+64    53        PREM KUMAR             5-63              .                 300             
+
+65    54        BRAHMAM                5-64              .                 150             
+
+66    55        K.G.DAMODAR            5-65              .                 300             
+
+67    57        RAJESH                 5-67              .                 300             
+
+68    91        prem kumar             5-68/1            .                 0               
+
+                                                                    	----------
+                                                                    	20700
+                                                                    	----------
+
+                                END OF THE REPORT

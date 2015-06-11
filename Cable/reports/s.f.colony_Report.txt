@@ -1,0 +1,213 @@
+
+                                     DUE LIST
+                                     --------
+Area : s.f.colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     68        SRIVINAYAKA CHIPS      27/1              s.f.colony        720             
+
+2     91        mullaram               27/1              s.f.colony        180             
+
+3     63        prabhakar reddy(2C)    27/1              s.f.colony        270             
+
+4     65        chidhanandham          27/1              s.f.colony        180             
+
+5     101       mahalaxmi enter.p      27/1              s.f.colony        240             
+
+6     66        R.G.WORLD              27/1              s.f.colony        0               
+
+7     70        decent fashion         27/1              s.f.colony        330             
+
+8     42        p.v.prasadh            32                s.f.colony        30              
+
+9     41        narayana               32                s.f.colony        300             
+
+10    103       v.laxman               33                s.f.colony        240             
+
+11    39        lalitha                34/a              s.f.colony        320             
+
+12    40        n.manik rao goud       34                s.f.colony        20              
+
+13    92        n.vijaykumar           34                s.f.colony        0               
+
+14    104       m.v.shiva reddy        34                s.f.colony        540             
+
+15    95        masthanaiah            35/a              s.f.colony        0               
+
+16    36        narsimha               35                s.f.colony        360             
+
+17    93        saidhulu               36                s.f.colony        440             
+
+18    94        komraiah               36                s.f.colony        0               
+
+19    31        a.janga reddy          37                s.f.colony        180             
+
+20    35        g.sudhakar             37                s.f.colony        0               
+
+21    32        c.balakrishna          37                s.f.colony        0               
+
+22    33        srinivas               37                s.f.colony        0               
+
+23    30        b.krishna reddy        39/a              s.f.colony        0               
+
+24    27        anjaiah                40                s.f.colony        0               
+
+25    26        buchibabu              40                s.f.colony        40              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    28        maheshwar rao          40                s.f.colony        0               
+
+27    21        k.venkateshwar rao     40                s.f.colony        0               
+
+28    25        malyadhri              40                s.f.colony        0               
+
+29    24        narayana               40                s.f.colony        0               
+
+30    22        dasharath              40                s.f.colony        160             
+
+31    29        venkat reddy           41                s.f.colony        180             
+
+32    111       shivashanker rao       41                s.f.colony        0               
+
+33    112       b.venkatesh            41                s.f.colony        0               
+
+34    14        narayana               42                s.f.colony        -20             
+
+35    18        basker rao             42                s.f.colony        460             
+
+36    17        venkateshwarlu         42                s.f.colony        0               
+
+37    15        y.ravindra babu        42                s.f.colony        360             
+
+38    110       dharaswami naidu       42                s.f.colony        0               
+
+39    16        ravi                   42                s.f.colony        -20             
+
+40    19        m.raidu                42                s.f.colony        0               
+
+41    107       d.chandrababu          42                s.f.colony        -20             
+
+42    11        muralikrishna reddy    44                s.f.colony        0               
+
+43    109       k.chinna chandra       44                s.f.colony        0               
+
+44    12        gourishankar           44                s.f.colony        180             
+
+45    13        ramu                   44                s.f.colony        0               
+
+46    10        srinivas               45                s.f.colony        0               
+
+47    9         o.ramesh               47/2              s.f.colony        230             
+
+48    97        rajashekar reddy       47                s.f.colony        360             
+
+49    7         ramu                   47                s.f.colony        620             
+
+50    100       p.saikumar             48                s.f.colony        0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    6         nagendra keerthulu     49                s.f.colony        0               
+
+52    89        g.parthasarathy        49                s.f.colony        0               
+
+53    5         baluchandra reddy      50                s.f.colony        0               
+
+54    113       keshavulu              51                s.f.colony        0               
+
+55    4         amrutha rao            51                s.f.colony        30              
+
+56    3         ramu                   51                s.f.colony        180             
+
+57    2         laxmi                  51                s.f.colony        180             
+
+58    1         mery                   52(gudisa)        s.f.colony        180             
+
+59    61        k.srieedar(2c)         102&101(d.e)      s.f.colony        0               
+
+60    88        srinivas rao           103               s.f.colony        720             
+
+61    59        K.S.MURTHY             104(d.e)          s.f.colony        0               
+
+62    85        mana fastfood          105               s.f.colony        0               
+
+63    58        B.N.BUSHAN RAO         105               s.f.colony        0               
+
+64    84        srinivas               106               s.f.colony        720             
+
+65    86        mastermobiles          106&40            s.f.colony        360             
+
+66    106       madhu                  107               s.f.colony        360             
+
+67    105       srinivas               107               s.f.colony        160             
+
+68    82        raghuma reddy          107               s.f.colony        0               
+
+69    108       v.balaji               109               s.f.colony        0               
+
+70    81        rayal enterprices      109               s.f.colony        30              
+
+71    80        maibu                  110               s.f.colony        0               
+
+72    78        anil(2con)             141               s.f.colony        0               
+
+73    79        shanker                141               s.f.colony        180             
+
+74    77        uberhot shop           142               s.f.colony        0               
+
+75    96        veera raju             142               s.f.colony        500             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    75        venkatesh              143               s.f.colony        90              
+
+77    76        ananth reddy(2con)     143               s.f.colony        300             
+
+78    74        amarender reddy        143               s.f.colony        360             
+
+79    98        a.murthy               143               s.f.colony        0               
+
+80    72        mahesh                 144/1             s.f.colony        0               
+
+81    71        baleshwar              144/1             s.f.colony        -20             
+
+82    90        Ailaiah                144               s.f.colony        0               
+
+83    56        DR.VENUGOPAL           203               s.f.colony        0               
+
+84    55        Y.MASTHAN RAO          204(d.e)          s.f.colony        0               
+
+85    53        NAJEENA BHANU          301               s.f.colony        0               
+
+86    51        sambhashiva rao        304(d.e)          s.f.colony        60              
+
+87    99        srinivas rao(2c)       305(d.e)          s.f.colony        0               
+
+88    50        k.ramesh sharma        401(d.e)          s.f.colony        0               
+
+89    49        a.srinivas             402(d.e)          s.f.colony        0               
+
+90    47        ravichandra reddy      404(d.e)          s.f.colony        180             
+
+91    46        p.n.rao                405(d.e)          s.f.colony        0               
+
+92    45        y.kishore singh        502(d.e)          s.f.colony        190             
+
+93    44        srujankumar            505               s.f.colony        0               
+
+                                                                    	----------
+                                                                    	11640
+                                                                    	----------
+
+                                END OF THE REPORT

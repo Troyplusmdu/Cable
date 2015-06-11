@@ -1,0 +1,421 @@
+
+                                     DUE LIST
+                                     --------
+Area : BLOCK-B
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     1305      prakash                b 24              .                 700             
+
+2     1317      ramalingaia            b 12/1            .                 90              
+
+3     1321      k.v.k. reddy           b 20/1            .                 450             
+
+4     1326      d.n thiwari            B 22/1            .                 300             
+
+5     1318      shikamani              b 4/1             .                 360             
+
+6     1313      prukesh kumar          e 17/1            .                 500             
+
+7     1293      vijay                  b 1/2             .                 360             
+
+8     1320      ram das                b 19/2            .                 500             
+
+9     1260      binaj kumar            B 20/2            .                 630             
+
+10    1261      r.arun kumar           B 42/2            .                 90              
+
+11    1304      nagarjuna              b 7/2             .                 440             
+
+12    1250      A.K.YADAV              B.14/2            .                 270             
+
+13    1319      b.satyanaryana         b 13/3            .                 220             
+
+14    1316      sampath kumar          b 16/3            .                 270             
+
+15    1183      NARAHARI               B 40/3            .                 180             
+
+16    1295      mulani                 b 49/3            .                 250             
+
+17    1311      RAMLAL                 B 1/4             .                 240             
+
+18    1263      munthai                B 13/4            .                 720             
+
+19    1286      r.b.nishad             b 16/4            drdo              180             
+
+20    1302      shivaji                b 20/4            .                 600             
+
+21    1327      anchal tambe           b 22/4            .                 300             
+
+22    1303      m.pattadurai           b 26/4            .                 170             
+
+23    1325      g.prathima             B 27/4            .                 300             
+
+24    1312      shivaji                b 34/4            .                 140             
+
+25    1185      CHAKRADHAR             B.7/4             -                 260             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    1322      naveen reddy           b 41/5            .                 270             
+
+27    1307      murali mohan           b 51/5            .                 360             
+
+28    1294      D M.sahu               b 35/6            .                 180             
+
+29    1310      PURUSTHOAM             B 36/6            .                 240             
+
+30    1308      M.GURUMURTHY           B 41/6            .                 150             
+
+31    1264      v.d nayak              B 52/7            .                 90              
+
+32    1284      k.krishna              b 36/9            .                 90              
+
+33    1314      prukesh kumar          b 48/9            .                 230             
+
+34    1300      thirumal rao           b 39/10           .                 430             
+
+35    1296      suresh                 b 48/11           .                 270             
+
+36    1309      JAGNATHAM              B 40/13           .                 360             
+
+37    1285      nicekanta              b 39/14           .                 360             
+
+38    1180      B.R.BABU               B 35/15           .                 80              
+
+39    1315      adinarayana            b 52/16           .                 230             
+
+40    1289      SUBRAMANYAM            B-1/1             .                 500             
+
+41    1268      SATAIAH                B-1/3             .                 330             
+
+42    1292      A.K.RAO                b-2/1             .                 90              
+
+43    4         LEWIS                  B-2/2             -                 340             
+
+44    576       P.RAMULU               B-2/3             .                 190             
+
+45    1175      PANDU RANGA RAO        B-2/4             .                 270             
+
+46    1277      shankar rao            b-3/1             .                 180             
+
+47    1278      s.k karimullah         b-4/2             .                 90              
+
+48    1168      SHIKAMANI              B-4/3             -                 270             
+
+49    1142      VENKAT RAJ             B-5/3             .                 180             
+
+50    940       APPAL REDDY            B-6/1                               90              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    797       RAVI CHANDRAN          B-6/3                               120             
+
+52    749       P.BALARAJU             B-7/3                               180             
+
+53    1240      P.MARIAE               B-8/3             .                 160             
+
+54    1047      NIRMALA                B-9/1(9290575911) .                 0               
+
+55    1091      SUBHASH                B-10/1            .                 80              
+
+56    1124      B.A.RAJU               B-10/2            .                 80              
+
+57    992       KRISHNA                B-10/4                              90              
+
+58    1151      Ganesh Babu            B - 11 / 1        .                 90              
+
+59    1114      SHEKAR                 B-11/2            .                 90              
+
+60    1057      RAGHU                  B-11/3            .                 360             
+
+61    33        N.MALLAIAH             B-12/3            -                 90              
+
+62    460       MANIK RAO              B-12/4                              110             
+
+63    1066      SHAKUNTALA             B-13/1            .                 90              
+
+64    368       M.V.KANKARAJU          B-14/4                              180             
+
+65    1247      K.K.SHUKLA             B-15/3            .                 180             
+
+66    964       ANJAIAH                B-16/1            .                 90              
+
+67    950       JAGBIR                 B-16/2                              270             
+
+68    677       M.ESHWARAIAH           B-17/1                              170             
+
+69    1232      Gangadhar              B-17/3            DRDO              180             
+
+70    159       RAJENDER SINGH         B-18/1            FROM SHIFTING     270             
+
+71    1281      B.SHANKAR RAO          B-18/2            .                 260             
+
+72    1150      Surya Prakash          B - 19/4          .                 270             
+
+73    1028      VENKAT RAO             B-21/2                              260             
+
+74    1038      VIDYAVATHI             B-21/3                              540             
+
+75    1246      MODH KAREEM            B-21/4            .                 530             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    65        B.KRISHNA              B-23/1            -                 90              
+
+77    1080      NASEEB                 B-23/4            .                 330             
+
+78    966       MD..AHMED              B-24/1                              60              
+
+79    73        JAGADISH               B-25/1            -                 440             
+
+80    72        RAJENDER               B-25/3            -                 180             
+
+81    1161      REDDY                  B-26/1            .                 180             
+
+82    965       N.SUBAIAH              B-26/3            .                 330             
+
+83    1162      RAJU                   B-27/1            .                 90              
+
+84    932       GOPI                   B-27/3                              270             
+
+85    987       SURYANARAYANA          B-28/1(9492842685)                  100             
+
+86    86        B.NARSING RAO          B-29/1            -                 90              
+
+87    1242      HARINATH               B-29/3            .                 80              
+
+88    804       D.NAGESHWAR RAO        B-29/4                              90              
+
+89    763       GOPAL RAO              B-30/1                              80              
+
+90    1201      K.MOHAN                B-32/1            -                 200             
+
+91    1275      krishna goud           b-33/2            .                 180             
+
+92    798       SYED NAJEEB AHMED      B-33/3            .                 90              
+
+93    1100      BALA SUBRMANI          B-34/1            .                 90              
+
+94    848       SUSAI RAJ              B-34/2                              90              
+
+95    1163      VENKATASHAM            B-34/3            .                 90              
+
+96    1147      A. Bakshi              B - 35/7          .                 260             
+
+97    1251      rao                    b-35/9            .                 0               
+
+98    314       RAMBALI BHATT          B-35/13           -                 90              
+
+99    659       V.RAMULU               B-35/14           .                 260             
+
+100   577       ISMAIL KHAN            B-36/1                              90              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   475       SURYA NAND             B-36/2            .                 90              
+
+102   1200      M.A.RAHMAN             B-36/4            -                 90              
+
+103   1191      ASHRAF                 B-36/7            -                 90              
+
+104   1104      NITHYANAND SAHU        B-36/10           .                 360             
+
+105   1274      K.M.GURU SINGH         B-36/11           .                 270             
+
+106   117       CHANDRASHEKAR          B-36/14           -                 90              
+
+107   1266      TIWARI                 BV-36/15          .                 360             
+
+108   1323      SHANMUCK RAI           B-36/16           .                 270             
+
+109   938       PENTAIAH               B-37/1                              180             
+
+110   1235      K.s prakash rao        B-37/7            DRDO              90              
+
+111   1123      MANOJ KUMAR            B-37/11           .                 180             
+
+112   696       K.P. PRASAD            B-38/2            .                 90              
+
+113   988       ARUN                   B-38/5                              80              
+
+114   1118      B.N.SINGH              B-38/11           .                 90              
+
+115   661       SHIVA SHANKAR          B-39/1                              90              
+
+116   959       MANOHAR                B-39/3 (9491867244                  460             
+
+117   725       P.S.REDDY              B-39/4                              90              
+
+118   1204      venkateshe rao         B-39/8            DRDO              180             
+
+119   1022      SHANKAR                B-39/12                             90              
+
+120   351       L.SUNDER               B-40/2            -                 80              
+
+121   792       ENBAIAH                B-40/6                              270             
+
+122   1055      ARVIND                 B-40/7            .                 630             
+
+123   1193      ..........             B-40/9            -                 270             
+
+124   914       G.NARSING DAS          B-40/14                             180             
+
+125   1254      S A rao                b-40/15           .                 80              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   894       MD.GHOUS               B-41/1            .                 0               
+
+127   1245      RAMALAXMI              B-41/3            .                 90              
+
+128   801       S.Y.NAVEEN KUMAR       B-41/5            .                 260             
+
+129   1075      V.BALRAJU              B-41/9            .                 90              
+
+130   921       G.SWAMY                B-41/10           .                 90              
+
+131   1244      CHODHARI               B-41/11           .                 350             
+
+132   374       K.CHANDRASHEKAR        B-41/14           .                 90              
+
+133   1129      LAXMI                  B-41/15           .                 0               
+
+134   184       G.SESHU BABU           B-42/3            -                 180             
+
+135   865       PARVATI RAO            B-42/4                              70              
+
+136   1133      MALINATH               B-42/5            .                 190             
+
+137   922       BRIRAJ                 B-42/7                              90              
+
+138   1243      SEHARIYA               B-42/8            .                 70              
+
+139   1046      RANGA RAO              B-43/3            .                 70              
+
+140   1198      SURI BABU              B-43/6            -                 260             
+
+141   1003      MUKESH KUMAR SINGH     B-43/10           .                 90              
+
+142   1077      HEMANTH                B-43/11           .                 90              
+
+143   206       VISHVANADHAM           B-43/13           -                 90              
+
+144   210       T.MANJULA              B-44/3            -                 90              
+
+145   1068      YADAGIRI               B-44/8            .                 90              
+
+146   1272      suryanarayana          B-44/9.           .                 90              
+
+147   1140      SRISALY                B-45/2            .                 90              
+
+148   356       MANOHARAN              B-45/13           .                 90              
+
+149   1324      NAYAK                  B-45/14           .                 310             
+
+150   846       SHIVA SHANKAR          B-45/15           .                 90              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   236       R.R.SINGH              B-46/11           -                 280             
+
+152   512       K.KRISHNA              B-47/1                              80              
+
+153   1166      S.M BASHA              B-47/5            .                 90              
+
+154   1085      KONDAIAH               B-47/9            .                 270             
+
+155   1054      SANJAY BANRA           B-47/10           .                 90              
+
+156   1176      A.VIJAY KUMAR          B-47/14           .                 90              
+
+157   1328      ...                    B-47/14           .                 90              
+
+158   1257      RAMARAO                B-48/1            .                 90              
+
+159   1158      PURUSHUT K             B-48/3            .                 360             
+
+160   1071      RANGAIAH               B-48/6            .                 90              
+
+161   767       AFZEER                 B-49/5                              0               
+
+162   1136      CHARITA                B-49/13           .                 90              
+
+163   898       RAJENDER SINGH         B-50/3                              270             
+
+164   949       MOHD . HAMEED          B-50/6                              540             
+
+165   1271      KASINTU                B-50/14           .                 290             
+
+166   1097      HEMANTH                B-51/2            .                 90              
+
+167   294       MURLIMOHAN             B-51/5            -                 450             
+
+168   785       AMRUTHA BAI            B-51/8                              90              
+
+169   1288      hanmanthiah            B-51/9            .                 450             
+
+170   986       K. SRINIVAS            B-51/10           ATYPE             90              
+
+171   1196      V.S.SADANAND           B-51/13           -                 90              
+
+172   1034      VIKRAM SINGH           B-51/15(9493017741                  180             
+
+173   1126      RANJEETH KUMAR         B-51/16           .                 360             
+
+174   1256      ABC                    B-52/1            .                 70              
+
+175   305       ANAND                  B-52/2            -                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   1152      S. MOHAN NAIDU         B - 52/4          .                 250             
+
+177   598       A. CHIKU SWAMY         B-52/6            .                 270             
+
+178   1089      BHAVANA                B-52/9            .                 170             
+
+179   339       M.K.GHOSUDDIN          B-52/13           -                 170             
+
+180   1217      ANIL KUMAR             5/4               DRDO              840             
+
+181   1252      kamakshi               13/2              .                 180             
+
+182   1208      sampath kumar          16/3              DRDO              630             
+
+183   1206      jaganatham             40/13             DRDO              630             
+
+184   1209      yellaiah               41/13             DRDO              260             
+
+185   1230      P.A DAS                42/13             DRDO              360             
+
+186   1210      satyanarayana          44/14             DRDO              180             
+
+187   1231      sreekanth              45/10             DRDO              190             
+
+188   1259      D.DESOUZA              47/13             .                 440             
+
+189   1218      d.srinu                49/15             drdo              630             
+
+                                                                    	----------
+                                                                    	40720
+                                                                    	----------
+
+                                END OF THE REPORT

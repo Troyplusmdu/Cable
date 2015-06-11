@@ -1,0 +1,79 @@
+
+                                     DUE LIST
+                                     --------
+Area : sri vinayaka colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     52        ravi kumar             p-2               .                 0               
+
+2     1         PRABHAKAR              P-2               .                 300             
+
+3     58        deva                   p-2               .                 0               
+
+4     49        surendhar reddy        p-3               .                 600             
+
+5     37        ramesh                 p-4/6             .                 150             
+
+6     39        mounika                p-5               .                 0               
+
+7     51        satya narayana         p-5               .                 0               
+
+8     7         C.RAJU                 P-6               .                 600             
+
+9     55        basha                  p-6               .                 0               
+
+10    9         .                      P-7               .                 250             
+
+11    64        sangavi                p-8               .                 0               
+
+12    65        ashok kumar            p-9               .                 0               
+
+13    53        ashok                  p-9               .                 1050            
+
+14    41        ravi kumar             p-13              .                 450             
+
+15    63        satya narayana         p-14              .                 0               
+
+16    66        ram brahav             p-15              .                 0               
+
+17    15        K.RAMABRAHMAM          P-15              .                 1380            
+
+18    59        srinivas               p-16              .                 0               
+
+19    47        chary                  p-17              .                 750             
+
+20    20        SHANKARAIAH            P-20              .                 0               
+
+21    19        SUDHAKAR               P-20              .                 150             
+
+22    62        srinivas reddy         p-24/25           .                 0               
+
+23    50        gopal krishna          p-26              .                 140             
+
+24    24        F.NARAYANA             P-27              .                 150             
+
+25    61        sadhanandam            p-28              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    60        venkatesh rao          p-28              .                 0               
+
+27    54        shankar                p-31/1            .                 0               
+
+28    56        krishna                p-31              .                 300             
+
+29    28        PADMA RAO              P-32              .                 300             
+
+30    57        sudhakadhar            12                .                 150             
+
+                                                                    	----------
+                                                                    	6720
+                                                                    	----------
+
+                                END OF THE REPORT

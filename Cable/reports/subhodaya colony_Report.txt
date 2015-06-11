@@ -1,0 +1,65 @@
+
+                                     DUE LIST
+                                     --------
+Area : subhodaya colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     23        r.shankar              .                 .                 50              
+
+2     8         a.srinivas goud        h.no              .                 100             
+
+3     20        padma                  h.no              .                 100             
+
+4     13        venu                   h.no:             .                 100             
+
+5     7         raju                   h.no:             .                 150             
+
+6     9         shiva tailor           h.no:             .                 100             
+
+7     19        ashok                  h.no:             .                 100             
+
+8     18        raju                   h.no:             .                 50              
+
+9     17        geetha                 h.no:             .                 50              
+
+10    16        raseed                 h.no:             .                 50              
+
+11    15        ramulu                 h.no:             .                 150             
+
+12    10        nayudu                 h.no:             .                 50              
+
+13    11        ramulu                 h.no:             .                 150             
+
+14    12        rangaiah               kirana shop       .                 50              
+
+15    5         sujatha                pt.no:158         .                 50              
+
+16    6         kiran                  pt.no:158/a       .                 150             
+
+17    21        chandramma             pt.no:39/a        .                 50              
+
+18    22        ramulu                 pt.no:39/a        .                 50              
+
+19    14        balamma                rakula shad       .                 50              
+
+20    4         sudhakar               h.no:5/112        .                 50              
+
+21    3         sathamma               h.no:5/112        .                 50              
+
+22    1         a.srinivas goud        h.no:5/112/a      .                 150             
+
+23    2         suresh kumar           h.no:5/112/a      .                 100             
+
+24    25        ashok reddy            53                .                 50              
+
+25    24        anju                   173               .                 50              
+
+                                                                    	----------
+                                                                    	2050
+                                                                    	----------
+
+                                END OF THE REPORT

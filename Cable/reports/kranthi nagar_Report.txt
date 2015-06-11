@@ -1,0 +1,43 @@
+
+                                     DUE LIST
+                                     --------
+Area : kranthi nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     4         srinu                  pt.no:21          .                 50              
+
+2     3         s.ravi kumar           pt.no:21          .                 50              
+
+3     5         rama aro               pt.no:21/a        .                 50              
+
+4     1         mallesh                pt.no:26          .                 50              
+
+5     2         avinash                pt.no:28/a        .                 50              
+
+6     8         sharma                 s.v.homes         .                 50              
+
+7     7         vidyanath              sri giri homes    .                 100             
+
+8     6         ABN ramakrishna        sri giri homes    .                 50              
+
+9     13        GOPAL                  18/21             .                 50              
+
+10    11        harika kiranam         18/21/1           .                 50              
+
+11    10        venkatesh              18/21/1           .                 50              
+
+12    9         a.venkatesh goud       18/98             .                 50              
+
+13    12        narsing                21                .                 50              
+
+14    14        raju                   26                .                 50              
+
+                                                                    	----------
+                                                                    	750
+                                                                    	----------
+
+                                END OF THE REPORT

@@ -1,0 +1,21 @@
+
+                                     DUE LIST
+                                     --------
+Area : s.n.nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     35        flytech(2con)          flytech           s.n.nagar         600             
+
+2     2         dr.naveen              25                s.n.nagar         720             
+
+3     30        y.yadhi reddy          109               s.n.nagar         600             
+
+                                                                    	----------
+                                                                    	1920
+                                                                    	----------
+
+                                END OF THE REPORT

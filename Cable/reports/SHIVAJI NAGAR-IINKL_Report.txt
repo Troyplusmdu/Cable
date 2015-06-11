@@ -1,0 +1,567 @@
+
+                                     DUE LIST
+                                     --------
+Area : SHIVAJI NAGAR-IINKL
+Order By : code
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     1         K. SAI REDDY           7-146             .                 330             
+
+2     2         K. SAIDULU             7-148             .                 260             
+
+3     3         K. RAJU                7-146             .                 130             
+
+4     4         T. BISHM               7-149             .                 740             
+
+5     5         T. ANJAIAH             .                 .                 330             
+
+6     6         T. VENKATESH           7-152             .                 260             
+
+7     9         SATHI REDDY            MR                .                 460             
+
+8     12        DHANA LAXMI            KRINA             .                 130             
+
+9     13        T. LAXMAIAH            7-68              .                 710             
+
+10    15        M. SHANKAR             7-129             .                 130             
+
+11    19        K. SHEKAR REDDY        7-125             .                 850             
+
+12    23         BRAMMAM               7-14              .                 810             
+
+13    25        K. CHANDRA KALA        7-14              .                 510             
+
+14    34        M. VENKATA REDDY       7-107             .                 230             
+
+15    37         SRI VIDHYA            7-109             .                 560             
+
+16    39         Y. RAJESH             7-109/1           .                 130             
+
+17    43         M. VENKANNA           7-129/11          .                 130             
+
+18    45         S. MURILI             0                 .                 380             
+
+19    46        KASHI                  ,0                .                 360             
+
+20    48        M. SAIDULU             7-140             .                 360             
+
+21    49         S. NARSI REDDY        .                 .                 30              
+
+22    51         M. RAVINDER           7-142             .                 650             
+
+23    52         K. VENKATA REDDY      7-142             .                 560             
+
+24    55         K. NAGA RAJU          7-142/BS          .                 460             
+
+25    57         T. SAILU              7-139             .                 260             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    58        K. YELLAIAH            8-21              .                 130             
+
+27    62        T. ROSHAIAH            8-25/4            .                 130             
+
+28    64        ARUN KANTH             ....              .                 860             
+
+29    69         GAVARAIAH             GMO               .                 660             
+
+30    73        Y. AMURATHA REDDY      8-25              .                 660             
+
+31    74        S. RAMAIAH             8-25              .                 1160            
+
+32    78        M. VENKANNA            8-25              .                 130             
+
+33    79        PRAVATHAMMA            .                 .                 860             
+
+34    80        SUBHAN                 .                 .                 360             
+
+35    82         G. NAGAESHWAR RAO     8-49/2            .                 260             
+
+36    83        S. ASHOK               8-39              .                 170             
+
+37    84         E. SRINIVAS           8-39              .                 360             
+
+38    85        E. VEERAIAH            .                 .                 90              
+
+39    87        V. MALLAIAH            8-38              .                 130             
+
+40    88        V. JANAIAH             8-37              .                 130             
+
+41    93        YO.DRESS               8-38              .                 460             
+
+42    94        B. ANAND BABU          8-38              .                 760             
+
+43    95         BALAJI GENERAL        MSR               .                 130             
+
+44    105       VENKATESH LAXMI KIRN   MSR               .                 130             
+
+45    108       K. SRINU               MSR               .                 860             
+
+46    109        D. ANJAIAH            MSR               .                 130             
+
+47    110        MD. PASHA             MSR               .                 460             
+
+48    114       SANDHYA HAIR           MSR               .                 690             
+
+49    115        SRI RANGAM            MSR               .                 130             
+
+50    117       MAYURI VASTRALIMAM     MSR               .                 130             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    118        LAXMI JEWERALL        MR                .                 860             
+
+52    120       YADAGIRI KRINA         MR                .                 130             
+
+53    121        MURILI KRINA          MR                .                 360             
+
+54    122        DR. SATYANARAYANA     MR                .                 360             
+
+55    123       MARYURI DRESS          MR                .                 360             
+
+56    126       BALAJI FERTILIZERS     MR                .                 420             
+
+57    129       V.SANTHOSH             .                 .                 760             
+
+58    133        B. RAM MOHAN          RKP               .                 360             
+
+59    144       B. RAMULU              18-25/5           .                 130             
+
+60    146       A. NARASAIAH           8-25/4            .                 180             
+
+61    151       B.RAJU                 NGB               .                 460             
+
+62    154       R.RAVI                 SLN   ( BACK)     .                 260             
+
+63    164       K. RAMESH              8-24              .                 130             
+
+64    166       B.MANAIAH              MSR               .                 130             
+
+65    167       R. YADAGIRI            .                 .                 360             
+
+66    175       MD. JANGANGAR BABU     MR(UP)            .                 260             
+
+67    189       P.BHASKAR REDDY        7-29/8            .                 360             
+
+68    192       SRISAIGANESHNURSING    MSR               .                 360             
+
+69    196       RADHAKRISHNA           MR                MEDICAL HALL      360             
+
+70    198       LINGA REDDY            MSR(7-152)        .                 960             
+
+71    200       SD. SALIM              7/117             .                 560             
+
+72    203       M.RAMULU               8/25              .                 130             
+
+73    207       D.NAGAMI               8/25/5            .                 660             
+
+74    210       SRI.VENKANTA           MR                SAITEXLIES        460             
+
+75    211       UDAY                   S.L.N.(BACK)      ENTERPRISES       740             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    213       T.NAGA RAJU            8/25/4/B          .                 230             
+
+77    215       K.MADHU SUDHAN REDDY   8/31              .                 130             
+
+78    217       K.VENKAT REDDY         8-25/19           .                 230             
+
+79    218       G.SRINIVAS             7-29/8            .                 1080            
+
+80    219       S.RAM MURTHY           7/107             .                 360             
+
+81    220       LAKSHMI                8/31              .                 1440            
+
+82    224       T.ROSHAIAH             8-25/4            .                 490             
+
+83    229       S.K.LATIF              7-111             .                 260             
+
+84    231       RAKESH TAILORS         ....              .                 920             
+
+85    232       HABIBA                 SLN BACK          .                 260             
+
+86    235       PADMA                  7-29/9            .                 230             
+
+87    236       B.SANTHOSH             7-142SIDE         .                 920             
+
+88    238       K.LINGAM               MR                .                 640             
+
+89    244       D.PRAKASH              AIRTEL TOWER      GOLD STAR         130             
+
+90    245       PRAVEEN                .......           .                 1060            
+
+91    246       HAZARA                 ..........        .                 160             
+
+92    247       T.VENKANNA             SC HOSTEL OPP     .                 650             
+
+93    249       VISHNU MURTHY          ..........        .                 1060            
+
+94    254       M.JANAMA               ..                .                 360             
+
+95    255       SAI HAIR STYLE         MJR               .                 950             
+
+96    259       SUDHAKAR REDDY         SINDU WATER BACK  .                 360             
+
+97    260       GOVINDA REDDY          AIRTEL TOWER      .                 130             
+
+98    261       GYNANESHWAR            MEDIPLUS BACK     .                 260             
+
+99    264       HAZIZUNISHA            ....              .                 130             
+
+100   265       DEVENDER               .........         .                 860             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   266       K.NARSI REDDY          .....             .                 360             
+
+102   267       M.PICAIAH              ......            .                 460             
+
+103   270       A.KISHORE              -----             .                 360             
+
+104   272       K.SRINU                -------           .                 260             
+
+105   278       B.SRINIVAS             8-25/C            .                 300             
+
+106   279       SRI LAXMI FOOT WEAR    ---               .                 360             
+
+107   280       SWATHI MOBILES         ----              .                 1060            
+
+108   281       T.SAIDULU              LODGING BACK      .                 130             
+
+109   282       CH.RAMESH              7-110             .                 130             
+
+110   284       JALAL                  ------            .                 760             
+
+111   287       SRINIVAS               VT THEATRE        .                 130             
+
+112   288       V.RAGHAVENDAR          VT THEATRE        .                 170             
+
+113   290       A.VEERAMALLU           ---               .                 360             
+
+114   296       B.KRASHNAMURTHY        ---               .                 360             
+
+115   307       ASHOK KUMAR            MSR               0                 130             
+
+116   308       THAYAMMA               0                 0                 330             
+
+117   311       K.RAMESH               0                 0                 560             
+
+118   312       MAJIS                  ANDRA BANK        0                 70              
+
+119   313       KESHAVULU              WATER PLANT       0                 910             
+
+120   314       B.JANAIAH              7-61              0                 260             
+
+121   318       K.DASARATH REDDY       0                 0                 460             
+
+122   319       B.NARSI REDDY          0                 0                 100             
+
+123   323       V.NARAYAANA REDDY      WATER PLANT       0                 70              
+
+124   325       NAZAM                  0                 0                 800             
+
+125   326       T.ANJAIAH              0                 0                 130             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   327       M.SATYANARAYAN         SINDHU WATER BACK 0                 130             
+
+127   332       prasad                 .                 sln-beside        300             
+
+128   336       D.Narsimha             .                 Sln-back          460             
+
+129   338       D.Ram Reddy            .                 Sln-back          460             
+
+130   339       N.Mallesh              .                 7-124   sln-back  660             
+
+131   340       P.L.Reddy              .                 8-25/1            860             
+
+132   341       S.Venkat Reddy         .                 7-145             130             
+
+133   342       B.Saidulu              .                 7-61              360             
+
+134   344       K.SRINIVAS REDDY       .                 8-35/1            230             
+
+135   345       P.Venkanna             .                 M.R               460             
+
+136   348       d.Venkanna             .                 7-73/1            360             
+
+137   349       Venkat Reddy           .                 .                 300             
+
+138   350       Radhakrishna Medical   .                 .                 460             
+
+139   353       G.Lingaiah             7-131             .                 760             
+
+140   355       M.Ramachandra          7-144             .                 130             
+
+141   356       B.Papaiah              7-141             .                 260             
+
+142   357       Sk.Akbar               8-25/4            .                 130             
+
+143   358       M.Krishnaiah           7-144             .                 230             
+
+144   359       K.Gattaiah             .                 .                 660             
+
+145   363       K.Venkanna             .                 .                 460             
+
+146   364       G.Shyamsunder          .                 .                 130             
+
+147   365       VamshiKrishna Dress    .                 .                 260             
+
+148   367       G.Santosh              .                 .                 260             
+
+149   369       Nagaraju               Mediplus Boy      .                 260             
+
+150   370       S K electricals        M.R               .                 160             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   371       Geetha Kirana          .                 .                 130             
+
+152   377       G.Anasurya             .                 .                 360             
+
+153   379       V.Krishna              .                 .                 300             
+
+154   380       Krishna Rao            .                 .                 1100            
+
+155   382       Papi Reddy             AVM College       .                 360             
+
+156   383       B.Venkanna             .                 .                 130             
+
+157   384       Govind                 8-25/c            .                 1060            
+
+158   385       G.Srinu                8-25/c            .                 960             
+
+159   386       T.Kiran                .                 .                 760             
+
+160   389       Prasad Udipi Hotel     .                 .                 560             
+
+161   400       Ganesh Tailor          SLN-BACK          .                 230             
+
+162   401       P.Yadagiri             .                 .                 560             
+
+163   403       Ramoji                 Medi-plus back    .                 860             
+
+164   404       K.Saidamma             .                 .                 260             
+
+165   405       Sai Shambavi           kamineni          .                 360             
+
+166   406       N.Venkateswarlu        airtel beside     .                 260             
+
+167   407       T.Shyam Sunder         GMO               .                 360             
+
+168   408       A.Srinivas             8-13              .                 230             
+
+169   409       Sri Laxmi Chit Fund    .                 .                 760             
+
+170   411       Nagarjuna              .                 .                 60              
+
+171   412       Shankar                Kakatiya - beside .                 360             
+
+172   413       Siddarth Medicals      MSR               .                 130             
+
+173   414       J.Saidulu              DRC               .                 560             
+
+174   415       M.Laxman               Opp:Airtel Tower  .                 130             
+
+175   422       s.shekar               .                 kamineni          560             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   425       v.saidaiah             .                 msr               130             
+
+177   427       S.Ravi                 .                 .                 260             
+
+178   428       MD.Janimiya            .                 main road         530             
+
+179   430       S.Apparao              .                 sai complex       130             
+
+180   431       durga prasad           .                 .                 210             
+
+181   433       A.suresh               .                 .                 960             
+
+182   434       T.Ravindar             .                 .                 360             
+
+183   435       N.Raghavalu            .                 .                 360             
+
+184   437       k.murali               .                 .                 360             
+
+185   440       p.sarvaiar             .                 .                 260             
+
+186   453       ramakrishna            .                 .                 260             
+
+187   456       T.Srinivas             .                 .                 460             
+
+188   458       begam                  .                 .                 160             
+
+189   463       yadagiri               .                 .                 360             
+
+190   466       nageshwar rao          .                 .                 860             
+
+191   471       vinayaka gents         .                 .                 360             
+
+192   473       gophi                  .                 .                 960             
+
+193   479       mahesh                 .                 .                 360             
+
+194   487       y.yadagiri             .                 .                 860             
+
+195   488       p.anjaneyulu           .                 .                 360             
+
+196   492       veeran janeyulu        .                 .                 460             
+
+197   496       malla reddy            .                 .                 1160            
+
+198   499       T.Dileep               .                 .                 230             
+
+199   500       D.Jalendar             .                 .                 460             
+
+200   501       ibrahim                .                 .                 130             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   502       chandana dress         .                 .                 460             
+
+202   503       P.Anjaneyulu           .                 .                 260             
+
+203   509       T.Ramakrishna          .                 .                 660             
+
+204   512       janipasha              .                 .                 460             
+
+205   513       l.srinivas             .                 .                 760             
+
+206   515       P.Ravi kumar           .                 .                 600             
+
+207   516       S.Srinivas             .                 .                 460             
+
+208   521       D.Srinu                .                 .                 130             
+
+209   522       DS.weas                .                 gramar beside     360             
+
+210   523       T.Ganesh               .                 .                 260             
+
+211   524       B.Bhaskar              .                 .                 130             
+
+212   525       CH.Giri babu           .                 .                 270             
+
+213   528       T.Saidulu              .                 .                 230             
+
+214   531       P.Anjaneyulu           .                 .                 460             
+
+215   532       B.Yugendar             .                 .                 460             
+
+216   534       K.Chinna chary         .                 msr               130             
+
+217   536       ms.saleem pasha        .                 .                 500             
+
+218   544       B.Venkanna             7-91              .                 330             
+
+219   545       B.Suramma              7-91              .                 130             
+
+220   546       P.Ram chandriyya       7-138             .                 660             
+
+221   550       K.Lashmamma            msr up            .                 460             
+
+222   552       sagitha                .                 .                 860             
+
+223   553       T.Saidul               .                 .                 360             
+
+224   554       K.Janaias              .                 .                 760             
+
+225   557       G.Venkateshwar reddy   .                 .                 360             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   558       B.Anjaneyulu           .                 .                 460             
+
+227   559       yadagiri               .                 .                 360             
+
+228   561       N.Krishna murthy       .                 .                 360             
+
+229   563       S.Madhava reddy        .                 .                 460             
+
+230   564       P.Santhosh reddy       .                 .                 230             
+
+231   565       Manjula                .                 8-33 back         460             
+
+232   566       P.Saidulu              .                 17-35             750             
+
+233   567       B.Venkanna             .                 .                 900             
+
+234   568       G.Venkatesh reddy      .                 .                 300             
+
+235   569       K.Chinna chary         .                 .                 600             
+
+236   570       MD.Saleem basha        .                 .                 600             
+
+237   571       Krishna murthy         .                 .                 300             
+
+238   572       G.Sudhakar             .                 .                 600             
+
+239   573       P.Santhosh  reddy      .                 .                 300             
+
+240   574       B.Venkanna             .                 .                 260             
+
+241   575       N.Krishna murthy       .                 .                 200             
+
+242   576       B.Manjula              .                 .                 200             
+
+243   577       N.Shankar              .                 sai complex back  800             
+
+244   578       anjaneyulu             .                 .                 260             
+
+245   579       G.Venkateshwar reddy   .                 .                 260             
+
+246   580       G.Venkateshwar reddy   .                 .                 260             
+
+247   581       K.Saidulu              .                 .                 260             
+
+248   582       J.Srinivas             .                 .                 260             
+
+249   583       A.Venkata narayana     .                 .                 260             
+
+250   584       B.Munjula              .                 8-33 back         260             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   585       B.Ugendar              .                 .                 260             
+
+252   586       M.Narsaias             .                 .                 0               
+
+253   588       N.Shankar              .                 .                 0               
+
+254   590       A.lingaias             .                 .                 0               
+
+255   591       A.Venkata              .                 .                 0               
+
+256   593       parthasaradhi          DRC               .                 0               
+
+                                                                    	----------
+                                                                    	104160
+                                                                    	----------
+
+                                END OF THE REPORT

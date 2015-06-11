@@ -1,0 +1,681 @@
+
+                                     DUE LIST
+                                     --------
+Area : vspm MR 1
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     483       masthan rao            (mr)              .                 340             
+
+2     402       harsha                 .                 .                 1360            
+
+3     457       parimala medical       .                 .                 170             
+
+4     469       sri sai batteries      .                 .                 510             
+
+5     432       k.venkatesh            .                 .                 1360            
+
+6     357       HAMARENDER REDDY       .                 .                 3060            
+
+7     479       sushma                 .                 .                 510             
+
+8     502       sanjeev reddy          barrery backside  mr                510             
+
+9     454       sanjeev reddy          batteries         .                 1360            
+
+10    413       laxman                 book shop         .                 1530            
+
+11    434       vishnu                 dental clinic     .                 340             
+
+12    423       srinivas               g.h.a             307               340             
+
+13    424       lavankumar reddy       g.h.a             207               1020            
+
+14    425       venkat reddy           g.h.a             104               680             
+
+15    463       D.SRINIVAS REDDY       g.h.a             202               510             
+
+16    426       prashanth              g.h.a             108               340             
+
+17    430       rajashekar             g.h.a             .                 170             
+
+18    449       s.laxman               g.h.a             .                 1360            
+
+19    478       ram reddy              g.h.a             205               340             
+
+20    442       kamalakar reddy        g.h.a             402               510             
+
+21    476       srinivas               g.h.a             202               1020            
+
+22    448       s.laxman               g.h.a             .                 340             
+
+23    475       rajendhar reddy        g.h.a             40                510             
+
+24    447       m.venkateshwar         g.h.a             504               580             
+
+25    446       malla reddy            g.h.a             306               170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    477       shashidhar reddy       g.h.a             304               510             
+
+27    403       prakesh                g.h.a             108               1360            
+
+28    392       upendhar reddy         g.h.a             110               1700            
+
+29    393       mallikarjun rao        g.h.a             505               510             
+
+30    394       anjaneyulu             g.h.a             508               1190            
+
+31    395       m.m.reddy              g.h.a             203               530             
+
+32    522       raju                   g.h.a             mr                170             
+
+33    396       p.madhusudhan reddy    g.h.a             409               170             
+
+34    388       saidulu                g.h.a             watchman          870             
+
+35    399       raju                   g.h.a             watchman          1360            
+
+36    518       malaiah                g.h.a             .                 150             
+
+37    517       veraiah                g.h.a             .                 150             
+
+38    422       venu madhav            g.h.a             301               170             
+
+39    400       t.laxmi                g.h.a             watchman          1360            
+
+40    421       s.satya narayana       g.h.a             503               170             
+
+41    404       venumadhav             g.h.a             302               1530            
+
+42    405       k.v.krishna rao        g.h.a             404               170             
+
+43    505       upendhar               g.h.a             .                 510             
+
+44    504       kumara swamy           g.h.a             .                 510             
+
+45    462       RAJENDHAR REDDY        g.h.a             401               1020            
+
+46    431       p.shankar              g.h.a             watchman          1530            
+
+47    468       vanetha                g.h.a(506)        .                 510             
+
+48    509       n.ramesh               g.h.a410          .                 200             
+
+49    161       D.BHASKAR              G1                HH                170             
+
+50    338       g.ravi chandra         g1                .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    171       B.SOMA SUNDAR          G1 MC             .                 4080            
+
+52    159       CH.GOVENDHARCHARY      G2                HH                2830            
+
+53    491       e.srinivas             geetha            .                 850             
+
+54    490       n.yadagiri             geetha time       .                 850             
+
+55    496       shekar reddy           gha               210               510             
+
+56    481       sudhakar               gha.109           .                 170             
+
+57    487       kumar                  gha:matchman      .                 850             
+
+58    488       rama rao               gha:watchman      .                 510             
+
+59    511       nageswar chari         gha502            .                 340             
+
+60    492       a.vara prasad          ghs.208           .                 510             
+
+61    416       nirmala                hhr               .                 170             
+
+62    436       bikshamaiah            kirana            .                 360             
+
+63    327       srisai chandra         m r               .                 1530            
+
+64    343       venkateshwer           m r               .                 170             
+
+65    330       leo mons               m r               .                 170             
+
+66    328       krishna                m r               .                 2330            
+
+67    345       thiwari                m r               .                 2840            
+
+68    284       parimala mobiles       m r               .                 1530            
+
+69    329       sathi babu             m r               .                 150             
+
+70    279       M.mallesh              m.r               .                 3580            
+
+71    277       goyal                  m.r               .                 340             
+
+72    262       Priyanka auro          m.r               VPURAM            3120            
+
+73    276       karunakar              m.r               .                 1020            
+
+74    222       srinu                  m.r               mr 1              1150            
+
+75    223       g.srinivas             m.r               mr 1              2080            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    266       GOLDEN SHOP            M.r               vanasthlipuram    170             
+
+77    286       g.anjaneyulu           m.r               .                 1190            
+
+78    288       k.gopal                m.r               .                 2100            
+
+79    251       andra transport        m.r               vpuram            2870            
+
+80    241       Yalamandha             m.r               vspm mr           2190            
+
+81    493       ramesh                 madav home apliancback side         850             
+
+82    412       manasa                 manasa.           .                 1020            
+
+83    376       vikas                  mr                .                 2210            
+
+84    29        A. SANJEEV KUMAR       MR                .                 400             
+
+85    113       M. KUMARI              MR                .                 2790            
+
+86    31        NAGARJUNA LODGE        MR                .                 11630           
+
+87    377       nirmala                mr                .                 2380            
+
+88    112       S. JAGAN               MR                .                 1130            
+
+89    33        K.SRIDHAR              MR                .                 340             
+
+90    369       ANAND REDDY            mr                .                 680             
+
+91    368       KANAKADURGA            mr                .                 170             
+
+92    32        CHANDRAKANTH ENTER     MR                .                 4480            
+
+93    230       BEEM                   MR                .                 1860            
+
+94    381       t.srinivas             MR                .                 1100            
+
+95    382       k.rama krishna         mr                .                 160             
+
+96    367       dhasharatha            mr                .                 2270            
+
+97    152       RAJALAXMIHOSPITALS     MR                .                 120             
+
+98    383       rupa traders           mr                .                 1650            
+
+99    148       THIRUMULA ELEC         MR                .                 170             
+
+100   147       MEGA OPTICALS          MR                .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   25        VENKATRAMANAAUTO       MR                .                 150             
+
+102   141       MADHU ELECTRONICS      MR                .                 420             
+
+103   140       MAHESH STORES          MR                .                 750             
+
+104   137       SANTHOSH HAIRSTYLE     MR                .                 5030            
+
+105   136       SAIKIRANT.VELE         MR                .                 3620            
+
+106   163       S.V.MOBLIES            MR                .                 2210            
+
+107   314        venkateshwarao        mr                .                 2830            
+
+108   408       sai manju shoe com.    mr                .                 850             
+
+109   50        SIDDI RAMULU           MR                .                 150             
+
+110   47        BHASKER                MR                .                 2430            
+
+111   336       akhil paper            MR                .                 2380            
+
+112   42        G. ANJANEYULU          MR                .                 1470            
+
+113   56        SWAGATH BAR            MR                .                 7790            
+
+114   57        SHUSHMA THERTRE        MR                .                 1700            
+
+115   41        SV.GSTORES             MR                .                 3730            
+
+116   38        HANUMAN TRADERS        MR                .                 3140            
+
+117   316       krishna                mr                .                 3670            
+
+118   351       sai manju foot         mr                .                 2210            
+
+119   36        BVBR                   MR                .                 4820            
+
+120   353       VINOD KUMAR            MR                .                 1360            
+
+121   196       SRINIVAS aidio         MR                .                 510             
+
+122   360       RAM REDDY              MR                .                 3060            
+
+123   54        A. RAJU                MR                .                 900             
+
+124   209       PARMESHWARA            MR                .                 510             
+
+125   389       hamahalli              mr                .                 1870            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   210       RAGHAVENDHAR REDDY     MR                .                 2180            
+
+127   211       PADMAJA                MR                .                 3850            
+
+128   355       upender                mr                .                 3230            
+
+129   35        CH. SURI BABU          MR                .                 4410            
+
+130   356       vijaya fancy           mr                .                 2890            
+
+131   214       STYLE HOME             MR                .                 2550            
+
+132   217       H.Y.D.BATTERY          MR                .                 150             
+
+133   358       mohan lal              mr                .                 2550            
+
+134   300       rupa reddy             mr                .                 3030            
+
+135   301        venkareshwara hotel   mr                .                 1040            
+
+136   182       M.RAMESH               MR                .                 2230            
+
+137   363       ravi karees            mr                .                 680             
+
+138   24        NAVEEN OIL SHOP        MR                .                 1350            
+
+139   433       SRINIVAS REDDY         mr                .                 510             
+
+140   519       laxman                 mr                .                 170             
+
+141   437       laxmi lodge            mr                .                 800             
+
+142   438       bhargavi automobiles   mr                .                 340             
+
+143   234       V.M.R                  MR                .                 2500            
+
+144   439       sai kiran exclusive    mr                .                 170             
+
+145   6         B. SRINU               MR                K.T.D             1250            
+
+146   5         B. NARASHIMA           MR                K.T.D             3050            
+
+147   4         KRISHNATIMBER DEPO     MR                .                 3060            
+
+148   280       pavan foot wear        mr                .                 340             
+
+149   429       laxmi                  mr                .                 1530            
+
+150   453       balaram                mr                25/b              1190            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   1         G.DAVID                MR                G.T.D             2380            
+
+152   513       ramesh                 mr                .                 340             
+
+153   465       LAXMI KANTH            MR                .                 170             
+
+154   467       MURALI EXCLUSIVE       MR                .                 1020            
+
+155   512       a.c.car                mr                .                 170             
+
+156   482       exide.anandh.battery   mr                .                 170             
+
+157   506       bluemen wines          mr                .                 510             
+
+158   255       ch.suri babu           mr                VPURAM            2090            
+
+159   494       legend hospital        mr                .                 900             
+
+160   497       laxmi(leomensupside)   mr                .                 680             
+
+161   498       kakathuya mess         mr                .                 680             
+
+162   499       b.c.hostal             mr                .                 680             
+
+163   503       bavani gifts           mr                .                 510             
+
+164   407       sri sai tiffins        mr                .                 170             
+
+165   525       bramma chary           mr                tarpalin back side170             
+
+166   397       upendher school        mr                .                 1870            
+
+167   398       rajashekar             mr                .                 1870            
+
+168   524       laxmaiah               mr                tarpalin back side250             
+
+169   116       SIMHACHALAM            MR                .                 150             
+
+170   520       sri venkateshwar       mr                general store     400             
+
+171   372       s.shekar reddy         mr                .                 360             
+
+172   409       srilaxmi enterprises   mr                .                 1020            
+
+173   19        RATHNAAUTOMOBLIES      MR                .                 6750            
+
+174   14        S.V.LODGE              MR                .                 2000            
+
+175   13        SHANTHI LODGE          MR                .                 600             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   420       sai kiran collection   mr                .                 510             
+
+177   12        SWAMYENTERPRISES       MR                .                 2210            
+
+178   8         YADHAGIRI              MR                N.G.T.D           950             
+
+179   11        MAHESHAUTOMOBLIES      MR                .                 680             
+
+180   10        A.N.E.S                MR                .                 150             
+
+181   466       VAIDEHI MURTHI         MR MOTORS         .                 1190            
+
+182   172       A.VENKAT               MR(GC)            .                 3390            
+
+183   380       samadanam              mr/gc             .                 1870            
+
+184   387       ethwaari               N.G.T.D           .                 850             
+
+185   458       ashok                  opp vmr:16        .                 1190            
+
+186   440       ramesh                 plot no:10        .                 1360            
+
+187   521       sravani                rajalaxmi         .                 170             
+
+188   480       ramesh                 siddhartha back si.                 170             
+
+189   441       BRAMAIAH               siddhartha clinic .                 1360            
+
+190   489       n.kumar                Srikrsnath(ib)    .                 170             
+
+191   299       b.prabhakar reddy      s-s-4             .                 2210            
+
+192   485       jyothi                 tiffin center     .                 680             
+
+193   406       krishna                tv tronics        .                 170             
+
+194   292       M.RAMUDU               G-2               .                 510             
+
+195   375       narendar reddy         g-3               .                 2210            
+
+196   245       N.SRIKANTH             G-4               VPURAM            2390            
+
+197   78        K. SATTI REDDY         G-4               .                 5000            
+
+198   464       SANJEEV REDDY          HHR(G-4)          .                 340             
+
+199   366       KURU MURTHY            1                 .                 170             
+
+200   67        B. NAGARAJU            1                 .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   359       PRASAD REDDY           1                 .                 1020            
+
+202   61        ALANKARKIRANAMSHOP     2                 .                 340             
+
+203   253       M.p bhargal            2                 VPURAM            1910            
+
+204   428       p.raju                 2                 .                 1530            
+
+205   427       s.shekar reddy         2                 .                 1530            
+
+206   60        T. GOVINDHA RAO        2                 .                 1190            
+
+207   384       b.prabhakar reddy      4                 .                 340             
+
+208   308       damodar                4                 .                 2370            
+
+209   64        T. LASHMI              4                 .                 2360            
+
+210   452       d.venkat ramana        4                 .                 1360            
+
+211   296       VIKRAM KUMAR           5                 .                 1020            
+
+212   335       srinivas               5                 .                 170             
+
+213   306       k.narsimha             5                 .                 340             
+
+214   79        G. KRUPAKAR REDDY      5-5-3             .                 170             
+
+215   77        V. MANOHAR             5-5-35            .                 170             
+
+216   365       T.RAMESH               5-5-35            .                 510             
+
+217   322       anjamma                5-5-35            .                 1230            
+
+218   71        V. JANGAIAH            5-5-4             .                 170             
+
+219   484       b.srisailam            7/a               .                 850             
+
+220   75        P. MALLA REDDY         7/A               .                 1870            
+
+221   73        M. ASHOK REDDY         7/A               .                 170             
+
+222   219       T.Manohar              7/A               mr 1              170             
+
+223   385       damodhar               7/c               .                 190             
+
+224   461       N.MOHAN REDDY          7/H               .                 680             
+
+225   332       kishore                8/A               .                 440             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   378       sham sundhar reddy     8/a               .                 1190            
+
+227   401       rahul                  8/b               .                 170             
+
+228   364       KARUNAKAR              8/C               .                 170             
+
+229   354       dhamodar reddy         8/c               .                 170             
+
+230   65        N. SRIRAM BABU         8/C               .                 510             
+
+231   508       durga rao              8/c kranthi       .                 200             
+
+232   507       sudher kumar           8/4kranthi        .                 200             
+
+233   250       S,MALIN                8                 vpuram            170             
+
+234   331       manoj kumar	           8                 .                 850             
+
+235   248       NARASIMHA              9                 vpuram            170             
+
+236   474       yadav reddy            9                 .                 100             
+
+237   435       krishna reddy          9                 .                 680             
+
+238   391       jaya                   9                 .                 510             
+
+239   460       yadava reddy           9                 .                 1190            
+
+240   62        D. VENKAT RAMANA       11/12             .                 510             
+
+241   523       PARUSURAM              11/12             kranthi hills     170             
+
+242   311       LAXMI                  11/12             .                 750             
+
+243   386       suresh                 11/12             .                 1870            
+
+244   373       upalaiah               11/12             .                 1710            
+
+245   455       yadhav reddy           12                .                 1160            
+
+246   361       ramesh                 12                .                 850             
+
+247   344       s.v mobiles(KIRAN)     13/A              MR                1530            
+
+248   419       siddhartha clinic      15                .                 170             
+
+249   168       DAS                    19                .                 1020            
+
+250   325       sudhakar reddy         20                .                 680             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   415       sunitha                21/1              .                 1020            
+
+252   445       kavaya                 23-c/2            .                 1360            
+
+253   444       r.laxmi                23/a              .                 340             
+
+254   188       Y.LACHI REDDY          23/A              .                 170             
+
+255   319       G.RAJ KUMAR            23/C/2            .                 2040            
+
+256   374       soma chary             23/c2             .                 1190            
+
+257   291       VEERA BHADRA RAO       23/1              .                 2550            
+
+258   501       ganesh                 23/1              .                 170             
+
+259   324       b.sheshu babu          23/1              .                 340             
+
+260   312       v.sunil kumar          23/1              .                 2550            
+
+261   414       bhaskar                23/1              .                 340             
+
+262   195       PARVATHULU             23/1              .                 170             
+
+263   459       mahessh                23/1              .                 1190            
+
+264   95        D. SUNKI REDDY         23/1              .                 170             
+
+265   305       santhosh               23/1              .                 1470            
+
+266   281       sandeep                23/1/2            .                 2210            
+
+267   472       mAHESH                 23                .                 1020            
+
+268   495       nagesh goud            23                .                 850             
+
+269   410       ravi                   24/a              .                 1360            
+
+270   352       sathesh kumar          24/a              .                 250             
+
+271   450       zakeerdin              24/a              .                 170             
+
+272   90        B. RAMULU              24/A              .                 640             
+
+273   486       d.srikanth             24/a              .                 310             
+
+274   295       rama krishna           24/b              .                 680             
+
+275   411       ashish                 24/b              .                 210             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   451       jaganmohan rao         24/b              .                 510             
+
+277   471       srinivas               24/1              .                 680             
+
+278   238       NARSING RAO            24                mr                170             
+
+279   456       sk.lol                 24                .                 1020            
+
+280   96        S.K. LAL               24                .                 2650            
+
+281   526       khosalya               24                .                 170             
+
+282   228       G.BAL RAM              25/B              .                 2200            
+
+283   340       surender reddy         25/b/12           .                 2040            
+
+284   92        K. ASHOK KUMAR         25/D/1            .                 680             
+
+285   473       SONY PASHA             25                .                 680             
+
+286   85        R. JANARDHAN REDDY     101               MC                170             
+
+287   516       sri krishna            102               g.h.a             170             
+
+288   349       K.AMARNATH REDDY       103               .                 170             
+
+289   179       C.ANIL                 103H.H            .                 170             
+
+290   390       venkat                 201               h.h.e             510             
+
+291   379       k.sajeeth              203               .                 680             
+
+292   500       SRINIVAS REDDY         206               G.H.A             340             
+
+293   110       V. SRIRAMA CHARY       283               .                 1920            
+
+294   370       maharaj foot.wear      283               .                 1190            
+
+295   443       sudharshan             283               .                 360             
+
+296   417       laxmi                  286               .                 510             
+
+297   326       brahmaiah              287               .                 170             
+
+298   515       venkatesh              287               .                 170             
+
+299   342       yadhaiah               287               .                 2040            
+
+300   418       manohar                287               .                 1020            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   341       surender               287               .                 2210            
+
+302   309       srinivas               288               .                 2420            
+
+303   371       a.sarala               301/h.h           .                 2210            
+
+304   348       RAJU                   301               .                 510             
+
+305   470       VIJAY KUMAR            308(gha)          .                 340             
+
+306   514       venkat                 390               H.H.E             340             
+
+307   206       G.GEETHA               401               .                 340             
+
+308   510       s.narsimha rao         401h.h            .                 170             
+
+309   527       srinivas               402               kalyani complex   170             
+
+                                                                    	----------
+                                                                    	361370
+                                                                    	----------
+
+                                END OF THE REPORT

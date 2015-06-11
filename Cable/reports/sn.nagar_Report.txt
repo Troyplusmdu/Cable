@@ -1,0 +1,105 @@
+
+                                     DUE LIST
+                                     --------
+Area : sn.nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     8         flytech&(balaji p.h)   flytech           sn.nagar          1800            
+
+2     45        flytech(3c)&(balaji)   flytech(gurramgudasn. nagar         0               
+
+3     49        v.venkat ramana        s.n nagar         sn nagar          0               
+
+4     26        n.narsimha rao         6-22/a            sn.nagar          0               
+
+5     36        krishnaiah             6-22              sn.nagar          150             
+
+6     21        p.t.chary              6-22              sn.nagar          0               
+
+7     51        subhash chandran       6-22              sn nagar          0               
+
+8     33        sakkubai               6-27              sn.nagar          150             
+
+9     19        manohar reddy          6-28              sn.nagar          0               
+
+10    37        kranthi yadhav         6-32/3            sn.nagar          30              
+
+11    42        rajasekar reddy        6-32/3            sn. nagar         720             
+
+12    16        thotabadram            6-32-1            sn.nagar          0               
+
+13    15        g.sathish              6-32-2            sn.nagar          0               
+
+14    50        n.shyamsunder          6-39              sn nagar          180             
+
+15    22        venkateshwar raj       6-39              sn.nagar          0               
+
+16    11        rakesh                 13                sn.nagar          0               
+
+17    46        e.nandha kumar         15                sn. nagar         120             
+
+18    39        v.narsimha             17                sn. nagar         0               
+
+19    34        k.ravinder reddy       33 h.no 6-40      sn.nagar          0               
+
+20    13        ramana                 38                sn.nagar          -50             
+
+21    6         a.shekar reddy         48                sn.nagar          0               
+
+22    10        madhusudhan            48                sn.nagar          0               
+
+23    40        sathyanarayana         48                sn. nagar         450             
+
+24    43        sudhakar reddy         48                sn. nagar         350             
+
+25    35        sr.prasadh             49                sn.nagar          0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    9         m.jaipal reddy(2c/n)   49                sn.nagar          0               
+
+27    5         raghupathi rao         59                sn.nagar          0               
+
+28    4         venkat reddy           105               sn.nagar          0               
+
+29    2         vp.nageshwar rao       108               sn.nagar          0               
+
+30    47        dayanandh              108               sn. nagar         360             
+
+31    14        t.gajendra kumar       109               sn.nagar          -10             
+
+32    3         y.yadhi reddy          109               sn.nagar          0               
+
+33    18        b.venkateshwar rao     113               sn.nagar          150             
+
+34    17        sudharshan reddy       113               sn.nagar          100             
+
+35    48        tirupathaiah           113               sn. nagar         0               
+
+36    25        mariya bala            120               sn.nagar          150             
+
+37    24        kumar goud             120               sn.nagar          600             
+
+38    1         eshwar                 126               sn.nagar          0               
+
+39    28        gopal reddy            135               sn.nagar          -150            
+
+40    27        yona                   138               sn.nagar          -850            
+
+41    20        sathyanarayana         144               sn.nagar          150             
+
+42    44        n.laxmi                145               sn. nagar         0               
+
+43    29        shekar                 147               sn.nagar          -50             
+
+                                                                    	----------
+                                                                    	4350
+                                                                    	----------
+
+                                END OF THE REPORT

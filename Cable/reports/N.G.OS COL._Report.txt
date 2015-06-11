@@ -1,0 +1,1619 @@
+
+                                     DUE LIST
+                                     --------
+Area : N.G.O'S COL.
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     2514      V.JHANSI               f.no:503          .                 170             
+
+2     2539      VENKATESH              FLAT NO:201       .                 170             
+
+3     2535      PRATHAPA REDDY         FLAT NO:304       .                 170             
+
+4     1189      BALA RAJU              T2-P-13(MIG)                        170             
+
+5     1290      RAMANA RAO             T2-P-17           .                 340             
+
+6     502       SVM SCHOOL             T2-P-26(LIG)                        150             
+
+7     991       S.K.BASHA              T2-P-30                             170             
+
+8     1165      C. NARASAIAH           T2-P-33                             170             
+
+9     951       V.NARASIMHA            T2-P-36                             170             
+
+10    816       NARASIMHA              T3-P-18/B         .                 170             
+
+11    1152      M.SALAAM               T3-P-21                             220             
+
+12    665       SHESHAGIRI             T3-P-28           .                 170             
+
+13    1141      DHAMODHAR REDDY        T3-P-33                             170             
+
+14    2424      buchi reddy            t3-p-40           .                 170             
+
+15    415       VIJAYA MILK (SHOP)     T3-P-42                             170             
+
+16    1139      NARASHIMA REDDY        T3-P-5/A          .                 170             
+
+17    1178      MVR .KUMAR             T3-P-57                             170             
+
+18    2011      SAI NADH               T-1-9             NGOS              170             
+
+19    1448      JAI RAJ                T2-1              NGO               170             
+
+20    2156      mahesh                 t2p-1             .                 170             
+
+21    1964      Vijay kumar            t2p-1             NGO               170             
+
+22    357       BHASKAR                T3-1                                180             
+
+23    1797      KRISHNA                T3P-1             .                 170             
+
+24    2230      veema reddy            t3p-1             .                 200             
+
+25    1759      PARUSURAM              T3P-1             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    2492      MUKANDA RAO            T3P-1             .                 170             
+
+27    2748      srinivas               t3p-1             .                 170             
+
+28    2477      SURESH                 T2-2              .                 170             
+
+29    2733      chathurveda            t2p-2             .                 130             
+
+30    2435      n.satyanarayana        T2P-2             .                 170             
+
+31    2501      YADAGIRI               T2P-2             .                 520             
+
+32    2499      GURUNATHA RAO          T2P-2             .                 170             
+
+33    2361      LAXMI ELECTRICALS      T3-2              .                 170             
+
+34    1277      ASHOK                  T3-2              .                 170             
+
+35    2374      b r choudari           t3-2              .                 170             
+
+36    658       RAMESH REDDY           T3P-2                               180             
+
+37    2081      krishna murthy         t3p-3/a           .                 170             
+
+38    1961      v.v.n sharma           t2-3              NGO               170             
+
+39    2549      sitharamanjaniyulu     T2p-3             .                 340             
+
+40    1505      BIKSHAM REDDY          T2P-3             .                 170             
+
+41    2750      srinivas               t2p-3             .                 170             
+
+42    2558      SURESH                 T2P-3             .                 170             
+
+43    143       P.R.KRISHNA            T2P-3(MIG)                          170             
+
+44    1668      NAGA  RAJU             T3P-4/B           .                 170             
+
+45    1118      D.SRINATH REDDY        t3p-4/b           .                 170             
+
+46    2227      narasimha              t1-4              .                 170             
+
+47    135       S.M.MOHAN              T2-4                                170             
+
+48    1620      RAMANA                 T2P-4             .                 120             
+
+49    2651      Usha Ravi              T2P-4             .                 170             
+
+50    133       V.NARASIMHA RAO        T2P-4(LIG)                          170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    274       MAHANDER               T2P-4(MIG)                          120             
+
+52    2731      sambasiva rao          t3-4              .                 130             
+
+53    2730      jaya                   t3-4              .                 300             
+
+54    2740      raja                   t3-4              .                 170             
+
+55    2402      v.sekhar babu          t3p-4             .                 340             
+
+56    2033      bhanuchandar           T3P-4             .                 180             
+
+57    559       V.RAJENDRA PRASAD      T3P-4                               170             
+
+58    2482      SRINU                  T3P-5/A           .                 170             
+
+59    2457      JANGAIAH GOUD          T3P-5/A           .                 170             
+
+60    2573      CHV.RATHAM             T3P-5/A           .                 170             
+
+61    2144      KRISHNA REDDY          T1-5              .                 170             
+
+62    948       SYDARAO                T1-5                                170             
+
+63    2705      vobulesh               t1-5              .                 170             
+
+64    2744      sambashiva rao         t2-5              .                 300             
+
+65    2214      lalbahudoor            t2p-5             .                 340             
+
+66    2746      karthik                t2p-5             .                 170             
+
+67    2620      tilak                  t2p-5             .                 170             
+
+68    70        VIJAYA MOHAN           T3-5                                170             
+
+69    2578      bala krishna           t3-5              .                 170             
+
+70    2519      DURGA PRASAD           T3P-5             .                 340             
+
+71    55        JAFFER HUSSIAN         T1-6                                170             
+
+72    2495      AMARNATH               T2-6              .                 170             
+
+73    2506      N.JANARDHAN RAO        T2P-6             2ND CONN          170             
+
+74    2316      anji                   t2p-6             .                 170             
+
+75    455       N. JANARDHAN RAO       T2P-6(LIG)                          170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    149       SRIVIKAS MODEL SCHOO   T2P-6(MIG)                          150             
+
+77    1835      A.RAVIKUMAR            t3-6              -                 170             
+
+78    2161      N.SURYANARAYANA`       T3-6.             .                 170             
+
+79    2366      siva ram krishna       t1-7              .                 340             
+
+80    2346      ravi kishore           t1-7              .                 170             
+
+81    2339      prasanna kumar         t1-7              .                 170             
+
+82    2597      a.nagabhushan rao      t1-7              .                 340             
+
+83    221       K.SHARADA              T2-7              .                 340             
+
+84    2469      Y.SAI BABU             T2P-7             .                 170             
+
+85    2150      ANU RADHA              T2P-7             .                 170             
+
+86    2209      jakaar motton shop     t2p-7             .                 200             
+
+87    2561      RAJ WATCH COMPANY      T2P-7             ..                340             
+
+88    1922      madav                  t3-7              NGO               170             
+
+89    2571      Ramesh                 T3-8/B            .                 170             
+
+90    1486      D. AYYAPPA NADIU       T3P-8/A           .                 170             
+
+91    2388      narayana               t3p-8/a           .                 340             
+
+92    1963      Yadagiri               t3p-8/a           NGO               340             
+
+93    2324      srinivas               t3p-8/a           .                 170             
+
+94    2728      vinay sagar            t3p-8/b           .                 130             
+
+95    2502      DHARMENDRA             T1-8              .                 170             
+
+96    2684      satish                 t1-8              .                 170             
+
+97    1697      P. MANI                T2-8              .                 170             
+
+98    937       NARESH                 T2-8                                240             
+
+99    829       G. YADAGIRI            T2p-8             .                 150             
+
+100   443       KANAKA BABU            T1-9                                170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   2505      SWAMI                  T2-9              .                 170             
+
+102   1459      KUMARI                 T2P-9             .                 206             
+
+103   2476      SURESH                 T2P-9             .                 170             
+
+104   448       Dr. N. PRAKASH         T3-9              .                 170             
+
+105   2585      jagan                  t3p-9             .                 340             
+
+106   365       P.RANGA REDDY          T3P-9             .                 850             
+
+107   2189      SRIKRISHNA             T3P-9             .                 180             
+
+108   1494      BALA KRISHNA           T3P-10/A          .                 170             
+
+109   1782      SHIRAM HAIR SALOON     T3P-10/A          -                 170             
+
+110   1845      MURALI                 T3P-10/A          .                 170             
+
+111   850       V .SAMBAIAH            T3P-10/A                            170             
+
+112   2203      g.ramesh               t3p-10/A          .                 340             
+
+113   2481      NARMADA                T3P-10/A          .                 330             
+
+114   2713      ashok                  T3P-10/A          .                 170             
+
+115   2460      K.CHAKRAVARTHY         T3P-10/A          .                 170             
+
+116   26        A. SITHA RAMULU        T3P-10/B                            170             
+
+117   1088      SUSHIL KUMAR           T2-10                               170             
+
+118   2341      kasi reddy             T2P-10            .                 170             
+
+119   1585      CHITTI BABU            T2P-10            .                 170             
+
+120   2677      n.ram reddy            t2p-10            .                 170             
+
+121   1765      VIJENDRA REDDY         T3p-10            .                 170             
+
+122   2687      kandal rao             t3p-10            .                 170             
+
+123   2602      ravi kumar             t1-11             .                 340             
+
+124   1951      Rajeswar reddy         t2-11             NGO               170             
+
+125   2717      ramaswami goud         t2p-11            .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   2239      k v relody             t2p-11            .                 170             
+
+127   139       YANADHI RAO            T2P-11(MIG)                         170             
+
+128   286       V.J.RAO                T3-11                               170             
+
+129   2553      b.s.prasad             T3P-11            .                 170             
+
+130   2719      balu                   t3p-11            .                 340             
+
+131   2293      james                  t1-12             .                 340             
+
+132   1565      KS.PRASAD              T2-12             .                 340             
+
+133   130       V.DEVID                T2P-12(LIG)                         510             
+
+134   132       VARAPRASAD             T2P-12(MIG)                         110             
+
+135   457       KAISHAN RAO            T3-12                               170             
+
+136   2034      YEDUKONDALU            T3-12             .                 170             
+
+137   2086      g.subba rao            t3-12             .                 340             
+
+138   2328      r.narayana swami       t3p-12            .                 340             
+
+139   2443      aphalatha              T3P-12            .                 170             
+
+140   2682      chandu                 t2-13             .                 340             
+
+141   1406      SRINIVAS.P             T2P-13            .                 190             
+
+142   2732      hanumanth rao          t2p-13            .                 130             
+
+143   196       PRAVEEN                T2P-13(MIG)                         200             
+
+144   289       SATYANARAYANA          T3-13                               170             
+
+145   2709      kasavulu               t3p-13            .                 170             
+
+146   2673      b.h.s .rao             t3p-13            .                 170             
+
+147   2741      karthik reddy          t3p-13            .                 170             
+
+148   2738      anji                   t3p-13            .                 170             
+
+149   2184      J.BUCHAIAH             T3P-14/A          .                 340             
+
+150   2152      RAMANA REDDY           T3P-14/A          .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   1838      BALAKESAVULU           t3p-14/a          .                 170             
+
+152   371       CH.VEERA SWAMY         T3P-14/A                            170             
+
+153   2570      Deva Raj               T1-14             .                 340             
+
+154   375       G.J. RAMULU            T1-14                               170             
+
+155   387       ASHOK                  T2-14                               180             
+
+156   1587      VENKATESH              T2P-14            .                 510             
+
+157   2664      r.prasad               t2p-14            .                 170             
+
+158   1530      V.SHIVA PRASAD         T2P-14            .                 170             
+
+159   2556      ANANDA RAO             T2P-14            .                 510             
+
+160   1982      Srinivas               t3-14             NGOs              170             
+
+161   892       SEKHAR REDDY           T3-14             .                 170             
+
+162   2695      sadanand               t3-14             .                 170             
+
+163   1513      SHANKAR YADAV          T3-14             .                 170             
+
+164   2259      naga raju              t3p-14            .                 340             
+
+165   2105      veeraraghavulu         t3p-14            .                 170             
+
+166   1063      VIDHYADHAR             T3P-15/A          .                 170             
+
+167   1812      UMAMAHESHWAR RAO       T3P-15/A          .                 340             
+
+168   2318      ch.veerabhadra rao     t1-15             .                 340             
+
+169   47        RAMA RAO               T2-15             .                 250             
+
+170   1535      MD.OSMAN               T2P-15            .                 170             
+
+171   2363      CH.RAJA SHEKAR         T2P-15            .                 170             
+
+172   291       MAHESH                 T3-15             .                 340             
+
+173   2245      venkateshwarlu         t3p-15            .                 170             
+
+174   1991      Malleswari             t3p-15            NGOs              170             
+
+175   2529      AFROZA                 T2-16             .                 340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   225       KALEEM BASHA           T2-16                               180             
+
+177   262       GS.REDDY               T2P-16            .                 170             
+
+178   668       JAMES                  T2P-16(LIG)       .                 640             
+
+179   2304      hari prasad            t3-16             .                 170             
+
+180   1589      ARUNA KUMARI           T3p-16            .                 170             
+
+181   2451      GANESH                 T3P-16            .                 170             
+
+182   315       ADRATH                 T3P-17/A                            170             
+
+183   2567      YADAGIRI               T3P-17/A          .                 170             
+
+184   2611      sathish goud           t3p-17/a          ...               170             
+
+185   923       SAIDULU                T3P-17/A          .                 170             
+
+186   66        HENRY JUSTIN           T1-17                               340             
+
+187   2376      m.d.maqsood            t2-17             .                 170             
+
+188   898       LALAIAH                T2P-17            .                 170             
+
+189   284       SATYANARAYANA          T2P-17            .                 430             
+
+190   2207      ravi kumar             t3-17             .                 340             
+
+191   1104      K.SURESHCHANDRA        T3-17             .                 170             
+
+192   1757      SRINIVAS               T3P-17            .                 170             
+
+193   1740      SRI LAXMI              T3P-17            .                 170             
+
+194   930       B. SATHAIAH            T3P-18/A                            170             
+
+195   1702      GOPI NATH              T3P-18/A          .                 170             
+
+196   2491      SAI SHARMA             T1-18             .                 170             
+
+197   2554      nagalaxmi              T1-18             .                 170             
+
+198   2119      K.SRINIVAS             T1-18             .                 170             
+
+199   1894      Jai Gopal              T2 p-18           NGO               170             
+
+200   1822      B.RAJESH               T2-18             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   295       C.VENU GOPAL           T3-18                               170             
+
+202   226       SRINIVAS               T2-19             .                 170             
+
+203   2306      fashions dricleaner    t2p-19            .                 170             
+
+204   2739      ramesh babu            t2p-19            .                 170             
+
+205   1432      KUMAR                  T2P-19            .                 150             
+
+206   2679      dinesh                 t2p-19            .                 340             
+
+207   1833      G.SRINIVAS             T2P-19            -                 170             
+
+208   2729      umadevi traders        t2p-19            .                 130             
+
+209   2128      RAHEEM                 T2P-19            .                 680             
+
+210   2680      satyanarayana          t2p-19            .                 170             
+
+211   187       ANJANIYULU             T2P-19(LIG)       .                 170             
+
+212   296       K.L.NARAYANA           T3-19                               170             
+
+213   2396      k.ravindra kumar       t3-19             .                 170             
+
+214   754       M.S.MURTHY             T3P-19                              170             
+
+215   1627      B.R.MOHAN RAO          T3P-19            .                 170             
+
+216   276       PRASAD.B.S.S           T3P-19                              170             
+
+217   1633      SATYANARAYANA MURTHY   T3P-19            .                 170             
+
+218   1763      KISHORE                T1-20             .                 510             
+
+219   44        K.S.VENKATESH          T2-20                               170             
+
+220   2723      yadaiah                t2p-20            .                 130             
+
+221   2425      femous bed works       t2p-20            .                 170             
+
+222   1638      DGS.SHARMA             T2P-20            .                 170             
+
+223   2465      NARAYANA RAO           T2P-20            .                 340             
+
+224   2710      mahesh                 t2p-20            .                 170             
+
+225   1817      RAVINDHAR BABU         T2P-20            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   2513      S. BABU                T2P-20            .                 170             
+
+227   2751      nvk.mahan rao          t2p-20(set box)   .                 170             
+
+228   1420      PRABAKAR REDDY         T2P-20MIG                           170             
+
+229   297       S.L.NARASIMHA RAO      T3-20                               170             
+
+230   327       CH. VENKAT RAO         T3P-20            .                 170             
+
+231   257       G. MASES               T3P-20/21         .                 220             
+
+232   2232      prasad                 t1-21             .                 170             
+
+233   2575      Srinivas Rao           T2P-21            .                 170             
+
+234   2202      m.srinivaslu           t2p-21            .                 340             
+
+235   1434      VSATYANARAYANA RAO     T2P-21            .                 510             
+
+236   2219      khaleel                t2p-21            .                 170             
+
+237   1843      G.V.SWAMY              T2P-21            .                 170             
+
+238   2040      VENKATESH              T2P-21            .                 140             
+
+239   2649      Ravi Krishna           T2P-21            .                 190             
+
+240   2400      k.narasimha rao        T2P-21            .                 510             
+
+241   1749      SAI SRINIVAS           T2P-21            .                 190             
+
+242   1568      MADHURI                T3P-21            .                 340             
+
+243   270       PADMA                  T3P-21            .                 350             
+
+244   2166      PRASANNA KUMAR         T3p-21            .                 340             
+
+245   2645      SK.Jhani               T1-22             .                 340             
+
+246   791       P. VENKATESH           T2P-22            .                 340             
+
+247   2683      venkateswarlu          t2p-22            .                 170             
+
+248   2685      t.srinivas rao         t2p-22            .                 170             
+
+249   300       SHEKARAIAH             T3-22                               170             
+
+250   1492      K. RAGHUNANDAN         T3P-22            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   2629      prasad rao             t1-23             .                 170             
+
+252   2615      c.v.nandan             t1-23             .                 170             
+
+253   2639      murali mohan           t1-23             .                 340             
+
+254   1567      RAGHUNATH REDDY        T2-23             .                 170             
+
+255   2065      PADMA V                T2P-23            .                 380             
+
+256   1993      Srinivas               t2p-23            NGOs              510             
+
+257   537       P.R.R.MOHAN RAO        T1-24                               170             
+
+258   2031      abdhl razak            T1-24             .                 170             
+
+259   1746      K.SAMBASHIVA RAO       T2P-24            .                 170             
+
+260   302       MANI                   T3-24                               130             
+
+261   2323      mahesh                 t3p-24            .                 340             
+
+262   1793      SUDHARSHAN RAO         T3P-24            .                 170             
+
+263   2242      jagam mohan            t3p-24            .                 170             
+
+264   2056      veenu                  t3p-25/a          .                 170             
+
+265   962       SATISH                 T3P-25/A          .                 170             
+
+266   1195      A.NARESH               T3P-25/A                            300             
+
+267   2607      s.a.wahab              t1-25             .                 170             
+
+268   2605      s.d.sharif             t2-25             .                 170             
+
+269   2157      RAMANIAH               T2P-25            .                 170             
+
+270   243       PRASADA RAO            T2P-25            .                 190             
+
+271   2154      SUDHAKAR               T2P-25            .                 170             
+
+272   2644      MD.Anwarullah          T1-26             .                 170             
+
+273   2301      mohan rao              t1-26             .                 340             
+
+274   2603      ramana                 t1-26             .                 170             
+
+275   2538      RAJASHEKAR REDDY       T1-26             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   2691      ch. suresh             t2-26             .                 170             
+
+277   1628      SURESH                 T2-26             .                 340             
+
+278   2308      srinivasa reddy        t2p-26            .                 170             
+
+279   488       A.PRABAKAR             T3-26             .                 170             
+
+280   2456      K.NARASAIAH            T3p-26            .                 170             
+
+281   2551      sarojini               T3P-26            .                 170             
+
+282   2669      srinivas               t3p-26            .                 340             
+
+283   1197      SRINIVAS PHOTOSTUDIO   T3P-26            .                 80              
+
+284   698       NAGESH                 t3p-26            .                 150             
+
+285   320       MANORAMA               T1-27                               170             
+
+286   2069      rani                   t2-27             .                 170             
+
+287   2599      pradeep kumar          t2p-27            .                 340             
+
+288   2614      sudharshan reddy       t2p-27            .                 340             
+
+289   164       S.V.KUMAR              T2P-27                              170             
+
+290   2291      srinivas               t2p-27            .                 170             
+
+291   2657      satya narayana reddy   t2p-27            .                 170             
+
+292   128       VAMSHI                 T2P-27                              170             
+
+293   2742      jagadiswarachari       t3-27             .                 170             
+
+294   2737      gopi                   t3p-27            .                 170             
+
+295   1588      RAJ SHEKAR             T3P-28/A          .                 170             
+
+296   2247      uma shenkar            t1-28             .                 170             
+
+297   1061      P. VENKATESWAR RAO     T1-28                               170             
+
+298   2623      a.srinivas reddy       t1-28             .                 170             
+
+299   2345      ramakrishna            t1-28             .                 170             
+
+300   1491      SUDHAKAR               T2P-28            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   2358      SRIDHAR                T2P-28            .                 340             
+
+302   166       RAJESHWAR              T2P-28(LIG)                         350             
+
+303   160       RAVI KUMAR             T3-28             .                 170             
+
+304   878       B.V.S.N.RAO            T2P-29                              340             
+
+305   1739      P.L.N.RAJU             T2P-29            .                 340             
+
+306   2275      laxman                 t2p-29            .                 340             
+
+307   144       SUBRAMANYAM            T2P-29(MIG)       .                 170             
+
+308   1816      NARASHIMA REDDY        T3-29             .                 170             
+
+309   2736      MALLESHAm              t3-29             .                 170             
+
+310   719       S.VENKATESHAM          T2P-30/A(LIG)                       170             
+
+311   2692      rajeswar reddy         T3-30/a           .                 170             
+
+312   2320      harthi                 t3-30/a           .                 170             
+
+313   1730      K. CHAKRAVARTHY        T3-30/B           .                 170             
+
+314   1852      SATYANARAYANA          T2-30             .                 170             
+
+315   1775      SRI SAI                T2P-30            CHIKEN CENTER     170             
+
+316   2386      b.vamshi               t2p-30            .                 170             
+
+317   2284      narasimha              t2p-30            .                 170             
+
+318   173       SUNDAR RAO             T2P-30                              170             
+
+319   309       HARI BABU              T3-30             .                 170             
+
+320   2103      masthan valti          t3p-30            .                 170             
+
+321   2044      yadaiah                t3p-30            .                 170             
+
+322   2734      tarahouzari            t2-31             .                 130             
+
+323   1696      ANKAIAH                T2-31             .                 450             
+
+324   2043      raju                   t2p-31            .                 330             
+
+325   641       RICE STORE             T2P-31            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+326   2711      sunil                  t2p-31            .                 170             
+
+327   1409      BHARGAVA  REDDY        T2P-31(LIG)                         150             
+
+328   174       K.ANDAL                T2P-31(LIG)                         340             
+
+329   2541      SRINIVAS REDDY         T3P-31            ..                170             
+
+330   2540      JAYASRI                T3P-31            .                 170             
+
+331   2693      venkatesh              t3p-31            .                 170             
+
+332   378       K.ESWARA PRASAD        T1-32             .                 340             
+
+333   2533      VENKATESH              T2P-32            .                 170             
+
+334   2433      mallikharjun rao       t2p-32            .                 170             
+
+335   2248      yadagiri               T2P-32            .                 340             
+
+336   2503      KALYAN                 t3-32             .                 510             
+
+337   1901      D.RAJU                 T1-33             .                 340             
+
+338   77        K.PANDURANGA CHARYU    T1-33                               170             
+
+339   2523      prakesh rao            T2P-33            .                 170             
+
+340   2362      VENKATESH              T2P-33            .                 170             
+
+341   2055      rama narasoiah         t2p-33            .                 340             
+
+342   1153      TIRUMALA REDDY         T3-33                               100             
+
+343   2418      jagi reddy             t3-33             .                 170             
+
+344   2552      VENKATESHWAR RAO       T3-33             ..                170             
+
+345   2534      CH.RAVI                T3P-33            .                 340             
+
+346   2462      N.ANANTH GOUD          T3P-33            .                 170             
+
+347   2676      sri laxmi              t3p-33            .                 170             
+
+348   2518      B.VENKATESHWAR RAO     T1-34             .                 340             
+
+349   1428      KNIZAMUDDIN            T2P-34            .                 170             
+
+350   2667      mahendra               t2p-34            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+351   188       HAIR SALOON            T2P-34(LIG)       .                 300             
+
+352   2662      visalakshi             t3-34             .                 170             
+
+353   718       JAYASURYA              T3-34                               170             
+
+354   1262      SRI HARI               T1-35             .                 210             
+
+355   1650      KV.RAO                 T1-35             .                 170             
+
+356   2622      md.pasha               t1-35             .                 170             
+
+357   1501      V. NAGESHWAR RAO       T1-35             .                 170             
+
+358   1430      PANDARINATH            T1-35             .                 170             
+
+359   102       ASHOK                  T2-35                               120             
+
+360   2545      S.K.BHASHA             T2P-35            ..                170             
+
+361   953       ARUNA                  T2P-35                              170             
+
+362   2596      k.k.reddy              t2p-35            .                 340             
+
+363   910       TENT HOUSE             T2P-35(LIG)                         150             
+
+364   1051      ANURADHA               T3-35                               170             
+
+365   1275      R. SHESHADRI           T1-36                               170             
+
+366   237       RAVI KUMAR             T2-36                               330             
+
+367   190       GEORGE                 T2P-36            .                 170             
+
+368   1506      HARI                   T2p-36            .                 170             
+
+369   1834      SRISAILAM              T3P-36            -                 170             
+
+370   2178      NARASIMHA              T3P-36            .                 180             
+
+371   2543      U.RAVINDAR             T2P-37            ..                170             
+
+372   2496      MS.CHARY               T2P-37            .                 170             
+
+373   783       SHANKER REDDY          T2P-37                              170             
+
+374   2084      satya gift shop        t2p-37            .                 340             
+
+375   151       SHEKAR                 T3-37                               260             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+376   2648      jyothi                 t3-37             .                 170             
+
+377   798       SATYANARAYANA          T3P-37                              170             
+
+378   1475      GCS.REDDY              T3P-37            .                 150             
+
+379   2637      linga swami            t3p-37            .                 170             
+
+380   405       D. PRAKASHAM           T1-38                               170             
+
+381   193       A.K.R.KRISHNA          T2P-38                              170             
+
+382   318       ADINARAYANA            T3-38                               170             
+
+383   404       T.KARUNAKAR            T3P-38                              170             
+
+384   2261      BALA GOUD              T3P-38            .                 170             
+
+385   137       PRAVEEN                T3P-38                              170             
+
+386   1402      MARKANDEYA             T3P-38                              170             
+
+387   911       K. PRASAD RAO          T2-39             .                 430             
+
+388   194       P.A.RAO                T2P-39(MIG)                         340             
+
+389   976       LINGAM                 T3-39             .                 180             
+
+390   1562      NARENDAR               T3P-39            .                 170             
+
+391   2652      Ramdev                 T3P-39            .                 170             
+
+392   2411      m v krishna rao        t3p-39            .                 170             
+
+393   1020      GIRI                   T3P-39            .                 170             
+
+394   2702      ramanamma              t1-40             .                 170             
+
+395   1831      RAVI                   T2P-40            -                 170             
+
+396   2606      vishnu                 t3p-40            .                 170             
+
+397   1093      NARASHIMA              T3P-40                              170             
+
+398   2572      surya times& gift..    T3P-40            .                 340             
+
+399   1712      SP.REDDY               T1-41             .                 170             
+
+400   2655      d.raju                 t1-41             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+401   241       P.R.K.SOMAYAJULU       T2-41                               170             
+
+402   2724      d.sharma               t2p-41            .                 130             
+
+403   2716      bhanuteja              t3p-41            .                 140             
+
+404   2707      kumar                  t3p-41            .                 170             
+
+405   784       SUBBARAO               T3P-41                              220             
+
+406   2412      b s chowdhan           t3p-41            .                 170             
+
+407   304       BALA KRISHNA           T3P-41            .                 180             
+
+408   1973      R.v subbaiah           t2-42             .                 340             
+
+409   713       P.SAMUEL               T2P-42                              170             
+
+410   1652      DYAKAR REDDY           T2P-42            .                 300             
+
+411   2404      srinkanth              t2p-42            .                 170             
+
+412   2577      K.Venkataiah           T3-42             .                 170             
+
+413   2384      m.anjaiah              t3p-42            .                 170             
+
+414   1631      LAZARAS                T2P-43            .                 170             
+
+415   233       YADAGIRI               T3P-43                              360             
+
+416   2234      srinivas               t2-44             .                 170             
+
+417   2399      vasantha               t2p-44            .                 170             
+
+418   1828      V.S.RAO                T3P-44            -                 170             
+
+419   2352      m.phani                t3p-44            .                 170             
+
+420   208       TVS.RAM MOHAN RAO      T1-45/1           .                 170             
+
+421   2405      arunkumar              t1-45             .                 170             
+
+422   2656      narayana singh         t1-45             .                 170             
+
+423   201       M.N.RAO                T2P-45                              170             
+
+424   2722      K.DURGA PRASAD         t3-45             .                 130             
+
+425   1133      RAMESH                 T3p-45            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+426   934       S T V. SESHU           T3P-45                              170             
+
+427   2668      koti                   t3p-45            .                 220             
+
+428   510       P.SUDHAKAR REDDY       T1-46                               340             
+
+429   2618      naga raju              t1-46             .                 170             
+
+430   2218      n naresh reddy         t1-46             .                 170             
+
+431   2151      MANOHAR RAO            T2P-46            .                 170             
+
+432   2584      ramu                   t2p-46            .                 170             
+
+433   1925      venkateswarlu          t3-46             NGO               340             
+
+434   2430      G.krishna              T3P-46            .                 170             
+
+435   2160      R A RAO                T3P-46            .                 170             
+
+436   2726      masthan                t3p-46            .                 130             
+
+437   2725      jeevan reddy           t3p-46            .                 130             
+
+438   2380      v l n murthy           t3p-46            .                 170             
+
+439   1552      PRABHAKAR REDDY        T3P-46            .                 150             
+
+440   2642      osrealu                t2-47             .                 170             
+
+441   2689      yadaiah                t2-47             .                 170             
+
+442   184       RAMESH                 T2P-47                              170             
+
+443   2370      naveen kumar           t3-47             .                 170             
+
+444   1539      RAJENDRA PRASAD        T3P-47            .                 170             
+
+445   2632      rajesh                 t3p-48/a          .                 340             
+
+446   2548      k.s.sharma             T3P-48/A          .                 340             
+
+447   2745      mahesh                 t1-48             .                 170             
+
+448   2670      SRINIVAS REDDY         t1-48             .                 170             
+
+449   2338      TIRUPATI               T1-48             .                 170             
+
+450   2235      ch s reddy             t1-48             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+451   2483      S.S.R.RAJU             T1-48             .                 170             
+
+452   1957      rathna kumari          t1-48             NGO               510             
+
+453   2206      babu                   t2-48             .                 170             
+
+454   1981      Y.sujay                t2p-48            NGOs              170             
+
+455   2531      GIVINDA RAM            T3-48             .                 170             
+
+456   2336      PARASHURAM             T3P-48            .                 170             
+
+457   2640      k.yellaiah             t3p-48            .                 170             
+
+458   2079      k malakondaiah         t3p-48            .                 340             
+
+459   1514      MD.SALEEMA             T3P-48            .                 100             
+
+460   636       NARINGA REDDY          T3P-48                              170             
+
+461   2666      m.venkateshwar rao     t3p-48            .                 170             
+
+462   1027      SUDHAKAR               T3P-48                              340             
+
+463   1408      PV. RAJU               T3P-48            .                 280             
+
+464   454       P.SHANKAR RAO          T2P-49            .                 170             
+
+465   1170      GOPAL REDDY            T3-49                               510             
+
+466   2624      ramakrishna reddy      t1-50             .                 340             
+
+467   2493      R.VINAYAKA RAO         T2-50             .                 340             
+
+468   246       R.VINAYAKA RAO         T2-50                               170             
+
+469   2532      earanna                t2p-50            .                 170             
+
+470   451       M.B.R.PRASAD           T3-50                               170             
+
+471   2447      BHARATH KUMAR          T3P-50            .                 170             
+
+472   2635      rama devi              t3p-50            .                 170             
+
+473   2562      BIKSHAPATHI            T3P-50            .                 340             
+
+474   868       RAVI                   T3P-50                              170             
+
+475   2617      sravan kumar           t2-51             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+476   810       A.V.R. MOHAN           T2-51                               170             
+
+477   325       T.VENKATAIAH           T3P-52/A                            170             
+
+478   2511      SK RAHIM               T1-52             .                 170             
+
+479   2525      V.RADHA KRISHNA        t2-52             2ND CONN          170             
+
+480   1867      Y.Raelha krishna       T2-52             NGO               170             
+
+481   203       K.RAVI KUMAR           T3-52                               180             
+
+482   2752      gs. rao                t3p-52            .                 170             
+
+483   2574      Jagadish               T3P-52            .                 170             
+
+484   1614      ANANTH KUMAR           T3P-52            .                 170             
+
+485   2195      pranay                 t1-53             .                 170             
+
+486   2628      koti reddy             t1-53             .                 170             
+
+487   2537      KAMAKSHAIAH            T1-53             .                 340             
+
+488   1260      LAXMI NAMASAIAH        T1-53                               190             
+
+489   1523      B.RANI                 T2-53             .                 350             
+
+490   450       HANUMAMTHA RAO         T2P-53                              170             
+
+491   2198      l.trimurthulu          t3-53             .                 170             
+
+492   2661      yogitha reddy          t3-53             .                 170             
+
+493   2718      maladri                t3p-53            .                 170             
+
+494   1489      P. MALLAIAH            T3P-53            .                 170             
+
+495   1456      MASTHAN                T3P-53            .                 170             
+
+496   2701      venkateshwarlu         t3p-53            .                 340             
+
+497   2653      Venkata Rao            T3P-53            .                 170             
+
+498   2046      PLRAJU                 T1-54             .                 340             
+
+499   801       A. VENKATESH           T1-54                               170             
+
+500   1758      B.PANDU                T2-54             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+501   2590      naga bushanam          t2p-54            .                 170             
+
+502   2497      SHANRHI KUMAR          T3-54             .                 170             
+
+503   1538      JANAKI RAMULU          T3-54             .                 170             
+
+504   842       VENGAIAH               T3P -54           .                 170             
+
+505   2650      Munijakshi             T3P-54            .                 170             
+
+506   1431      Y.KONDAL RAO           T3P-54            .                 170             
+
+507   541       RAMANJANIYULU          T3P-54            .                 170             
+
+508   2286      p.kondal rao           t3p-54            .                 170             
+
+509   1769      LAXMI NARASAIAH        T3P-54            .                 170             
+
+510   2475      O.HAJARATH             T3P-54            .                 170             
+
+511   145       BABURAO                T1-55                               170             
+
+512   1465      K. RAMESH              T2P-55            .                 510             
+
+513   453       B.RAMA KRISHNA         T3P-55                              170             
+
+514   2106      punnaiah               t3p-55            .                 170             
+
+515   1545      K. MANI                T2-56             .                 170             
+
+516   142       VENKAT RATHNAM         T2-56             -                 170             
+
+517   2616      govinda ram            t3-56             2 conn            170             
+
+518   2582      sekhar reddy           t3-56             .                 170             
+
+519   2654      SriDental Clinic       T3-56             .                 170             
+
+520   1777      A.VENKATESWAR RAO      T1-57             -                 340             
+
+521   2445      P.ANIL REDDY           T2-57             .                 170             
+
+522   2474      MANAHAR RAO            T2-57             .                 170             
+
+523   212       M.VENTESHWARLU         T2P-57            .                 300             
+
+524   2610      S.sharma               t3p-57            .                 170             
+
+525   2249      triupathi naidu        t3p-57            .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+526   2547      CH.joseph              T2-58             ..                170             
+
+527   213       K.R.RAO                T2P-58(MIG)       .                 170             
+
+528   330       K.V.CHARY              T3-58                               170             
+
+529   1479      REVT. SANTHAIAH        T3P-58            .                 170             
+
+530   2698      venkatesh              t3p-59            .                 340             
+
+531   2700      devamma                t3p-59            .                 170             
+
+532   1959      Anil kumar             t1-60             NGO               170             
+
+533   2613      ramana                 t1-60             .                 150             
+
+534   2703      ashok kumar            t1-60             .                 310             
+
+535   2421      siva kumar             t1-60             .                 180             
+
+536   2647      yassin                 T1-60             .                 170             
+
+537   35        NS.RAO                 T2-60             .                 220             
+
+538   702       SRINIVAS MURTHY        T2P-60                              340             
+
+539   2459      BIKAHAMAIAH            T2P-60            .                 170             
+
+540   2014      Raju                   T3-60             NGOS              340             
+
+541   332       PREAM                  T3-60                               170             
+
+542   2608      k.tharaiah             t3p-60            ...               170             
+
+543   2120      SARATH CHANDRA         T1-61             .                 170             
+
+544   354       GOVARDHAM REDDY        T3-61                               255             
+
+545   2253      sriram murthy          t1-62             .                 170             
+
+546   1509      G.V.NARASAIAH          T2-62             .                 10              
+
+547   214       A.RANGA RAO            T2P-62                              170             
+
+548   2303      krishna rao            t2-63             .                 170             
+
+549   2565      Venu                   T3-63             ...               170             
+
+550   2134      R.P.REDDY              T3-63             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+551   1515      D.SATYANARAYANA        T1-64             .                 110             
+
+552   2517      G.ANJAIAH              T1-64             .                 340             
+
+553   2634      malla reddy            t2-64             .                 340             
+
+554   2699      srinivas reddy         t2-64             .                 170             
+
+555   2314      sri mahalaxmi          t2-64             .                 170             
+
+556   2500      k.srinivas             T2-64             .                 340             
+
+557   1783      VIP BAGS SHOP          T2-64             -                 180             
+
+558   1177      B.SRINIVAS             T3-64                               170             
+
+559   1607      SHANKAR GIRI           T1-65             .                 170             
+
+560   2643      v.appalakonda          T1-65             .                 340             
+
+561   1398      RAMANAIAH              t1-65             .                 40              
+
+562   2394      anand                  t2-65             .                 170             
+
+563   2720      laxmi sridevi          t3-65             .                 170             
+
+564   863       M. Y. JANGAIAH         T3-65             .                 510             
+
+565   2674      kiran                  t3-66             .                 170             
+
+566   1811      SRINIVAS               T3-66             .                 190             
+
+567   2681      raghuveer              t1-67             .                 170             
+
+568   59        VENKATA  REDDY         T2-67                               340             
+
+569   1014      R.PAPAIAH              P-68                                200             
+
+570   2347      tukka reddy            p-68              .                 170             
+
+571   2721      ravindhar              p-68              .                 170             
+
+572   4         RAMA KRISHNA           P-68              .                 3080            
+
+573   893       M.M. KRISHNA           T1-68                               170             
+
+574   2663      ganesh                 t1-68             .                 170             
+
+575   111       V.S.PRASAD             T1-68                               170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+576   1366      M. SADANAND            T1-68             .                 170             
+
+577   2471      VIJAY                  T1-68             .                 170             
+
+578   2658      srirama sharma         t3-68             .                 170             
+
+579   2696      venkat reddy           t-68              .                 170             
+
+580   1569      GOPALA CHARYULU        T2-69             .                 170             
+
+581   2715      amarnath               t1-70             .                 170             
+
+582   1173      DHARMA GOUD            T1-70                               170             
+
+583   2706      vinod                  t1-70             .                 300             
+
+584   1180      VENKATAIAH             T1-70                               150             
+
+585   1123      V.KRISHNA RAO          T1-70             .                 280             
+
+586   1293      OS. RAO                T1-70                               180             
+
+587   2012      G.Srinivas             T2-70             NGOS              170             
+
+588   2704      mahesh                 t2-70             .                 340             
+
+589   1463      E.V. RAMANA RAO        T2-71             .                 170             
+
+590   2560      A.S.RAMAKRISHNA        T3-71             ..                340             
+
+591   940       VENKATESH              T1-72             .                 170             
+
+592   114       V.SRINIVASA MURTHY     T1-72             .                 170             
+
+593   1524      VEENU GOPAL            T3-72             .                 170             
+
+594   1437      SRINU                  T3-72             .                 170             
+
+595   2269      subramanyam            T1-73             .                 170             
+
+596   980       SUBHASH THIVARI        T1-73                               170             
+
+597   267       C.V.SUBBA RAO          T2-73             .                 170             
+
+598   346       N.P.RAJU               T3-73                               170             
+
+599   1722      K. SRINIVAS            T2-74             .                 170             
+
+600   348       N.R.K.BHASKARA RAO     T3-74                               170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+601   1989      Rama rao               t3-74             NGOs              310             
+
+602   2212      subashini              t1-75             .                 170             
+
+603   2437      dr.suresh              t2-75             .                 170             
+
+604   1923      sudhakar reddy         t3-75             NGO               170             
+
+605   349       KRISHNA MURTHY         T3-75                               170             
+
+606   1254      C. MALLIKHARJUN        T1-76                               170             
+
+607   2564      SATYA NARAYANA         T2-76             .                 170             
+
+608   2215      bangaraiah             t2-76             .                 170             
+
+609   1097      S.K.MOULALI            T3-76                               180             
+
+610   271       RAM REDDY              T2-77                               170             
+
+611   1124      JOSEPH                 T3-77                               280             
+
+612   2464      GOPALA KRISHNA         T2-78/A           .DOUBLE CONN      300             
+
+613   352       B.PANDU RANGAM         T3-78                               240             
+
+614   120       K.S.SHARMA             T1-79                               170             
+
+615   2528      sanjeev                T2-80             .                 340             
+
+616   109       N.P.RAJU               T2-81(LIG)                          240             
+
+617   1977      RAMA CHANDER RAO       T3-81             .                 260             
+
+618   2260      SOUMYA                 T3-81             .                 340             
+
+619   2194      venkatesh              t3-81             .                 380             
+
+620   981       SRINIVAS               T3-81             .                 190             
+
+621   1827      KH.RAMA  RAO           T1-82             -                 340             
+
+622   1288      T. RAVI KUMAR          T1-83             .                 170             
+
+623   2057      k.yedukondalu          t1-83             .                 170             
+
+624   2660      g.balappa              t1-83             .                 170             
+
+625   2678      gowtham reddy          t2-83             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+626   1837      VAMSHI KRISHNA         T2-83             -                 170             
+
+627   2627      simhachalam            t2-83             .                 170             
+
+628   2309      k s guptha             t1-84             .                 170             
+
+629   236       K.R.MOHAN RAO          T2-84                               170             
+
+630   108       D.HANUMATH RAO         T1-85                               170             
+
+631   238       BIKSHAPATHI            T2-85                               190             
+
+632   2149      J.S.REDDY              T2-86             .                 170             
+
+633   1540      PULLA REDDY            T2-88             .                 200             
+
+634   372       A.B.GOUD               T2-88                               300             
+
+635   2686      raja rama              t2-90             .                 340             
+
+636   2307      mallaiah               t2-90             .                 170             
+
+637   2312      yadaiah                t2-90             .                 340             
+
+638   2116      pandaiah               t2-90             .                 140             
+
+639   1796      PANDU REDDY            T2-90             .                 170             
+
+640   2735      sekhar                 t2-90             .                 170             
+
+641   2592      ram reddy              f.no:-101         .                 510             
+
+642   2598      badrinath goud         f.no:-102         .                 130             
+
+643   215       B.H.MALLIKARJUNA RAO   T2P-108                             170             
+
+644   216       KOTI REDDY             T2P-109                             170             
+
+645   2467      mallesh                T2p-110           .                 340             
+
+646   1909      SUDHAKAR               T2P-110           .                 170             
+
+647   2221      sashidhar              t2p-110           .                 170             
+
+648   2427      sanyasi rao            t2p-110           .                 340             
+
+649   2743      v.trinadh              t3p-110           .                 170             
+
+650   2671      raja shekar            t2p-111           .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+651   2587      laxman goud            f.no:-202         .                 260             
+
+652   2568      C.V.Rao                F.no:-203         .                 340             
+
+653   2612      hari krishna           p-231             .                 420             
+
+654   1995      Rambabu                p-231             NGOs              170             
+
+655   2727      satya narayana         p-231             .                 130             
+
+656   2749      lachi reddy            p-232             .                 170             
+
+657   2440      DHANJAI.D              P-232             .                 170             
+
+658   2579      padma                  p-232             .                 170             
+
+659   1511      N.M. RAO               P-233             .                 170             
+
+660   774       CHANDRA SEKHAR         P-233                               170             
+
+661   549       RAMESH                 P-233             .                 130             
+
+662   1626      S.CHAITHANYA           P-233             .                 260             
+
+663   1107      RAVI KUMAR             P-233             .                 120             
+
+664   2569      NARSIMHA raju          P-233             .                 340             
+
+665   2466      VENKATIAH              P-233             .                 340             
+
+666   1892      S.K Kulavan            p-233             NGO               340             
+
+667   2524      KOTESH                 P-234             .                 510             
+
+668   2631      Ramachandra rao        p-234             .                 170             
+
+669   1975      Chandraiah             p-234             NGO               90              
+
+670   1367      thirumala              P-234             .                 140             
+
+671   1333      VENKAIAH.K             P-234             .                 160             
+
+672   1111      MALADRI                P-234                               110             
+
+673   2343      rangaiah               p-234             .                 0               
+
+674   1994      S.S Babu               p-235             NGOs              170             
+
+675   1895      Bakkalaiah             P-236             NGO               340             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+676   2292      ramu                   p-236             .                 330             
+
+677   1541      LAXMI                  P-236             .                 230             
+
+678   1132      G.SRINIVAS             P-236             .                 170             
+
+679   2147      SRINIVAS               P-237/A           .                 170             
+
+680   10        M.VENKATESHWARULU      P-237/A           .                 170             
+
+681   12        G.B.N.RAO              P-241/B                             170             
+
+682   19        P.S.R.PRASAD           p-241             .                 470             
+
+683   2712      sivaji reddy           p-241             .                 170             
+
+684   2604      b.chandra shakar       p-242             .                 170             
+
+685   1647      K.S.R. ANJAYULU        P-243/N           .                 170             
+
+686   2039      RAMBABU                P-245             .                 170             
+
+687   2188      CH.PRATAP              P-246             .                 170             
+
+688   1299      MALLIKARJUN RAO        P-247             .                 170             
+
+689   2170      VAMSHI                 P-247             .                 170             
+
+690   21        K.V.B.LINGAIAH         P-248                               170             
+
+691   2659      n.v.balakrishna rao    p-249             .                 170             
+
+692   23        K.K.RAO                P-250                               170             
+
+693   2498      K.RAMESH               P-250             3RD CONN          510             
+
+694   2354      k.mohan                p-250             .                 170             
+
+695   2461      M.LAXMI NARASIMHA      P-251             .                 170             
+
+696   1011      SRI RAMULU             P-251                               180             
+
+697   1472      JAYAPAL                P-251             .                 170             
+
+698   25        SRI HARI               P-251                               230             
+
+699   413       GANGA BHAVANI          P-252                               170             
+
+700   2675      ram mohan              p-252             .                 170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+701   2379      ramachander            p-254             .                 170             
+
+702   2172      NANAIAH                P-254             .                 170             
+
+703   2058      thammaiah              p-255             .                 340             
+
+704   1455      JHAN SAHIDA            P-256             .                 200             
+
+705   342       VENKATESWARLU          P-257                               170             
+
+706   812       PRAKESH                P-257                               170             
+
+707   1656      D.NAGESH               P-260             .                 170             
+
+708   2061      fakuruddin             p-260             .                 510             
+
+709   2694      sasikala               p-260             .                 170             
+
+710   2183      K.SRINIVAS             P-260             .                 170             
+
+711   2542      E.RAMESH               P-260             ...               170             
+
+712   2672      jayamma                p-263             .                 170             
+
+713   38        E.KRISHNA RAO          P-265                               170             
+
+714   2325      gantaiah               p-267             .                 170             
+
+715   256       C.PAPAMMA              P-268             .                 170             
+
+716   2390      b.n prasad             p-269             .                 170             
+
+717   1485      V. SHEKAR BABU         P-269             .                 170             
+
+718   1232      VG. RAO                P-272             .                 160             
+
+719   2422      ravi                   p-273/a           .                 340             
+
+720   2181      RAMAM                  P-273/A           .                 170             
+
+721   2431      rajkiran               p-273/b           .                 340             
+
+722   1329      CH. VENKATESH WAR RA   P-275                               160             
+
+723   2601      mohan                  p-276             .                 170             
+
+724   1686      SURENDER               P-277             .                 520             
+
+725   228       T.SRINIVAS             P-280                               170             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+726   1865      VENKATESH              P-281             NGO               750             
+
+727   913       VENKATESHWARULU        P-281             .                 280             
+
+728   2536      SHIVANI PHOTO STUDIO   P-282             .                 340             
+
+729   2566      Madhav                 p-282             .                 510             
+
+730   2747      venkateswarulu         p-282             .                 170             
+
+731   755       AD.HUSSAIN             P-284             .                 170             
+
+732   2600      bala krishna           p-284             .                 340             
+
+733   2302      sri tours travels      p-288             .                 470             
+
+734   2522      SUBRAMANYAM            P-292             .                 170             
+
+735   763       BALA LAXMAIAH          P-292                               0               
+
+736   2688      preetham               p-292             .                 340             
+
+737   792       NARASHIMA              P-292                               170             
+
+738   922       YADAGIRI               P-292             .                 510             
+
+739   1639      ABHIMANYAM BAR         P-294             .                 110             
+
+740   2609      y.rajesh               f.no:-301         .                 170             
+
+741   2546      k.bhaskar reddy        F.no:-302         ..                170             
+
+742   2588      k.s.r.chakravarthi     f.no:-303         .                 170             
+
+743   2665      prakesh rao            f.no:-502         .                 340             
+
+744   2544      mangadevi              292               .                 410             
+
+                                                                    	----------
+                                                                    	160641
+                                                                    	----------
+
+                                END OF THE REPORT

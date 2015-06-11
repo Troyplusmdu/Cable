@@ -1,0 +1,101 @@
+
+                                     DUE LIST
+                                     --------
+Area : madhava nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     79        m.suresh               .                 .                 100             
+
+2     78        ramulu                 .                 .                 100             
+
+3     73        prabhakar reddy        pt.no:244         .                 50              
+
+4     42        krishna                pt.no:250         .                 50              
+
+5     41        sunil                  pt.no:250         .                 90              
+
+6     46        vasudev reddy          pt.no:251         .                 50              
+
+7     44        satyanarayana reddy    pt.no:251         .                 50              
+
+8     45        narasimha reddy        pt.no:251         .                 50              
+
+9     43        sudhakar               pt.no:251         .                 50              
+
+10    69        nagesh                 pt.no:5           .                 100             
+
+11    68        yadagiri reddy         pt.no:58          .                 50              
+
+12    65        venkanna               pt.no:60          .                 90              
+
+13    64        ravi                   pt.no:60          .                 100             
+
+14    67        ramesh                 pt.no:60          .                 90              
+
+15    66        bala krishna           pt.no:60          .                 50              
+
+16    62        krishna                pt.no:62          .                 50              
+
+17    63        ashok                  pt.no:62          .                 50              
+
+18    70        venkteshwarlu          pt.no:64          .                 50              
+
+19    74        mahesh                 pt.no:64          .                 50              
+
+20    77        mahesh                 pt.no:64          .                 100             
+
+21    72        mazar                  pt.no:64/a        .                 150             
+
+22    75        narasimha              pt.no:64/a        .                 100             
+
+23    71        ravi                   pt.no:64/a        .                 50              
+
+24    76        adilaxmi               pt.no:71          .                 50              
+
+25    61        anjaneya chary         pt.no:71          .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    59        syam sundhar           pt.no:71          .                 50              
+
+27    60        chanti                 pt.no:71          .                 50              
+
+28    58        govardhan kiranam      pt.no:71          .                 50              
+
+29    57        marvolop hair style    pt.no:71/a        .                 100             
+
+30    56        venkat reddy           pt.no:71/a        .                 90              
+
+31    55        venkatesh              pt.no:71/a        .                 100             
+
+32    50        ravi                   pt.no:74          .                 50              
+
+33    49        ashok                  pt.no:74          .                 50              
+
+34    51        ramesh                 pt.no:74          .                 100             
+
+35    52        krishna                pt.no:74          .                 50              
+
+36    47        kondal                 pt.no:74/a        .                 150             
+
+37    48        eswar                  pt.no:74/a        .                 100             
+
+38    53        vikram                 pt.no:75          .                 100             
+
+39    54        srikrishna enter..     pt.no:76          .                 50              
+
+40    80        VIJAY KUMAR            77                .                 50              
+
+41    81        sri sai durga          250               .                 50              
+
+                                                                    	----------
+                                                                    	3060
+                                                                    	----------
+
+                                END OF THE REPORT

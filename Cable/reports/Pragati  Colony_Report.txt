@@ -1,0 +1,779 @@
+
+                                     DUE LIST
+                                     --------
+Area : Pragati  Colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     232       T.R.R.SCHOOL           .                 .                 1050            
+
+2     234       T.R.R.COLLAGE          .                 .                 1350            
+
+3     468       s.v.subbaiah           p.g.2             .                 0               
+
+4     227       TANT HOUSE             ROAD              .                 400             
+
+5     296       bays hostal            road              .                 1350            
+
+6     471       nasthi sale hospital   road              .                 0               
+
+7     341       lab                    road              .                 300             
+
+8     466       nice beauty            road              .                 0               
+
+9     464       ch.karashi             road              .                 0               
+
+10    342       dental clinic          road              .                 1200            
+
+11    298       s.s.v.hospital         road              .                 600             
+
+12    498       prerana beauty pa.     road              .                 0               
+
+13    287       GOLD SHOP              ROAD              .                 750             
+
+14    237       NEW STAR SALON         ROAD              .                 1350            
+
+15    454       murali hari style      road              .                 150             
+
+16    451       vamshi                 road              .                 0               
+
+17    238       CHICKEN CENTER         ROAD              .                 300             
+
+18    443       bajaj                  road              .                 300             
+
+19    442       mahesh                 road              .                 0               
+
+20    235       RAMESH TAILOR          ROAD              .                 300             
+
+21    497       mukush kumar           road              .                 0               
+
+22    236       ANU ELETRONICS         ROAD              .                 1450            
+
+23    496       newlook hair style     road              .                 0               
+
+24    271       LAXMAN                 WATCH MAN         SRI SHIVA SAI ARAC1210            
+
+25    255       XXX                    G-1               SRI SHIVA SAI ARAC600             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    256       S.V.SUBBAIAH           G-2               SRI SHIVA SAI ARAC1200            
+
+27    257       B.REDDY                G-3               SRI SHIVA SAI ARAC1050            
+
+28    258       ANJANEYULU             G-4               SRI SHIVA SAI ARAC1200            
+
+29    259       ANJANEYULU             G-4               SRI SHIVA SAI ARAC1200            
+
+30    358       venkat ramana          g-4               GATTU ENCLAVE     1650            
+
+31    460       NT.RAMA RAO            g-5               .                 0               
+
+32    320       GOPINATH               p-101             sri shiva sai arca1800            
+
+33    390       rakesh                 p-102             gotham            1200            
+
+34    469       ram gopal              p-102             .                 0               
+
+35    260       RAM GOPAL              P-102             SRI SHIVA SAI ARAC1500            
+
+36    261       CHARY                  P-103             SRI SHIVA SAI ARAC1800            
+
+37    372       rajesh                 p-104             shiva sai recedenc1200            
+
+38    485       mahesh babu            p-105             .                 0               
+
+39    262       MAHESH BABU            P-105             SRI SHIVA SAI ARAC1050            
+
+40    263       B.S.MOHAN RAO          P-201             SRI SHIVA SAI ARAC1050            
+
+41    482       b.s.mohan rao          p-201             .                 0               
+
+42    264       CHANRIYA               P-202             SRI SHIVA SAI ARAC1950            
+
+43    265       SUDHA                  P-203             SRI SHIVA SAI ARAC1050            
+
+44    266       SULAMAN                P-204             SRI SHIVA SAI ARAC1050            
+
+45    267       RAM MOHAN              P-205             SRI SHIVA SAI ARAC450             
+
+46    309       SRIKANTH               P-205             S.S.TOWERS        1800            
+
+47    268       R.K.NARYAN             P-301             .                 1050            
+
+48    486       r.k.narayana           p-301             .                 0               
+
+49    487       satya narayana         p-302             .                 0               
+
+50    269       SATYA NARAYAN          P-302             .                 1050            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    270       ANJAYAIAH              P-303             SRI SHIVA SAI ARAC1500            
+
+52    488       n.anajayaiah           p-303             .                 0               
+
+53    363       BALU                   P-304             GATTU ENCLAVE     1500            
+
+54    493       ashok kumar            p-401             .                 0               
+
+55    380       sarala                 4-36              .                 1500            
+
+56    440       shiva                  4-96              .                 450             
+
+57    437       bala krishna           4-96              .                 0               
+
+58    1         LAXMAN                 4-96              .                 300             
+
+59    3         SHESHADRI              4-97              .                 0               
+
+60    465       priya naik             4-99              .                 0               
+
+61    6         PULLAIAH               4-99              .                 0               
+
+62    327       PRIYA NAIK             4-99              .                 1350            
+
+63    4         NAGESH                 4-99              .                 450             
+
+64    7         RAMULU                 4-100             .                 200             
+
+65    12        SITHAIAH               4-102             .                 0               
+
+66    11        BALA                   4-102             .                 0               
+
+67    299       sai babu               4-102             .                 0               
+
+68    10        SRINIVAS               4-102             .                 150             
+
+69    458       ghance rao             4-102             .                 150             
+
+70    13        DHANA LAXMI            4-103             .                 0               
+
+71    453       vara prasad            4-104             .                 0               
+
+72    14        D.J.KRISHNA RAO        4-104             .                 310             
+
+73    15        J.GANAPATHI            4-105             .                 0               
+
+74    17        DURGA  DEVI            4-106             .                 0               
+
+75    16        M.S.S.N.SAI RAM        4-106             .                 750             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    18        N.SATYA NARAYANA       4-107             .                 0               
+
+77    20        SYAM SUNDER            4-108             .                 0               
+
+78    21        K.S.RAO                4-108             .                 0               
+
+79    19        G.RAMANA MURTHY        4-108             .                 150             
+
+80    22        M.RAJU                 4-109             .                 0               
+
+81    23        RAKESH                 4-110             .                 0               
+
+82    307       NERJAAN                4-110             .                 150             
+
+83    411       nagadhar babu          4-111             .                 150             
+
+84    361       RAMA RAO	              4-111             .                 300             
+
+85    421       nagadhar babu          4-111             .                 900             
+
+86    24        SRIKANTH               4-111             .                 510             
+
+87    318       murali krishna         4-112/g-2         .                 150             
+
+88    463       raju                   4-112             watchman          0               
+
+89    445       praveen                4-112             .                 0               
+
+90    333       A.V.N.RAO              4-112             .                 150             
+
+91    28        RADDESHWAR RAO         4-112             .                 0               
+
+92    317       ramachary              4-113/1           .                 0               
+
+93    383       raghava reddy          4-113/1           .                 150             
+
+94    33        K.RAMA RAO             4-113/1           .                 0               
+
+95    360       K.SUDDER               4-114             .                 1050            
+
+96    461       m.srinivas             4-115             .                 0               
+
+97    481       chandra shekar         4-115             .                 0               
+
+98    489       RAJA SHAKAR            4-115             .                 0               
+
+99    490       naresh                 4-115             .                 0               
+
+100   412       g.ramesh reddy         4-115             .                 750             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   414       srikanth               4-116/1/1         .                 900             
+
+102   272       SRINIVAS RAO           4-116             .                 750             
+
+103   459       srinivas               4-116             .                 0               
+
+104   274       RAJA                   4-116             .                 750             
+
+105   283       RAJA SHEKAR            4-117             .                 1350            
+
+106   282       naik                   4-117             .                 150             
+
+107   334       NARESH                 4-117             .                 1200            
+
+108   345       sharath sai            4-117             .                 150             
+
+109   483       nagarjuna              4-118/1           .                 0               
+
+110   40        GURUVAIAH              4-118             .                 50              
+
+111   39        D.SAIDHULU             4-118             .                 200             
+
+112   249       NAGARAJU               4-121/1           .                 1050            
+
+113   251       GURU SWAMY             4-121/1           .                 0               
+
+114   474       srinivas               4-121/1           .                 0               
+
+115   420       yalamany               4-121/1           .                 750             
+
+116   46        CHANDRA SHEKAR         4-121/3           .                 1200            
+
+117   337       jagadeesh              4-121/3           .                 50              
+
+118   45        BHARATI                4-121/3           .                 150             
+
+119   284       VIAY KUMAR             4-121             .                 2550            
+
+120   435       nagesh                 4-121             .                 300             
+
+121   253       ANJANEYULU             4-121             .                 300             
+
+122   252       RAVINDER               4-121             .                 0               
+
+123   359       SAGAR                  4-121             .                 0               
+
+124   444       k.ramesh babu          4-121             .                 0               
+
+125   378       sunder                 4-121             ..                1350            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   472       nagesh rao             4-122/1           .                 0               
+
+127   406       naveen kumar           4-122             .                 300             
+
+128   447       prakesh                4-122             .                 150             
+
+129   404       ravindhar              4-122             .                 150             
+
+130   51        PRAKESH                4-122             .                 0               
+
+131   52        SRI RAM MURTHY         4-123             .                 0               
+
+132   439       ramesh                 4-124             .                 10              
+
+133   56        SATISH KUMAR           4-124             .                 0               
+
+134   55        RAMESH                 4-124             .                 150             
+
+135   54        KISTAPPA               4-124             .                 0               
+
+136   351       SUBASH REDDY           4-125             .                 0               
+
+137   58        MASTAN                 4-125             .                 150             
+
+138   332       narsi reddy            4-125             .                 400             
+
+139   335       SRINIVAS REDDY         4-126/2           .                 0               
+
+140   63        kiran kumar            4-126/2           .                 150             
+
+141   314       ramesh babu            4-126/2           .                 300             
+
+142   62        jagan                  4-126/2           .                 800             
+
+143   66        PRADEEP KUMAR          4-128             .                 150             
+
+144   67        SIDDAMMA               4-129             .                 150             
+
+145   401       kamalla                4-131/4           .                 600             
+
+146   422       u.machiraju            4-131/4           .                 0               
+
+147   70        s.k.SINGH              4-131             .                 600             
+
+148   391       sraveen                4-132/1           .                 0               
+
+149   288       nancharai              4-133             .                 0               
+
+150   467       s.sailu                4-134             .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   289       verra reddy            4-135             .                 450             
+
+152   279       SANTOSH                4-135             .                 750             
+
+153   428       naresh                 4-135             ss towers         150             
+
+154   72        SUBBA RAO              4-135(G-1)        S.S.TOWER         450             
+
+155   73        KIRAN KUMAR            4-135(G-2)        S.S.TOWER         600             
+
+156   74        MADHUKAR               4-135(G-4)        .                 0               
+
+157   366       N.V.SAI PRASAD         4-135(G-5)        S.S.TOWERS        0               
+
+158   77        RAJESH                 4-135(P-102)      S.S.TOWER         150             
+
+159   75        BALAJI                 4-135(P-103)      S.S.TOWER         0               
+
+160   78        KRISHNAIAH             4-135(P-104)      S.S.TOWER         150             
+
+161   76        RAGHUNANDAN            4-135(P-105)      S.S.TOWER         0               
+
+162   79        J.U.R.K.SHARMA         4-135(P-202)      S.S.TOWER         450             
+
+163   80        RAVI KUMAR             4-135(P-203)      S.S.TOWER         0               
+
+164   83        RAMAKRISHNA            4-135(P-302)      S.S.TOWER         450             
+
+165   87        RAMAKRISHNA            4-135(P-304)      S.S.TOWER         400             
+
+166   86        SUNDER RAJ             4-135(P-401)      S.S.TOWER         270             
+
+167   90        VENKATESHWARLU         4-136             .                 0               
+
+168   396       sunder reddy           4-136             .                 400             
+
+169   494       s.narasimha reddy      4-136             .                 0               
+
+170   408       surya mohan            4-136             .                 150             
+
+171   91        VINOD KUMAR            4-136             .                 0               
+
+172   89        K.SRINIVAS             4-136             .                 0               
+
+173   385       seshu pandu            4-136             .                 150             
+
+174   248       ASHOK KUMAR            4-137             .                 0               
+
+175   247       AVDHNI                 4-137             .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   456       laxmi narayana         4-138             .                 150             
+
+177   94        prem kumar             4-139             .                 0               
+
+178   95        NAGAIAH                4-140             .                 150             
+
+179   96        MADHU                  4-140             .                 150             
+
+180   97        YADHAGIRI              4-141             .                 0               
+
+181   389       laxmi bhai             4-142             .                 150             
+
+182   99        PARSHU RAM             4-142             .                 150             
+
+183   98        BABU RAO               4-142             .                 500             
+
+184   100       M.RAMA RAO             4-143             .                 50              
+
+185   101       VASANTHA RAO           4-144             .                 0               
+
+186   105       NAVEEN                 4-145/1           .                 750             
+
+187   392       krishna                4-145             .                 0               
+
+188   104       KAVITHA                4-145             .                 50              
+
+189   103       SRINU                  4-145             .                 0               
+
+190   107       CHENNAIAH              4-146             .                 0               
+
+191   462       sredhar                4-146             .                 0               
+
+192   110       SWAMY                  4-147             .                 150             
+
+193   111       SUDHAKAR REDDY         4-147             .                 750             
+
+194   347       venkat ramana          4-148/2 g8        .                 800             
+
+195   112       RAMA SHASTRY           4-148/2(G-1)      GATTU E           150             
+
+196   119       N.SRINIVAS             4-148/2(G-5)      GATTU E           0               
+
+197   118       RAJU                   4-148/2(P-104)    GATTU E           300             
+
+198   122       RAMESH                 4-148/2(P-201)    GATTU E           0               
+
+199   124       GOPAL REDDY            4-148/2(P-205)    GATTU E           300             
+
+200   125       VITTALA CHARY          4-148/2(P-206)    GATTU E           200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   126       E.K.VISHWANATH         4-148/2(P-207)    GATTU E           150             
+
+202   127       NAGARAJU               4-148/2(P-208)    GATTU E           0               
+
+203   129       VISHWANATHAM           4-148/2(P-302)    GATTU E           0               
+
+204   130       SRINATH                4-148/2(P-303)    GATTU E           0               
+
+205   131       D.RAM BABU             4-148/2(P-306)    GATTU E           0               
+
+206   365       sravan kumar           4-148/2g7         .                 300             
+
+207   433       g.prabhakar            4-148             .                 300             
+
+208   470       laxmi                  4-148             watchman          0               
+
+209   452       konda reddy            4-148(204)        .                 0               
+
+210   427       ravi kishor            4-148(g-6)        .                 0               
+
+211   246       RAGAV RAO              4-149             .                 150             
+
+212   398       gope raju              4-151/1           .                 1050            
+
+213   430       shankar                4-151             .                 150             
+
+214   135       satyanarayana          4-152             .                 150             
+
+215   136       H.P.L.SENCHA           4-154             .                 150             
+
+216   139       SATYA NARAYANA         4-155/1           .                 1350            
+
+217   356       dhalapathi             4-155             .                 0               
+
+218   352       RAJAGOPAL              4-155             .                 0               
+
+219   405       gopi raju              4-155             .                 300             
+
+220   319       SHAKUNTHALA            4-157             .                 300             
+
+221   140       N.S.REDDY              4-157             .                 300             
+
+222   142       RAVI SHEKAR            4-158             .                 150             
+
+223   425       k.rama raju            4-158             .                 0               
+
+224   305       KUMAR                  4-161/A           .                 600             
+
+225   144       BASHA                  4-161             .                 1050            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   143       SAI KUMAR              4-161             .                 0               
+
+227   339       kavitha                4-161             .                 150             
+
+228   415       RADHA KRISHNA          4-161             .                 450             
+
+229   281       anil kumar             4-161             .                 450             
+
+230   448       ammbali rao            4-161             .                 150             
+
+231   400       swami                  4-162             .                 0               
+
+232   301       ramesh babu            4-162             .                 150             
+
+233   336       VASUDEVA RAO           4-162             .                 300             
+
+234   373       hari prasad            4-162             ...               0               
+
+235   300       satyanarayana          4-162             .                 600             
+
+236   353       srinivas               4-163             .                 0               
+
+237   312       BOBBY                  4-163             .                 150             
+
+238   426       b.rakesh               4-178             road no:2         200             
+
+239   475       raghuma reddy          4-185             .                 0               
+
+240   228       CHARY                  4-204             .                 1650            
+
+241   146       SAI KUMAR              5-69              .                 150             
+
+242   225       SRINIVAS RAO	          5-70/2/A	         .                 1650            
+
+243   147       RAMESH                 5-70              .                 450             
+
+244   476       mohar reddy            5-70              .                 0               
+
+245   294       prabhakar              5-70              .                 1250            
+
+246   446       dillip                 5-70              .                 300             
+
+247   450       basha                  5-70              .                 0               
+
+248   165       GIDDAIAH               5-72              .                 50              
+
+249   148       PUSHPA                 5-74              .                 1600            
+
+250   355       VENKATESHWARULU        5-74              .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   149       MANSHAR REDDY          5-74              .                 1350            
+
+252   286       SATYANARAYANA          5-74              .                 300             
+
+253   150       KATULAIAH              5-75              .                 1800            
+
+254   473       sonth chary            5-75              .                 0               
+
+255   151       KRISHNAM RAJU          5-76              .                 1050            
+
+256   478       krishnam raju          5-76              .                 0               
+
+257   152       J.V.S.K.SHARMA         5-77              .                 150             
+
+258   154       TIPPANNA               5-82              .                 1200            
+
+259   156       RAMAMA                 5-83/1            .                 150             
+
+260   155       RAMESH                 5-83              .                 700             
+
+261   157       SRINIVASULU            5-84              .                 0               
+
+262   159       BOGESHWAR RAO          5-86              .                 0               
+
+263   161       SURESH                 5-88              .                 750             
+
+264   495       ramesh polesh          5-88              .                 0               
+
+265   331       ramesh                 5-88              .                 1650            
+
+266   368       vargesh                5-88              ..                0               
+
+267   160       BABULAL                5-88              .                 200             
+
+268   321       sharath                5-89              .                 450             
+
+269   324       krishna                5-89              .                 0               
+
+270   163       LAXMA REDDY            5-89              .                 0               
+
+271   167       SATYANARAYANA          5-90              .                 600             
+
+272   349       t.satyaiah             5-90              .                 0               
+
+273   166       ANIL                   5-90              .                 0               
+
+274   313       RAGAVA REDDY           5-91              .                 150             
+
+275   169       VIJAY KUMAR            5-92              .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   171       VIJAY                  5-93              150               300             
+
+277   322       raju                   5-93              .                 150             
+
+278   173       ASHOK                  5-94              .                 300             
+
+279   174       MUOLALI                5-95              .                 150             
+
+280   175       VENKATAIAH             5-95              .                 650             
+
+281   176       T.B.RAO                5-96              .                 300             
+
+282   280       MALLA REDDY            5-96              .                 150             
+
+283   455       ravi kumar             5-97              .                 0               
+
+284   179       NAGESHWAR RAO          5-98              .                 900             
+
+285   376       saidulu                5-98              .                 150             
+
+286   180       SATYAMIAH              5-98              .                 0               
+
+287   182       NAGESHWAR RAO          5-98              .                 450             
+
+288   431       srinu                  5-99              .                 0               
+
+289   185       KRISHNA                5-100             .                 150             
+
+290   480       g.rakesh               5-101             .                 0               
+
+291   492       venkatesh              5-101             .                 0               
+
+292   186       PANDU                  5-101             .                 0               
+
+293   187       JAGAN MOHAN            5-102             .                 150             
+
+294   419       ganapathi              5-108             .                 0               
+
+295   418       nayedu                 5-108             .                 0               
+
+296   190       SURYA RAO              5-109             .                 600             
+
+297   191       SAGAR                  5-109             .                 150             
+
+298   192       SAIDHAR                5-109             .                 350             
+
+299   193       SANJEEVA               5-110             .                 1300            
+
+300   340       sampath kumar          5-110             .                 1000            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   195       BALA KRISHNA           5-110             .                 300             
+
+302   409       ganna                  5-110             .                 1050            
+
+303   397       upendhar               5-111             .                 150             
+
+304   198       P.S.RAO                5-112/2           .                 150             
+
+305   196       VASU                   5-112             .                 450             
+
+306   449       prakesh                5-112             .                 150             
+
+307   403       rama chandran          5-112             .                 850             
+
+308   438       jaya prakesh           5-113             .                 100             
+
+309   200       VENKATIAH              5-113             .                 300             
+
+310   306       laxmi                  5-114             .                 950             
+
+311   201       BHAGWAN DASS           5-115             .                 150             
+
+312   202       SHIVA                  5-117             .                 3400            
+
+313   367       nay singh              5-117             ..                1800            
+
+314   203       BALA RAJU              5-118             .                 50              
+
+315   204       KATU REDDY             5-118             .                 150             
+
+316   207       LOKHA REDDY            5-121/1           .                 300             
+
+317   369       a.srinu                5-123             .                 150             
+
+318   208       SARANGAM               5-123             .                 150             
+
+319   209       SRINIVAS               5-123             .                 150             
+
+320   348       ch ravi kumar          5-124             .                 300             
+
+321   212       BASHA                  5-124             .                 600             
+
+322   362       RAMA RAO	              5-124             .                 600             
+
+323   357       kavitha                5-125             .                 450             
+
+324   213       E.YADHAIAH             5-125             .                 0               
+
+325   387       somesh                 5-125             .                 700             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+326   417       SHIVA REDDY            5-125             .                 150             
+
+327   214       S.D.SUBHANI            5-125             .                 600             
+
+328   432       sravan kumar reddy     5-126/2           .                 0               
+
+329   215       MURALI                 5-126/2           .                 900             
+
+330   388       k.radhika              5-126             .                 300             
+
+331   216       KISHOR                 5-127/2           .                 150             
+
+332   457       kiran kumar            5-127/3           .                 150             
+
+333   217       SUBHASH GOUD           5-127/3           .                 1450            
+
+334   416       k.smaran               5-127             .                 900             
+
+335   491       ramachandra reddy      5-127             .                 0               
+
+336   218       BHAGWAN                5-128             .                 0               
+
+337   479       p.kapil kumar          5-128             .                 0               
+
+338   219       SHEKAR RAJU            5-128             .                 1350            
+
+339   441       hurapathi              5-128             .                 200             
+
+340   220       PRABHAKAR RAO          5-129             .                 150             
+
+341   223       SRINIVAS               5-130/1           .                 1200            
+
+342   407       basha                  5-130             .                 1050            
+
+343   221       T.MOGULAIAH            5-130             .                 450             
+
+344   338       SRINIVAS               5-130             .                 300             
+
+345   429       chary                  5-130             .                 0               
+
+346   477       pandu kiranam          5-130             .                 0               
+
+347   224       PANDU KIRANAM          5-131             .                 1050            
+
+348   484       b.venkat ramana        5-148(g-4)        .                 0               
+
+349   399       mini                   5-150             .                 150             
+
+350   434       kondal                 5-150             .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+351   413       kasha                  5-150             .                 50              
+
+352   436       mahesh                 42 road           .                 450             
+
+353   423       rechi kanth            205 ss towers     .                 150             
+
+354   424       krishna                304               gattu enclave     150             
+
+                                                                    	----------
+                                                                    	135810
+                                                                    	----------
+
+                                END OF THE REPORT

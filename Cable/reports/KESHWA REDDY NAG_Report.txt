@@ -1,0 +1,129 @@
+
+                                     DUE LIST
+                                     --------
+Area : KESHWA REDDY NAG
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     46        ravi                   watch man         G.M.R.C           1350            
+
+2     68        dishit                 g-1               .                 450             
+
+3     77        parvathalu             g-2               G.M.R.C           0               
+
+4     63        praveen                g-3               .                 600             
+
+5     43        ashok                  p-9/a             .                 1800            
+
+6     1         SRI HARI               P-9               .                 50              
+
+7     53        rama reddy             p-12              .                 150             
+
+8     59        venkatiah              p-12              .                 300             
+
+9     58        prakesh                p-13              .                 150             
+
+10    62        yadhagiri              p-19              .                 0               
+
+11    57        kiranmai               p-23              .                 0               
+
+12    56        gopal krishna          p-26              .                 400             
+
+13    70        bhaskar                p-26              .                 300             
+
+14    69        usef ali               p-26              .                 300             
+
+15    41        RAJAVARDHAN REDDY      P-29              .                 600             
+
+16    52        karunakar              p-29              .                 750             
+
+17    8         VENU                   P-29              .                 950             
+
+18    9         NARSIMHA RAO           P-30              .                 0               
+
+19    48        sai kumar              p-31              .                 450             
+
+20    39        SRINIVAS               P-31              .                 1650            
+
+21    14        KRISHNA                P-34              .                 300             
+
+22    15        PRAVEEN KUMAR          P-35              .                 300             
+
+23    16        DEVER RAJU             P-36              .                 600             
+
+24    47        rama krishna           p-39              .                 350             
+
+25    19        RAHUL                  P-40              .                 450             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    71        lalitha                p-40              .                 300             
+
+27    76        lalitha                p-40              .                 0               
+
+28    51        ram chary              p-41/1            .                 600             
+
+29    37        SATYA NARAYANA         p-41              .                 0               
+
+30    64        bhaskar                p-41              .                 200             
+
+31    54        reddy                  p-43              .                 550             
+
+32    23        SATYA NARAYANA         P-45              .                 10              
+
+33    21        SATYA NARAYANA         P-45              .                 650             
+
+34    34        KALAVATHI              P-45              .                 1200            
+
+35    22        NAGARAJU               P-45              .                 300             
+
+36    36        ASHOK                  P-45              .                 450             
+
+37    55        sarala                 p-45              .                 150             
+
+38    44        SATYA NARAYANA         P-46              .                 300             
+
+39    66        r.t.naik               p-46              .                 600             
+
+40    24        RAVINDER               P-46              .                 400             
+
+41    65        mohan                  p-46              .                 750             
+
+42    26        KIRAN KUMAR            P-47              .                 0               
+
+43    75        kishan                 p-47              .                 0               
+
+44    67        bharath                p-48              .                 0               
+
+45    73        ravi                   p-48              .                 150             
+
+46    49        nagesh                 p-48              .                 850             
+
+47    28        VASU                   P-48              .                 0               
+
+48    42        VENKANAN               P-48              .                 1500            
+
+49    27        GOPAL RAO              P-48              .                 0               
+
+50    60        rama chary             p-103             .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    61        raghu ram              p-203             .                 50              
+
+52    72        ravi                   9                 .                 150             
+
+53    74        c.v.s.sharma           303               G.M.R.C           150             
+
+                                                                    	----------
+                                                                    	21710
+                                                                    	----------
+
+                                END OF THE REPORT

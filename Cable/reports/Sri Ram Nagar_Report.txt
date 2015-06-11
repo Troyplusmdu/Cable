@@ -1,0 +1,345 @@
+
+                                     DUE LIST
+                                     --------
+Area : Sri Ram Nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     162       j.venkatesh            ushodaya(coll)    sriram nagar      -20             
+
+2     166       ramababu               ushodaya(coll)    sriram nagar      0               
+
+3     7         goutham                5                 sriramnagar       0               
+
+4     9         raghavendramobile      5                 sriramnagar       30              
+
+5     8         srisai rice shop       5                 sriramnagar       200             
+
+6     149       varshitha giftshop     6                 sriram nagar      0               
+
+7     142       komuraiah              6(gudisa)         sriram nagar      400             
+
+8     5         vinodhkumar reddy      7                 sriramnagar       180             
+
+9     6         srinivas rao           7                 sriramnagar       0               
+
+10    4         sunandha               8/e               sriramnagar       0               
+
+11    177       ramesh                 8                 sriramnagar       0               
+
+12    1         padmaja                8                 sriramnagar       0               
+
+13    2         narsimha               8                 sriramnagar       20              
+
+14    3         balagibagvan           8                 sriramnagar       540             
+
+15    133       anil beauty parlar     12                sriram nagar      720             
+
+16    183       saikumar               12                sriramnagar       0               
+
+17    156       yadhamma               27/1(anr complex) sriram nagar      350             
+
+18    168       narsimha               31                sriram nagar      -150            
+
+19    132       p.gourishankar         32                sriram nagar      200             
+
+20    131       narsimha rao           33                sriram nagar      0               
+
+21    159       m.thirumalesh          35                sriram nagar      300             
+
+22    29        p.v.saidaiah           38/1              sriramnagar       180             
+
+23    28        harikrupal             38                sriramnagar       10              
+
+24    32        yadhagiri              39                sriramnagar       530             
+
+25    30        srinivas sharma        39                sriramnagar       0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    31        vasanth                39                sriramnagar       0               
+
+27    33        venkatram reddy        40                sriramnagar       -20             
+
+28    126       mahendar(kamal gift)   40                sri ramnagar      180             
+
+29    34        ch.venkatratnam        40                sriramnagar       -180            
+
+30    38        ramanaiah              41                sriramnagar       20              
+
+31    35        a.narendhar reddy      41                sriramnagar       0               
+
+32    120       srinathreddy(bakery)   41                sriramnagar       0               
+
+33    121       sanjayvarma            41                sriramnagar       420             
+
+34    171       nagendhar yadhav       41                sriramnagar       -20             
+
+35    36        gopikrishna            41                sriramnagar       540             
+
+36    37        malyadri               41                sriramnagar       0               
+
+37    147       srinivas               42                sriram nagar      180             
+
+38    39        srinivas reddy         42                sriramnagar       0               
+
+39    41        malla reddy            43                sriramnagar       0               
+
+40    42        malakondaiah           43                sriramnagar       180             
+
+41    56        nagabushan             49                sriramnagar       20              
+
+42    55        babu rao               49                sriramnagar       0               
+
+43    154       brammaiah              49                sriram nagar      -20             
+
+44    54        venkateshwar rao       49                sriramnagar       0               
+
+45    53        gopikrishna            49                sriramnagar       480             
+
+46    52        narendhar reddy        49                sriramnagar       180             
+
+47    181       n.ramesh babu          49                sriramnagar       0               
+
+48    157       k.hazarath             49                sriram nagar      180             
+
+49    146       nagabushanam           50                sriram nagar      0               
+
+50    44        janga reddy            51/south          sriramnagar       0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    43        shekar                 51/south          sriramnagar       -20             
+
+52    61        chandrashekar          51                sriramnagar       330             
+
+53    60        bhasker reddy          51                sriramnagar       300             
+
+54    136       madhusudhan reddy      51                sriram nagar      10              
+
+55    134       sk.darbesh ali         52                sriram nagar      180             
+
+56    45        g.narsimharao goud     52                sriramnagar       0               
+
+57    47        jaipal                 52                sriramnagar       10              
+
+58    49        sharadha               53                sriramnagar       0               
+
+59    50        ramanaiah              53                sriramnagar       180             
+
+60    48        udayprakash reddy      53                sriramnagar       30              
+
+61    62        ramu goud              54                sriramnagar       80              
+
+62    63        suresh kumar           54                sriramnagar       0               
+
+63    40        v.hanumanth reddy      57                sriramnagar       160             
+
+64    24        venkatram reddy        61                sriramnagar       0               
+
+65    137       n.srinivas             61                sriram nagar      0               
+
+66    148       venkat                 62                sriram nagar      160             
+
+67    152       sathyanarayana         62                sriram nagar      0               
+
+68    70        shekar                 64-65             sriramnagar       0               
+
+69    175       kavari                 64-65             sriramnagar       0               
+
+70    69        sunil kumar            64-65             sriramnagar       0               
+
+71    155       ramanaiah              64-65             sriram nagar      0               
+
+72    68        srinivas reddy(2con)   64-65             sriramnagar       0               
+
+73    124       das                    66                sri ramnagar      30              
+
+74    170       srisailam              66(pent house)    sriram nagar      0               
+
+75    21        nagabushan             67                sriramnagar       540             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    23        janardhan              67                sriramnagar       0               
+
+77    160       narayana reddy         67                sriram nagar      0               
+
+78    22        dhathatreya            67                sriramnagar       0               
+
+79    26        venkat chary(2cn)      68                sriramnagar       0               
+
+80    27        malli naidu            68                sriramnagar       0               
+
+81    11        prakash patel          68                sriramnagar       30              
+
+82    180       n.mahesh               70/n              sriramnagar       0               
+
+83    150       g.subbaiah             70/n              sriram nagar      0               
+
+84    12        baburao                70/n              sriramnagar       200             
+
+85    13        harishreddy            70/n              sriramnagar       360             
+
+86    16        p.prathap reddy        70/s              sriramnagar       30              
+
+87    18        bhargav kumar          70/s              sriramnagar       20              
+
+88    174       mayuri                 70                sriramnagar       0               
+
+89    173       bal reddy              70                sriramnagar       0               
+
+90    165       i sumalatha            70                sri ram nagar     0               
+
+91    135       saidhulu               71gudisa          sriram nagar      540             
+
+92    84        prabhakar              88                sriramnagar       -20             
+
+93    83        muthyam reddy          88                sriramnagar       0               
+
+94    130       suresh kumar           90                sriram nagar      900             
+
+95    71        ashok                  98                sriramnagar       480             
+
+96    143       k.veereshwar rao       98                sriram nagar      180             
+
+97    75        bal reddy              99                sriramnagar       0               
+
+98    19        narsimha rao           100/1             sriramnagar       190             
+
+99    169       laxmaiah               100               sriram nagar      0               
+
+100   17        rajendra reddy         100               sriramnagar       0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   76        g.seenaiah             100               sriramnagar       0               
+
+102   77        yadhaiah goud          100               sriram nagar      160             
+
+103   78        veeresh                100               sriramnagar       30              
+
+104   79        muralikrishna          102               sriramnagar       0               
+
+105   82        jaibhavani(2con)       102               sriramnagar       60              
+
+106   81        vigneshwarheritshop    102               sriramnagar       120             
+
+107   80        narsimha               102               sriramnagar       10              
+
+108   161       g.krishna reddy        102               sriram nagar      20              
+
+109   86        shivarama jwellers     103               sriramnagar       330             
+
+110   87        naveen                 103               sriramnagar       0               
+
+111   85        s.laxma reddy office   103               sriramnagar       40              
+
+112   164       jaspar (womens.h)      104               sriram nagar      0               
+
+113   184       ramchander             106               sriramnagar       0               
+
+114   99        k.bhupathi reddy       115               sriramnagar       0               
+
+115   97        srinivasa jwellery     116               sriramnagar       30              
+
+116   178       anjaiah                116               sriramnagar       0               
+
+117   163       vardharaj swamy        117               sriram nagar      180             
+
+118   94        g.swaroopa(3con)       118               sriramnagar       0               
+
+119   91        k.venkatesh rao        120/e             sriramnagar       180             
+
+120   90        apparao                120/w             sriramnagar       0               
+
+121   89        safecharitable         121               sriramnagar       720             
+
+122   88        ashok                  122               sriramnagar       180             
+
+123   92        narsimha               123               sriramnagar       0               
+
+124   72        sravankumar            125               sriramnagar       0               
+
+125   73        raju                   125               sriramnagar       180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   123       chennakeshava reddy    125               sri ramnagar      0               
+
+127   176       balamani               126               sriramnagar       0               
+
+128   65        v.nandha kumar         127               sriramnagar       -20             
+
+129   66        ramanaiah              127               sriramnagar       0               
+
+130   67        narsimha               127               sriramnagar       10              
+
+131   64        srinath                128               sriramnagar       180             
+
+132   179       n.yadaiah              128               sriramnagar       0               
+
+133   114       laxman                 130/1             sriramnagar       80              
+
+134   118       malikarjun rao         130/1             sriramnagar       -20             
+
+135   117       lachaiah               130/1             sriramnagar       -20             
+
+136   115       masthan rao            130/1             sriramnagar       0               
+
+137   172       ravishanker            130               sriramnagar       0               
+
+138   129       kurmesh                132/a             sri ramnagar      380             
+
+139   112       narsimha reddy(2con)   132/a             sriramnagar       0               
+
+140   111       laxmiraj               132               sriramnagar       0               
+
+141   109       ramakrishna            133               sriramnagar       0               
+
+142   108       vijaya                 133               sriramnagar       40              
+
+143   107       p.ranga reddy          133               sriramnagar       30              
+
+144   110       narayana               133               sriramnagar       180             
+
+145   106       akhilesh               137/1             sriramnagar       180             
+
+146   167       kondal reddy           137/1             sriram nagar      20              
+
+147   127       ganesh                 137/2             sri ramnagar      20              
+
+148   104       r.l.naik               137/2             sriramnagar       1080            
+
+149   182       anil kumar             137/2             sriramnagar       0               
+
+150   103       venkatesh              138/a             sriramnagar       330             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   139       m.sai                  138               sriram nagar      420             
+
+152   140       k.venkatasubbaiah      138               sriram nagar      0               
+
+153   102       apparao                138               sriramnagar       0               
+
+                                                                    	----------
+                                                                    	15660
+                                                                    	----------
+
+                                END OF THE REPORT

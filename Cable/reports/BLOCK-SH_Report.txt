@@ -1,0 +1,73 @@
+
+                                     DUE LIST
+                                     --------
+Area : BLOCK-SH
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     596       P.T NAIDU              F 25Q             .                 600             
+
+2     595       PRADEEP                S.H 313           .                 400             
+
+3     598       hardeepsingh           s.h 463           .                 300             
+
+4     591       AMITH                  S.H.160           .                 200             
+
+5     574       SWETHS                 S.H.215           .                 800             
+
+6     572       SWETHS                 S.H.218           -                 200             
+
+7     599       Y.MANJUNAD             S.H.225           .                 100             
+
+8     589       ABHINAV                S.H.306           .                 400             
+
+9     592       ABHISHEK               S.H.307           .                 200             
+
+10    588       srijan thipathi        SH 217            .                 400             
+
+11    587       hemanth                SH 323            .                 200             
+
+12    594       r s rawat              sh 361            .                 100             
+
+13    467       SHALLAHA SHAHI         SH.458                              400             
+
+14    547       RAJLAXMI MAHARANA      SH-113            .                 210             
+
+15    514       SURENDER SINGH         SH-155(9866495745).                 400             
+
+16    518       RANDHIR PRASAD         SH-158            .                 300             
+
+17    586       ..........             SH-207            .                 500             
+
+18    597       MANISHANKER SAI        SH-257            .                 400             
+
+19    559       MADHAVI CHANDRA        SH-260            .                 220             
+
+20    458       SANJAY BARUA           SH-262                              200             
+
+21    567       JUHIKUSHOWK            SH-264            .                 300             
+
+22    540       R. ASHOK PONRAM        SH-266            .                 200             
+
+23    487       DIKSHITHA              SH-353            .                 100             
+
+24    543       SWETHA                 SH-464            .                 300             
+
+25    579       arif                   211               DRDO              100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    583       manoi                  219               DRDO              100             
+
+27    590       shastry                364               .                 100             
+
+                                                                    	----------
+                                                                    	7730
+                                                                    	----------
+
+                                END OF THE REPORT

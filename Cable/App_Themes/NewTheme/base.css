@@ -1,0 +1,1090 @@
+/*
+   Base Style Sheet for J&J Accounting Software.
+   Copyright 2010 J&J Technologies. All Rights Reserved.   
+   $ Id: base.css,v 1.0 2010/10/08 $
+*/
+
+/* - - - - - - - - - - - - - - - - - - - - -
+
+Title	: J&J Accounting Software
+Author : Ramanan Kalirajan
+URL    : 
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+
+
+html{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	min-height: 100%;
+	_height: 100%;
+	overflow-y: auto;
+	overflow-x: auto;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	_width: 98%;
+	min-height: 100%;
+	color: #00068c;
+	font-family: 'tahoma';
+	font-size: 11px;
+	background: white url(images/bodyBg.jpg) repeat-x bottom left;
+}
+
+a{
+	color: #00068c;
+	text-decoration: none;
+}
+
+div, span, table, tr, td, a, ul, li, ol, p, th{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+}
+
+.innertube{
+	width: 960px;
+	margin: 0px auto;
+	/*background: white url(images/innerBg.jpg) repeat-x bottom left;*/
+	background-color:White;
+}
+
+.header{
+	height: 115px;
+	background: transparent url(images/headerBg.jpg) no-repeat top left;
+}
+
+h2{
+	display: none;
+}
+
+.spacer{
+	float:left;
+	height: 70px;
+	width: 960px;
+}
+
+.spacer1{
+	height: 20px;
+	width: 960px;
+}
+
+.loginDiv{
+	height: 322px;
+	width: 721px;
+	clear: both;
+	margin: 0px auto;
+	background-image: url(images/loginDiv.gif);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/loginDiv.png,sizingMethod='crop');
+}
+
+.loginInner{
+	height: 221px;
+	width: 326px;
+	float:left;
+	margin: 44px 0px 0px 362px;
+	_margin: 44px 0px 0px 181px;
+	background: transparent url(images/loginInner.jpg) no-repeat top left;
+}
+
+.loginHd{
+	width: 322px;
+	height: 40px;
+	float:left;
+	margin:2px 0px 0px 2px;
+	_margin:2px 0px 0px 1px;
+	padding: 8px 0px 0px 14px;
+	font-weight: bold;
+	background-image: url(images/loginHd.png);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/loginHd.png,sizingMethod='crop');
+
+}
+
+.loginCnt{
+	width: 322px;
+	padding: 18px 10px 18px 18px;
+	clear:left;
+	_position:absolute;
+}
+
+.loginText{
+	background: transparent url(images/loginText.jpg) repeat-x left top;
+	border: 1px solid #bce1fe;
+	color: #333333;
+	padding:3px;
+	width: 155px;
+	font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+	font-size: 11px;
+}
+
+.loginBtn{
+background-color:transparent;
+background-image:url(images/loginBtn.gif);
+background-position:left top;
+background-repeat:no-repeat;
+border:none;
+color:#FFFFFF;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:11px;
+font-weight: bold;
+margin-top:4px;
+margin-left: 2px;
+margin-right: 2px;
+padding:3px;
+height: 30px;
+width: 99px;
+}
+
+.loginBtn:hover{
+background-image:url(images/loginBtn.gif);
+background-position:left bottom;
+color: #00068c;
+}
+
+.infoDiv{
+	margin-top:70px;
+	margin-bottom: 38px;
+	height: 178px;
+	width: 960px;
+	clear: both;
+}
+
+.infoDivInner{
+	margin-left: 50px;
+}
+
+.info1{
+	height: 178px;
+	width: 263px;
+	float: left;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/info1.png,sizingMethod='crop');
+}	
+
+.info2{
+	height: 178px;
+	width: 263px;
+	float: left;
+	margin-left: 37px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/info2.png,sizingMethod='crop');
+}
+
+.info3{
+	height: 178px;
+	width: 263px;
+	float: left;
+	margin-left: 37px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/info3.png,sizingMethod='crop');
+}
+
+
+.footerDiv{
+	clear: left;
+	width: 900px;
+	margin: 0px auto;
+	background-color: #8ec6ec;
+	height: 30px;
+}
+
+.footText{
+	float: right;
+	padding-right: 25px;
+	color: #1b2756;
+	margin-top: 10px;
+}
+
+.divCenter
+{
+position:absolute;
+left:37%;
+top: 40%;
+font-size:11px;
+font-weight:bold;
+color:#5D819B;
+/*z-index:			1;*/
+vertical-align:middle;
+background-color:#E0E0E0;
+/*background-image:url("Images/LogoBG.gif");*/
+width:250px;
+height:100px;
+background-repeat:no-repeat;
+background-position:center;
+filter:alpha(opacity=90);
+opacity:0.9;
+border:solid 1px #5D819B;
+text-align:center;
+}
+
+.upper
+{
+	text-transform:uppercase;
+}
+
+.loginErr{
+	width: 322px;
+	padding: 20px 10px 18px 0px;
+	clear:left;
+	_position:absolute;
+	font:bold 10px Verdana;
+	color:#FF0000;
+}
+
+.spacer3{
+	float:left;
+	/*height: 50px;*/
+	width: 960px;
+}
+
+.msgCont{
+	display:block;
+	clear: both;
+	width: 100%;
+	margin-top: 2px;
+	height: 25px;
+}
+
+.dateDtl{
+	float:left;
+	margin-top: 6px;
+	font-family: Albertus Extra Bold;
+	font-size: 11px;
+	width: 150px;
+	margin-left:5px;
+	color:#151B54;
+}
+
+#applName{
+	font-weight: bold;
+}
+
+#msgDiv{
+	float:left;
+	margin-top: 0px;
+	font-family: tahoma;
+	font-size: 11px;
+	text-align: center;
+	width: 460px;
+}
+
+.logoutDiv{
+	float:right;
+	/*height: 25px;*/
+	width: 150px;
+	margin-right: 30px;
+}
+
+.signOut{
+	float: right;
+	width: 26px;
+	background: transparent url(images/logout.gif) no-repeat center center;
+	height: 25px;
+	cursor: pointer;
+}
+
+.help{
+	float: right;
+	width: 26px;
+	background: transparent url(images/help.gif) no-repeat center center;
+	height: 25px;
+	margin-right: 5px;
+	cursor: pointer;
+}
+
+
+.innerContent{
+	clear:both;
+	width: 1000px;
+	margin: 0px auto;
+	padding-bottom: 20px;
+}
+
+.leftCont{
+	float: left;
+	width: 200px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.rightCont{
+	float: left;
+	width: 700px;
+	margin-left: 20px;
+	padding: 0px;
+}
+
+.lefttDiv{
+	float: left;
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+.menuHd{
+	float: left;
+	width: 200px;
+	border: 1px solid #86b2d1;	
+	height: 28px;
+	color: #00068c;
+}
+
+.menuHd span{
+	float: left;
+	margin-top: 6px;
+	margin-left: 0px;
+	font-size: 12px;
+	font-weight: bold
+}
+
+.menuBody{
+	float:left;
+	width: 200px;
+	border-left: 1px solid #86b2d1;
+	border-right: 1px solid #86b2d1;
+	border-top: 1px solid #86b2d1;
+}
+
+.shadow{
+	_float: left;
+	height: 12px;
+	width: 200px;
+	/*background-image: url(images/shadow.png);*/
+	background-color: transparent;
+	background-repeat: repeat-x;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/shadow.png,sizingMethod='scale');
+}
+
+.menuFoot{
+	clear:both;
+	width: 203px;
+	height:7px;
+	padding-bottom:15px;
+}
+
+.leftTbl{
+	float:left;
+	height: 7px;
+	width: 7px;
+	background-image: url(images/tblLeft.png);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/tblLeft.png,sizingMethod='crop');
+}
+
+.midTbl{
+	float: left;
+	height: 7px;
+	width: 188px;
+	_background-image: none;
+	background: transparent url(images/tblMiddle.jpg) repeat-x top left;
+}
+
+.rightTbl{
+	float:left;
+	height: 7px;
+	width: 7px;
+	background-image: url(images/tblRight.png);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/tblRight.png,sizingMethod='crop');
+}
+
+#mainMenu{
+	clear:left;
+	width: 200px;
+	height: 540px;
+	padding: 0px 0px 0px 0px;
+}
+
+.mainConDiv{
+	float: left;
+	width: 688px;
+	margin-bottom: 10px;
+	border: 1px #86b2d1;
+}
+
+.mainConHd{
+	float: left;
+	width: 688px;
+	border: 0px #86b2d1;
+	background: transparent url(images/titleHd.jpg) repeat-x top left;
+	height: 28px;
+	color: #00068c;
+	vertical-align:middle;
+}
+
+.SectionHeader{
+	float: left;
+	width: 688px;
+	border: 0px #86b2d1;
+	background: transparent url(images/titleHd.jpg) repeat-x top left;
+	height: 28px;
+	color: #00068c;
+	vertical-align:middle;
+	font-weight:bold;
+	text-align:center;
+}
+
+.Header{
+	float: left;
+	border: 0px #86b2d1;
+	background: transparent url(images/titleHd.jpg) repeat-x top left;
+	height: 28px;
+	color: #00068c;
+	font-weight:bold;
+	vertical-align:middle;
+	font-family:Verdana;
+}
+
+.mainConHd span{
+	float: left;
+	margin-top: 6px;
+	margin-left: 9px;
+	font-size: 12px;
+	font-weight: bold
+}
+
+.mainConHold{
+	float:left;
+	width: 688px;
+	display:block;
+	border: 1px solid #86b2d1;
+}
+
+.mainGridHold{
+	float:left;
+	width: 688px;
+	display:block;
+}
+
+.accordionContent
+{
+	border: 1px solid #5078B3;
+}
+
+
+.mainConBody{
+	float:left;
+	width: 688px;
+	background: transparent url(images/divBg.jpg) repeat top left;
+}
+
+.searchBody{
+	float:left;
+	background: transparent url(images/divBg.jpg) repeat top left;
+	border-left: 1px solid #86b2d1;
+	border-top: 1px solid #86b2d1;
+	border-bottom: 1px solid #86b2d1;
+	border-right: 1px solid #86b2d1;
+	vertical-align:middle;
+}
+
+.tblBody{
+	float:left;
+	background: transparent url(images/divBg.jpg) repeat top left;
+}
+
+.shadow1{
+	_float: left;
+	height: 12px;
+	width: 688px;
+	background-image: url(images/shadow.png);
+	background-color: transparent;
+	background-repeat: repeat-x;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/shadow.png,sizingMethod='scale');
+}
+
+
+.gridTitle{
+	_float: left;
+	height: 25px;
+	width: 658px;
+	border-bottom: 1px solid #86b2d1;
+	font-weight:bold;
+	background-image: url(images/gridTitle.jpg);
+	background-color: transparent;
+	background-repeat: repeat-x;
+	background-position: top left;
+}
+
+.mainConFoot{
+	clear:both;
+	width: 660px;
+	height:7px;
+}
+
+.midTbl1{
+	float: left;
+	height: 7px;
+	width: 646px;
+	background: transparent url(images/tblMiddle.jpg) repeat-x top left;
+}
+
+.cenSuite{
+	clear: both;
+	margin: 5px 0px;
+	width: 618px;
+	margin: 0px auto;
+}
+
+.clientProj{
+	clear: both;
+	margin: 5px 0px;
+	width: 618px;
+	margin: 0px auto;
+}
+
+.optSelect, .optText{
+	background: transparent url(images/loginText.jpg) repeat-x left top;
+	border: 1px solid #bce1fe;
+	color: #333333;
+	padding:3px;
+	width: 110px;
+	font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+	font-size: 11px;
+}
+
+.altRow{
+	background-color: #def0fc;
+	height:25px;
+	padding-left:3px;
+}
+
+.dataRow{
+	background-color: White;
+	height:25px;
+	padding-left:3px;
+	background: transparent url(images/divBg.jpg) repeat top left;
+}
+
+.SelectdataRow{
+	background-color: #EEEAB4;
+	height:25px;
+	padding-left:3px;
+}
+
+.HeadataRow{
+	background-color: White;
+	height:30px;
+	padding-left:3px;
+	background: transparent url(images/divBg.jpg) repeat-x top left;
+}
+
+.openheader
+{
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight:bold;
+	height:16px;
+	padding: 3px 6px;
+	/*background-color:#386296;*/
+	background: transparent url(images/titleHd.jpg) repeat-x top left;
+	vertical-align:middle;
+	cursor: hand;
+	border: outset 0px;
+	height:20px;
+	text-align:left;
+	border: 1px solid White;
+	text-wrap:false;
+	color: #00068c;
+}
+.closedheader
+{
+	font-family: Verdana;
+	font-size: 11px;
+	height:16px;
+	padding: 3px 6px;
+	background-position: right top;
+	background: transparent url(images/titleHd.jpg) repeat-x top left;
+	/*background-color:#386296;*/
+	background-repeat: repeat-x;
+	cursor: hand;
+	border: outset 0px;	
+	text-align:left;
+	border:1px solid White;
+	color: #00068c;
+}
+
+.itemarea
+{
+	background-color:Transparent;
+	overflow:auto;
+	height: 360px;
+	background: transparent;	
+	position:relative;
+}
+
+.hoveritem
+{
+	font-family: Verdana;
+	font-size: 11px;
+	background-image:url("Images/bluebg.jpg");
+	font-weight: normal;
+	color:Black;
+	text-align:left;
+	font-weight:bold;
+	width:100%;
+	cursor:hand;
+	padding: 3px 0;
+	height:16px;
+	padding: 3px 10px;
+	border:2px solid;
+	filter: alpha(opacity= 25);
+
+}
+
+.selecteditem
+{
+	font-family: Verdana;
+	font-size: 11px;
+	/*background-color: #CCCC99;*/
+	background-image:url("Images/bluebg.jpg");
+	font-weight: normal;
+	text-align:left;
+	width:100%;
+	cursor:hand;
+	padding: 3px 10px;
+	height:16px;
+	border:1px solid;
+}
+
+.item
+{
+	font-family: Verdana;
+	font-size: 11px;
+	background-color: Transparent;
+	font-weight: normal;
+	text-align:left;
+	width:100%;
+	cursor:hand;
+	padding: 3px 10px;
+	height:16px;
+}
+
+.nav1 {
+	width: 300px;
+	height: 16px;	
+	white-space: nowrap;
+	background: #66a3e0;
+	border-top: #4c94db 0px solid;
+}
+
+.nav1 A:ACTIVE, .nav1 A:LINK, .nav1 A:VISITED, .nav1 A:HOVER 
+{
+	margin-left: 5px;
+	color: white;
+	margin-right: 5px;
+	height:16px;
+}
+
+.nav2 
+{
+	border-top: #4c94db 0px solid;
+	background: #b2d1f0;
+	width: 1000px;
+	height: 16px;
+	white-space: nowrap;
+}
+			
+#horizNav
+{
+	/*left: 300px;
+	width: 400px;*/
+	position: absolute;
+	top: 64px;
+	height: 32px;
+}
+
+.cssDropDown, .cssTextBox{
+	background: transparent url(images/loginText.jpg) repeat-x left top;
+	background-color:White;
+	border: 1px solid #bce1fe;
+	color: #333333;
+	padding:3px;
+	overflow:hidden;
+	font-family:Verdana;
+	font-size: 11px;
+}
+
+.cssDD{
+	background: transparent url(images/loginText.jpg) repeat-x left top;
+	border: 2px solid #bce1fe;
+	color: #333333;
+	padding:4px;
+	font-family:Verdana;
+	font-size: 12px;
+}
+
+/* ajax__tab_yuitabview-theme theme (img/yui/sprite.png) */
+.ajax__tab_yuitabview-theme .ajax__tab_header 
+{
+    font-family:Verdana,helvetica,clean,sans-serif;
+    font-size:11px;
+    border-bottom:solid 5px #2647a0;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_header .ajax__tab_outer 
+{
+    background:url(images/titleHd.jpg) #d8d8d8 repeat-x;
+    margin:0px 0.16em 0px 0px;
+    padding:1px 0px 1px 0px;
+    vertical-align:bottom;
+    border:solid 1px #a3a3a3;
+    border-bottom-width:0px;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_header .ajax__tab_tab
+{    
+    color:#000;
+    padding:0.35em 0.75em;    
+    margin-right:0.01em;    
+    background: #00068c transparent url(images/innerBg.jpg) repeat-x top left;   
+}
+.ajax__tab_yuitabview-theme .ajax__tab_hover .ajax__tab_outer 
+{
+    background: transparent url(images/titleHd.jpg) repeat-x left -1300px;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_active .ajax__tab_tab 
+{
+    background: transparent url(images/titleHd.jpg) repeat-x top left;
+    color:Black;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_active .ajax__tab_outer
+{
+    background:transparent url(images/titleHd.jpg) #2647a0 repeat-x left -1400px;
+}
+
+.ajax__tab_yuitabview-theme .ajax__tab_body 
+{
+    font-family:verdana,tahoma,helvetica;
+    font-size:10pt;
+    /*padding:0.25em 0.5em;*/
+    background-color: transparent;
+    border:solid 1px #808080;
+    background-repeat: repeat-x;
+    background: transparent url(images/divBg.jpg) repeat top left;
+    border-top-width:0px;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/shadow.png,sizingMethod='scale');    
+	float:left;
+}
+
+.backGround
+{
+	background: white url(images/bodyBg.jpg) repeat-x bottom left;
+}
+
+.Button {
+background:#F5FAFF url(images/bgButton.jpg) repeat-x scroll left bottom;
+border:1px solid #B7D1F3;
+color:#134993;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:11px;
+margin:4px 2px;
+padding:3px;
+}
+
+.pageButton {
+background:#F5FAFF url(images/bgButtonPager.jpg) repeat-x scroll left bottom;
+border:1px solid #B7D1F3;
+color:#134993;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:11px;
+margin:1px 1px;
+padding:1px;
+}
+
+.printButton {
+background:#F5FAFF url(images/bgButtonPager.jpg) repeat-x scroll left bottom;
+border:1px solid #B7D1F3;
+color:#134993;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:11px;
+margin:3px 3px 3px 3px;
+padding:2px;
+}
+
+.mediumButton {
+background:#F5FAFF url(images/bgButtonPager.jpg) repeat-x scroll left bottom;
+border:1px solid #B7D1F3;
+color:#134993;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:11px;
+margin:2px 1px;
+padding:2px;
+}
+
+
+.allPad
+{
+padding:3px 3px 3px 3px;
+}
+
+.tblLeft
+{
+font:11px Verdana;
+color:#2D4482;
+text-decoration:none;
+border-width:0px;
+text-align:left;
+vertical-align:middle;
+padding-left:8px;
+height:30px;
+}
+
+.tblLeftNoPad
+{
+font:11px Verdana;
+color:#2D4482;
+text-decoration:none;
+border-width:0px;
+text-align:left;
+padding-left:2px;
+vertical-align:middle;
+height:30px;
+}
+
+.tblLeft4pxPad
+{
+font:11px Verdana;
+color:#2D4482;
+text-decoration:none;
+border-width:0px;
+text-align:left;
+padding-left:4px;
+vertical-align:middle;
+height:30px;
+}
+
+.tblRight
+{
+font:11px Verdana;
+color:#2D4482;
+text-decoration:none;
+border-width:0px;
+text-align:left;
+vertical-align:middle;
+padding-left:0px;
+height:30px;
+}
+
+.SubTab {
+float:left;
+font-size:11px;
+font-family: arial;
+font-weight: bold;
+height:25px;
+padding:5px 0 0;
+cursor:pointer;
+}
+
+.SubTab .Left {
+background:transparent url(images/SubMenuNormalLeft.gif) no-repeat scroll center top;
+float:left;
+height:100%;
+width:9px;
+padding-bottom: 3px;
+}
+
+.SubTab .Middle {
+background:transparent url(images/SubMenuNormalBg.gif) repeat-x scroll center top;
+float:left;
+height:100%;
+padding-top:5px;
+vertical-align: middle;
+}
+
+.SubTab .Right {
+background:transparent url(images/SubMenuNormalRight.gif) no-repeat scroll center top;
+float:left;
+height:100%;
+width:9px;
+padding-bottom: 3px;
+}
+
+.tblLeftSimple
+{
+border-width:0px;
+text-align:left;
+vertical-align:middle;
+height:30px;
+}
+
+.subHeadFont
+{	
+	font: bold 12px verdana;
+	color: #ffffff;
+	text-align:center;
+	height:24px;
+	background-color: #505251;
+}
+
+.cptnContentWhite
+{
+font: normal 11px verdana;
+font-weight:bold;
+text-decoration:none;
+}
+
+.mainSummary{
+	float:inherit;
+	width: 300px;
+	background: transparent url(../images/divBg.jpg) repeat top left;
+	border-left: 1px solid #86b2d1;
+	border-right: 1px solid #86b2d1;
+}
+
+.shadowSummary{
+	_float: left;
+	height: 12px;
+	width: 300px;
+	background-image: url(images/shadow.png);
+	background-color: transparent;
+	background-repeat: repeat-x;
+	background-position: top left;
+	_background-image: none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=images/shadow.png,sizingMethod='scale');
+}
+
+.mainFootSummary{
+	clear:both;
+	width: 300px;
+	height:7px;
+}
+
+.midTblSummary{
+	float: left;
+	height: 7px;
+	width: 288px;
+	background: transparent url(images/tblMiddle.jpg) repeat-x top left;
+}
+
+.tblLeftMobile
+{
+font:12px Verdana;
+color:#2D4482;
+text-decoration:none;
+border-width:0px;
+text-align:left;
+vertical-align:middle;
+padding-left:0px;
+height:30px;
+}
+
+
+.ButtonMobile {
+background:#F5FAFF url(images/bgButton.jpg) repeat-x scroll left bottom;
+border:1px solid #B7D1F3;
+color:#134993;
+cursor:pointer;
+font-family:Tahoma,Arial,Verdana,sans-serif,"Times New Roman";
+font-size:14px;
+margin:4px 4px;
+padding:3px;
+font-weight:bold;
+}
+
+/* Applying Grid*/
+.GgrdBorder
+{
+border:solid 1px #cccccc;
+}
+.GrdHeaderbgClr
+{
+/*background-color:#5D819B;*/
+background-image:url('Images/108b48.jpg');
+text-align:left;
+color:White;
+font-size:11px;
+padding-left:2px;
+height:20px;
+}
+.GrdHdrContent
+{
+color:#FFFFFF;
+font:bold 10px verdana;
+text-decoration:none;
+text-align:left;
+}
+.GrdHdrContent a:link
+{
+color:#FFFFFF;
+font:bold 10px verdana;
+text-decoration:none;
+}
+.GrdHdrContent a:visited
+{
+color:#FFFFFF;
+font:bold 10px verdana;
+text-decoration:none;
+}
+.GrdHdrContent a:hover
+{
+color:#FFFFFF;
+font:bold 10px verdana;
+text-decoration:none;
+}
+
+.GrdBgColor
+{
+
+background-color:#E9F1F6;
+}
+
+.headerstyle {
+background-image: url(Images/sort_none.gif);
+background-repeat: no-repeat;
+background-position: center left;     
+padding-left: 20px;
+}  
+
+.hdrSearch 
+{ 
+/*background-image:url("./App_Themes/DefaultTheme/Images/RightLink1.gif") left center no-repeat padding:4px;*/
+background:url("Images/search.png") no-repeat;
+color: #336699;
+font: 8pt "verdana";
+height:30px;
+}
+.sectionHeaderTable
+{
+border: 0px;
+margin: 4px;
+margin-top: 20px;
+}

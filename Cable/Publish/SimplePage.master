@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SimplePage.master.cs" Inherits="SimplePage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="App_Themes/DefaultTheme/DefaultTheme.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/DefaultTheme/calendar.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/DefaultTheme/ComboBox.css" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <div class="container">
+        <!-- Container Div -->
+        <div class="innertube">
+            <!-- Inner Div -->
+            <div class="header">
+                <!-- Header Div -->
+                <h2>
+                    J&J Accounting Software</h2>
+                <h2>
+                    J&J Technologies</h2>
+            </div>
+            <!-- Header Div -->
+            <div class="spacer">
+            </div>
+            <div>
+                <!-- Login Div -->
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr id="rowTab" visible="false" runat="server">
+                        <td>
+                            <asp:ContentPlaceHolder ID="cplhTab" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:UpdateProgress runat="server" ID="uProcess1">
+                                <ProgressTemplate>
+                                    <progresstemplate>        
+                                                <div id="divLoading" class="divCenter" >
+                                                    <table border="0" cellpadding="0" cellspacing="0" align="center" width="95%" height="95%">
+                                                        <tr>
+                                                            <td class="style1">Please Wait....</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="top" class="style2">
+                                                                <img id="imgLoading" src="App_Themes/DefaultTheme/Images/ajax-loader.gif" align="absmiddle" vspace="0" hspace="0" style="vertical-align:middle" />    
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </div>                                                        
+                                            </progresstemplate>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ProgressTemplate>
+                            </asp:UpdateProgress>
+                            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                                <ContentTemplate>
+                                    <asp:ContentPlaceHolder ID="cplhControlPanel" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!-- Login Div -->
+            <div class="infoDiv">
+                <div class="infoDivInner">
+                    <div class="info1">
+                        &nbsp;
+                    </div>
+                    <div class="info2">
+                        &nbsp;
+                    </div>
+                    <div class="info3">
+                        &nbsp;
+                    </div>
+                </div>
+            </div>
+            <div class="footerDiv">
+                <!-- Footer -->
+                <div class="footText">
+                    Copyrights &#169; <a href="#">J & J Technologies</a> 2010. All Rights Reserved
+                </div>
+            </div>
+            <!-- Footer -->
+            <div class="spacer1">
+                &nbsp;
+            </div>
+        </div>
+        <!-- Inner Div -->
+    </div>
+    <!-- Container Div -->
+    </form>
+</body>
+</html>

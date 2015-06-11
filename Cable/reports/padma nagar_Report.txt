@@ -1,0 +1,15 @@
+
+                                     DUE LIST
+                                     --------
+Area : padma nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+                                                                    	----------
+                                                                    	0
+                                                                    	----------
+
+                                END OF THE REPORT

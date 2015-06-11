@@ -1,0 +1,667 @@
+
+                                     DUE LIST
+                                     --------
+Area : HSPM (SOUTH)
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     682       thirumal reddy         bawarchi          .                 200             
+
+2     853       srivasuenkar           g.p               .                 100             
+
+3     502       SHAh E.L               M.R               .                 3200            
+
+4     755       naverna college        mr                .                 200             
+
+5     840       selabreeti reddy       mr                .                 200             
+
+6     848       salaiah                mr(g)             .                 100             
+
+7     298       G.L.R.FUNCTION HALL    MR3               .                 100             
+
+8     588       rama ragava chary      temple            .                 200             
+
+9     463       lovely hair stail      1                 hasthinapuram     100             
+
+10    830       naga kumar             1                 .                 200             
+
+11    849       shiva kumar            1 p               .                 100             
+
+12    527       j.alivelu              1p                .                 100             
+
+13    388       LAVANYA                1P                .                 200             
+
+14    735       VENKAT REDDY           1P                ...               100             
+
+15    5         PARAVALUTHU            2                 .                 100             
+
+16    809       dr.seema               3                 .                 600             
+
+17    595       srinivas               3                 .                 100             
+
+18    688       SHESHANK REDDY         3 P               .                 200             
+
+19    535       praveenreddy           3.P               .                 100             
+
+20    332       SRINATH                4                 .                 220             
+
+21    524       RAJINI                 4                 .                 300             
+
+22    223       SUMAN                  4                 .                 100             
+
+23    617       k.jayamma              4                 .                 100             
+
+24    10        SHEKAR REDDY           4                 .                 100             
+
+25    400       VENKAT REDDY           4                 .                 200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    417       madhusudhan            4.p               .                 0               
+
+27    813       venkateswar            4p                .                 100             
+
+28    9         SANJAY                 5                 .                 100             
+
+29    631       narendher              6.p               .                 100             
+
+30    460       c.srinivasa reddy      6-8               hasthinapuram     100             
+
+31    278       RAJU                   7                 .                 100             
+
+32    16        SHEKAR REDDY           7                 .                 100             
+
+33    261       PRADEEP KUMR           7                 .                 100             
+
+34    613       jaya ram               7 m.r             .                 300             
+
+35    679       AYYANNYA               7 p               .                 100             
+
+36    585       ram reddy              7.p               .                 100             
+
+37    575       china reddy            7.p               .                 100             
+
+38    459       M .Anatha reddy        7.8               hasthinapuram     100             
+
+39    17        SANATH KUMAR           8                 .                 200             
+
+40    615       anjenyulu              9                 .                 200             
+
+41    770       laxma reddy            9 p               .                 200             
+
+42    754       jagan                  9 p               .                 500             
+
+43    832       pranav sai             9.p               .                 300             
+
+44    696       NARSIMHA RAO           9.P               .                 200             
+
+45    604       srikanth               9.p               .                 100             
+
+46    744       nandu                  9p                .                 300             
+
+47    847       RAM PRASAD             10                .                 100             
+
+48    21        RAMANA BABU            11                .                 100             
+
+49    788       krishna reddy          13                .                 100             
+
+50    738       SHIVAJI                13                .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    427       B.kishan reddy         15                h puram           100             
+
+52    827       janga reddy            16                .                 200             
+
+53    26        SHYAM SUNDHAR          18                .                 100             
+
+54    27        MOHAN RAO              19                .                 100             
+
+55    760       s.k.shagiri            19                .                 600             
+
+56    834       prem kumar             21                .                 100             
+
+57    232       RAGUMA REDDY           21                .                 500             
+
+58    28        NARASAIAH              22                .                 100             
+
+59    838       s.ram reddy            23                .                 300             
+
+60    712       K.MANOHAR REDDY        23                .                 100             
+
+61    711       MAHENDHAR REDDY        24                .                 100             
+
+62    740       YADAIAH                25/g              .                 200             
+
+63    707       SHANKAR                25/G              .                 500             
+
+64    725       CHANDHU LAL            25/G              .                 600             
+
+65    728       SAROJA                 25/G              .                 500             
+
+66    316       SN REDDY               25                .                 100             
+
+67    773       SRI LAXMI              25                .                 200             
+
+68    722       o.srinu                25 g              .                 300             
+
+69    450       shekar                 25 g              .                 860             
+
+70    841       b.mallesh              25(g)             .                 200             
+
+71    33        LINGAIAH               25(G)             .                 100             
+
+72    329       VENKATESH              25(G)             .                 600             
+
+73    614       venkataiah             25(un)            .                 280             
+
+74    471       N.ramaswami            25.g              hspm              200             
+
+75    793       srinivas reddy         26                .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    589       JAGHAN                 27                .                 400             
+
+77    713       MADHU SUDHAN REDDY     27                .                 100             
+
+78    824       srinivas               28                .                 100             
+
+79    650       t.venkat reddy         28                .                 200             
+
+80    677       N.SRINIVAS             29                .                 100             
+
+81    35        RAMESH                 30                .                 100             
+
+82    764       rashid                 32                .                 200             
+
+83    850       srinivas rao           34                .                 100             
+
+84    339       V. RAVI                34                .                 300             
+
+85    40        MC. JAIKAR             35                .                 100             
+
+86    778       ramana                 36                .                 100             
+
+87    626       subba rao              37                .                 100             
+
+88    43        J.DHEERENDRA           40                .                 200             
+
+89    672       b.kumari               41                .                 100             
+
+90    539       avenendher             42                .                 100             
+
+91    45        RAMA KRISHNA           42                .                 100             
+
+92    784       anjaneyulu             45                .                 200             
+
+93    561       a.srimannarayana       46                .                 100             
+
+94    808       mahan reddy            47                .                 100             
+
+95    652       k.rathna reddy         47                .                 100             
+
+96    50        SHYAMALA DEVI          47                2connections      500             
+
+97    822       BALA KRISHNA           48                .                 100             
+
+98    279       MASUNDAR REDDY         48                .                 200             
+
+99    51        VENKATAIAH             48                .                 50              
+
+100   678       A.VENKAT REDDY         49                .                 200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   54        UPENDAR                49                .                 100             
+
+102   829       rama chandra           50                .                 200             
+
+103   555       d.v.raamana reddy      51                .                 100             
+
+104   828       ramu                   51                .                 200             
+
+105   237       ANJI REDDY             52                .                 100             
+
+106   723       p.rajashekar           52                .                 200             
+
+107   338       SRAVANI                55                .                 100             
+
+108   60        NARASHIMA              56                .                 100             
+
+109   266       SOMU                   57                .                 100             
+
+110   831       b.vishnuvardhan        58                .                 200             
+
+111   62        SRINIVAS REDDY         58                .                 100             
+
+112   807       sathi reddy            59                .                 200             
+
+113   213       HANUMANTH RAO          59                .                 100             
+
+114   817       sathi reddy            59                .                 200             
+
+115   533       DANRAJU                59                .                 200             
+
+116   64        RAMULU                 60                .                 100             
+
+117   819       krishna                61                .                 100             
+
+118   852       ashok reddy            61p               .                 100             
+
+119   68        LEELA KISHOR           63                .                 200             
+
+120   69        BALA KRISHNA           64                .                 190             
+
+121   70        LAXMI                  66                .                 100             
+
+122   71        NAGA BUSHANAM          67                .                 300             
+
+123   721       kiranmai               69                .                 100             
+
+124   796       beem reddy             70                .                 200             
+
+125   606       m.v.ramana reddy       71                .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   768       srisailam              73                .                 100             
+
+127   76        SRINIVAS               73                .                 100             
+
+128   736       VENAKATWARLU           74                ...               200             
+
+129   694       VIJENDHAR REDDY        74                .                 200             
+
+130   662       padma reddy            74                .                 100             
+
+131   767       santosh reddy          74                .                 100             
+
+132   812       sudhakar               75                .                 300             
+
+133   81        SRINATH                75                .                 320             
+
+134   820       pavan kumar            75                .                 100             
+
+135   787       chandra bhaskar        77                .                 200             
+
+136   774       c.ramalinga reddy      77                .                 200             
+
+137   600       guptha                 78                .                 200             
+
+138   545       chndramoule            78                .                 100             
+
+139   798       harinath reddy         78                .                 300             
+
+140   86        BABU RAO               79                .                 100             
+
+141   835       s.venkatiah            80                .                 100             
+
+142   851       sravan                 81                .                 100             
+
+143   88        DEELIP KUMAR           81                .                 100             
+
+144   89        MADHU                  82                .                 100             
+
+145   642       sayam sunder           83                .                 100             
+
+146   673       gopal                  83                .                 200             
+
+147   833       ram reddy              84                .                 200             
+
+148   454       v srihari              84                hasthinapuram     200             
+
+149   753       Narsi reddy            84                .                 100             
+
+150   518       K SRINIVAS             85                .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   802       naveen kumar           86                .                 100             
+
+152   839       srinivas               86                .                 300             
+
+153   579       vijay kumar            86                .                 300             
+
+154   355       SAI KRISHNA            87                .                 100             
+
+155   492       M.vijaya reddy         88                .                 100             
+
+156   654       visvar rao             89                .                 100             
+
+157   340       KOTI REDDY             91                .                 100             
+
+158   95        SRI KRISHNA            92                .                 100             
+
+159   284       RAVI KUMAR             95                2connections      300             
+
+160   745       devi                   96                .                 200             
+
+161   777       k.s.rao                97                .                 300             
+
+162   823       kamala                 98                .                 100             
+
+163   335       ANAND                  99                .                 100             
+
+164   101       V.SATYANARAYANA        102               .                 100             
+
+165   102       RAJENDHAR SINGH        103               .                 100             
+
+166   814       kalyan                 106               .                 100             
+
+167   815       v.panendra             106               .                 100             
+
+168   327       LAXMI NARAYANA         107               .                 100             
+
+169   655       ravi kumar             108               .                 100             
+
+170   107       LAXMAN RAO             108               .                 100             
+
+171   821       prabhakar              109               .                 100             
+
+172   283       B.R.SANDEEP            109               .                 100             
+
+173   110       PURSHTOM CHARY         110               .                 100             
+
+174   241       mahesh                 111               .                 100             
+
+175   112       PRAKESH RAO            111               .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   552       SRINIVAS               112               .                 200             
+
+177   113       VIJAY RAGAVHAN         113               .                 100             
+
+178   804       cheran                 113               .                 100             
+
+179   737       Y..V.PADMAVATHI        114               .                 100             
+
+180   573       ram reddy              115               .                 100             
+
+181   467       P.prakash              116               hspm              100             
+
+182   756       m.srinivas             117               .                 200             
+
+183   114       VIJENDHAR REDDY        117               .                 100             
+
+184   546       madhukar               118               .                 100             
+
+185   530       vikram reddy           118               .                 500             
+
+186   519       RAMANA                 119               .                 100             
+
+187   734       VENKATIAH              120/A             ...               400             
+
+188   826       linga swami            120/A             .                 300             
+
+189   837       kamalama               120/A             .                 200             
+
+190   692       VENKATIAH              120/A             .                 100             
+
+191   412       RAVI KUMAR             120/A             .                 100             
+
+192   318       S.PURNA                120/A             .                 200             
+
+193   525       t.adithya              120/a             .                 100             
+
+194   401       RAM KRISHNA            120/A             -                 400             
+
+195   366       NAGA BUCHANAM          121               .                 100             
+
+196   783       praveen                121               .                 2300            
+
+197   578       SHEKAR REDDY           121               .                 560             
+
+198   373       K.PANDU                122               .                 340             
+
+199   806       prahalad               123               .                 100             
+
+200   598       pralad                 123               .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   127       NALLA REDDY            124               .                 100             
+
+202   733       E.SATYANARAYANA        125               .                 100             
+
+203   20        SUNIL KUMAR            126               .                 100             
+
+204   248       DHARMAIAH              126               .                 100             
+
+205   249       NARESH                 126               .                 100             
+
+206   130       ARVIND                 127               .                 100             
+
+207   131       KONDA REDDY            128               .                 100             
+
+208   276       PRABHAKAR REDDY        129               .                 200             
+
+209   132       R.G.K. MURTHY          129               .                 200             
+
+210   795       narsy reddy            130               .                 100             
+
+211   134       YADAGIRI REDDY         130               .                 100             
+
+212   772       padma                  132               .                 200             
+
+213   758       surendhar reddy        132               .                 100             
+
+214   346       S.S. RAO               134               .                 100             
+
+215   139       V.S. SHARMA            135               .                 100             
+
+216   541       BRAMHAIAH              135.G             .                 100             
+
+217   542       vikram                 136               .                 100             
+
+218   140       P.MANOHAR              136               .                 100             
+
+219   379       MADHUSHAN REDDY        137               .                 100             
+
+220   359       ASHOK                  137               .                 200             
+
+221   215       YADAGIRI               138               .                 100             
+
+222   750       rama devi              140               .                 1000            
+
+223   816       prabavathi             140               .                 300             
+
+224   146       A.DURGAIAH             141               .                 100             
+
+225   494       achitha reddy          141               .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   695       VENU GOPAL             142               .                 200             
+
+227   147       SUDHAKAR               142               .                 100             
+
+228   148       PAVANI                 143               .                 100             
+
+229   392       SUDARSHAN REDDY        146               .                 200             
+
+230   150       APPA RAO               149               .                 100             
+
+231   152       VENKATESHWAR RAO       151               .                 100             
+
+232   825       s.sujatha              151               .                 100             
+
+233   404       GOPAL  REDDY           152               -                 200             
+
+234   846       spandana               153               .                 200             
+
+235   360       JEGADISHWAR REDDY      153               .                 100             
+
+236   634       anjith reddy           154               .                 200             
+
+237   125       SHEKAR                 155               .                 300             
+
+238   380       PADAM RAO              155               .                 100             
+
+239   801       vijera kumar           156               .                 100             
+
+240   619       bupal                  156               .                 100             
+
+241   158       K. MOHAN               157               .                 100             
+
+242   390       NARSIMHA               157               .                 400             
+
+243   312       RAMACHANDRA            158               .                 660             
+
+244   836       adhisheha giri         158               .                 100             
+
+245   731       LAXMA REDDY            159               .                 100             
+
+246   485       n.yadhagiri reddy      159               .                 200             
+
+247   780       jayapal reddy          159               .                 400             
+
+248   444       MURALIDHAR REDDY       159               .                 100             
+
+249   616       venkat reddy           159               .                 100             
+
+250   781       jagadeshwar reddy      159               .                 200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   167       RAMESH                 161               .                 100             
+
+252   168       KIRAN                  162               .                 100             
+
+253   639       purna chandra rao      163               .                 100             
+
+254   800       sravankanth            164               .                 100             
+
+255   645       madhu                  165               .                 100             
+
+256   297       SRI KANTH              165               .                 400             
+
+257   414       NARESH                 165               .                 100             
+
+258   411       RAMULU                 165               .                 100             
+
+259   548       srinivas               165               .                 100             
+
+260   171       PRASANA                166               .                 100             
+
+261   557       viswak                 166               .                 100             
+
+262   586       jayapal reddy          167               .                 100             
+
+263   383       t.GOPAL REDDY          167               -                 200             
+
+264   741       JITENDHAR REDDY        167               ..                100             
+
+265   748       raja shekar reddy      167               ..                100             
+
+266   343       v.anth reddy           167               .                 100             
+
+267   844       josaf                  168               .                 200             
+
+268   172       SWAROOP KUMAR          168               .                 100             
+
+269   715       RAMA SWAMI             169               .                 100             
+
+270   374       SURYANARAYANA          171               .                 100             
+
+271   771       asparkan               173               .                 200             
+
+272   769       venkat reddy           173               .                 200             
+
+273   703       kotaiah                173               .                 100             
+
+274   398       APSAR KHAN             173               .                 600             
+
+275   845       j.venkat reddy         175               .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   776       raju                   175               .                 200             
+
+277   641       gopi                   176               .                 500             
+
+278   799       srihari                176               .                 100             
+
+279   732       SRIKANTH REDDY         176               .                 100             
+
+280   559       govardhan reddy        176               .                 100             
+
+281   702       SUDHEER KUMAR REDDY    178               .                 200             
+
+282   178       MOHAN REDDY            179               .                 200             
+
+283   584       meri                   179               .                 900             
+
+284   181       V. LINGAM              181               .                 100             
+
+285   309       SAI BABA CHARY         181               .                 1260            
+
+286   811       satish hair still      181(b.r)          .                 100             
+
+287   183       NAGA RAJ RAO           182               .                 100             
+
+288   507       a.nazeer               185               .                 100             
+
+289   399       SAI PRASAD             186               .                 100             
+
+290   636       m.k murthy             186               .                 100             
+
+291   635       hari krishna           186               .                 100             
+
+292   508       satya narayana         187               .                 200             
+
+293   810       ganehwar               189               .                 100             
+
+294   775       venkat                 189               .                 200             
+
+295   657       EDward                 189               .                 200             
+
+296   515       KUMAR                  189               .                 100             
+
+297   653       venkat reddy           190               .                 100             
+
+298   700       K.SRINIVAS             190               .                 600             
+
+299   495       k.srinivas             191               .                 400             
+
+300   461       B.vijay                192/b             hasthinapuram     400             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   717       SUBRAMANYAM            192               .                 100             
+
+302   842       indrasama reddy        192               .                 100             
+
+                                                                    	----------
+                                                                    	59240
+                                                                    	----------
+
+                                END OF THE REPORT

@@ -1,0 +1,323 @@
+
+                                     DUE LIST
+                                     --------
+Area : sai ram colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     77        nagaraju               gudesa            sai ram colony    300             
+
+2     123       srinu                  gudisa            sai ram colony    1420            
+
+3     100       girish                 1/a               sai ram colony    0               
+
+4     106       r.anjaiah              1/a               sai ram colony    350             
+
+5     135       r.ravi                 1/a(1st floor)    sai ram colony    0               
+
+6     101       r.swamy                1/a/1             sai ram colony    0               
+
+7     102       r.pandu                1/a/1             sai ram colony    0               
+
+8     91        anjanailu              15/a              sai ram colony    0               
+
+9     154       srisailam              15/a              sai ram colony    520             
+
+10    161       ramulu                 15/a              sai ram colony    180             
+
+11    162       t.mahesh               15/a              sai ram colony    180             
+
+12    166       s.laxmi                15/a              sai ram colony    0               
+
+13    95        sathyanarayana         15/a2             sai ram colony    220             
+
+14    96        narsimha reddy         15/a2             sai ram colony    30              
+
+15    94        t.mery                 15/1              sai ram colony    0               
+
+16    97        m.mallaiah             16/a              sai ram colony    0               
+
+17    107       a.chandrashekar        16/a              sai ram colony    70              
+
+18    99        p.ramu                 16/a              sai ram colony    10              
+
+19    153       m.venkatesh            16/a              sai ram colony    220             
+
+20    108       sri vaibhav(hostel)    16/4              sai ram colony    180             
+
+21    105       k.kotaiah              16                sai ram colony    560             
+
+22    104       jangaiah               16                sai ram colony    180             
+
+23    103       venkaiah               16                sai ram colony    180             
+
+24    89        venkatesh              17                sai ram colony    320             
+
+25    177       dhawalesh              17                sai ram colony    0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    157       naveen kumar           18                sai ram colony12  0               
+
+27    98        yadhamma               19                sai ram colony    -20             
+
+28    72        masthan                30                sai ram colony    60              
+
+29    84        prabhu                 31                sai ram colony    0               
+
+30    127       venkat reddy           37                sai ram colony    0               
+
+31    74        y.muthyal              37                sai ram colony    0               
+
+32    126       g.narsimha reddy       38                sai ram colony    0               
+
+33    71        suresh reddy           39                sai ram colony    30              
+
+34    69        p.shiva                39                sai ram colony    560             
+
+35    70        n.ravinder             39                sai ram colony    0               
+
+36    134       j.rama rao             39                sai ram colony    180             
+
+37    68        m.bhupathi reddy       40                sai ram colony    290             
+
+38    65        anjaiah                41                sai ram colony    280             
+
+39    141       rambabu                42                sai ram colony    180             
+
+40    62        p.yugendhar reddy      52                sai ram colony    0               
+
+41    61        p.venu                 52                sai ram colony    0               
+
+42    180       b.chandraiah           52                sai ram colony    0               
+
+43    118       subbarao(2c)           52(b.nagar)       sai ram colony    0               
+
+44    124       narayana               52(gudisa)        sai ram colony    310             
+
+45    116       malla reddy            53(b.nagar)       sai ram colony    580             
+
+46    64        c.mohan reddy          54                sai ram colony    180             
+
+47    66        s.shyamsunder          55                sai ram colony    0               
+
+48    173       anjanailu(up store)    56                sai ram colony    0               
+
+49    178       ramesh                 56                sai ram colony    0               
+
+50    174       s.raju                 56(up store)      sai ram colony    180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    172       o.anjaiah              57                sai ram colony    180             
+
+52    143       p.narsimha             58                sai ram colony    50              
+
+53    86        r.ramreddy(2c)         58(b.nagar)       sai ram colony    0               
+
+54    133       k.ramesh chary         59/a              sai ram colony    0               
+
+55    142       venkat rao             59/a              sai ram colony    0               
+
+56    115       d.srinu                59/a              sai ram colony    360             
+
+57    87        laxman(t.house)        59/b              sai ram colony    130             
+
+58    111       y.theja                59                sai ram colony    360             
+
+59    110       nageshwar rao          59                sai ram colony    0               
+
+60    144       m.srinivas             59(gutta)         sai ram colony    540             
+
+61    76        kondaiah               60                sai ram colony    0               
+
+62    75        satya                  60                sai ram colony    780             
+
+63    113       pothuluraiah           61/a              sai ram colony    0               
+
+64    109       ramakishan rao         61                sai ram colony    20              
+
+65    128       ananth reddy           61-62             sairam colony     340             
+
+66    78        sudharshan             61-62             sai ram colony    0               
+
+67    114       g.sudharshan reddy     62                sai ram colony    190             
+
+68    117       krishna reddy          62                sai ram colony    -10             
+
+69    147       jangaiah               62                sai ram colony    10              
+
+70    146       yadhaiah               62                sai ram colony    180             
+
+71    171       china singaiah         62                sai ram colony    0               
+
+72    176       d.srinu                62 beside baba temsai ram colony    180             
+
+73    79        anjaiah                63                sai ram colony    0               
+
+74    119       mukthar.shoyb          63(b.nagar)       sai ram colony    0               
+
+75    165       esacu                  64                sai ram colony    180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    81        devadas                64                sai ram colony    0               
+
+77    80        mallikarjuna           64                sai ram colony    220             
+
+78    85        b.karunakar reddy      66                sai ram colony    90              
+
+79    145       n.rajendhar reddy      67                sai ram colony    -20             
+
+80    30        venkat rao             76                sai ram colony    1230            
+
+81    31        kanakeshwar rao        76                sai ram colony    180             
+
+82    33        vishnuvardhan reddy    76                sai ram colony    0               
+
+83    26        srikanth               77                sai ram colony    540             
+
+84    34        venkateshwar rao       77                sai ram colony    120             
+
+85    40        venkat rao             80/a              sai ram colony    0               
+
+86    38        abbaiah                80                sai ram colony    280             
+
+87    42        v.dharshan goud        83                sai ram colony    0               
+
+88    43        vishwakanth            85                sai ram colony    0               
+
+89    45        a.prasadh              87                sai ram colony    0               
+
+90    48        n.krishna              88/a              sai ram colony    0               
+
+91    50        ravindra babu          88/a              sai ram colony    180             
+
+92    163       nageshwar rao          88/a              sai ram colony    180             
+
+93    170       chiranjivi             88                sai ram colony    0               
+
+94    46        mallaiah               88                sai ram colony    50              
+
+95    47        subramanyam            88                sai ram colony    0               
+
+96    52        n.pullaiah             89                sai ram colony    -20             
+
+97    167       b raju                 90                sai ram colony    180             
+
+98    53        bvv.satyanarayana      90                sai ram colony    20              
+
+99    54        suresh babu            90                sai ram colony    0               
+
+100   55        krishna                90                sai ram colony    0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   56        upendra chary          91                sai ram colony    360             
+
+102   57        naveen                 92                sai ram colony    0               
+
+103   59        ravi babu              93                sai ram colony    0               
+
+104   60        b.mahesh               93                sai ram colony    50              
+
+105   155       teja                   93                sai ram colony    340             
+
+106   58        sathyanarayana         93                sai ram colony    0               
+
+107   137       ajay kumar             107               sai ram colony    220             
+
+108   37        lalitha(2c)            109/a             sai ram colony    750             
+
+109   168       ashwini                109/a(g.floor)    sai ram colony    340             
+
+110   39        santhosha(2c)          109               sai ram colony    0               
+
+111   35        srinivasa chary        110/a             sai ram colony    710             
+
+112   25        krishna                110/a             sai ram colony    100             
+
+113   139       t.mahendar             110               sai ram colony    120             
+
+114   138       jesus mary             110               sai ram colony    720             
+
+115   27        katamaiah(2con)        112/a             sai ram colony    0               
+
+116   156       yadamma                112               sai ram colony    280             
+
+117   130       p.srinivas             112               sairam colony     210             
+
+118   29        pochamma               112               sai ram colony    180             
+
+119   169       prasadh                113               sai ram colony    0               
+
+120   14        shekar                 113               sai ram colony    220             
+
+121   15        rajesh                 113               sai ram colony    0               
+
+122   16        narahari               113               sai ram colony    80              
+
+123   13        anjaneyulu             114/b             sai ram colony    0               
+
+124   10        sk.nagur               115               sai ram colony    0               
+
+125   11        swamy                  115               sai ram colony    0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   12        p.venkat reddy         115               sai ram colony    0               
+
+127   8         rama rao               117               sai ram colony    560             
+
+128   7         krishna reddy          117               sai ram colony    -20             
+
+129   6         k.devendhar reddy      117               sai ram colony    180             
+
+130   5         raji reddy             117               sai ram colony    0               
+
+131   9         raju                   118               sai ram colony    -540            
+
+132   4         a.venkateshwar re      119               sai ram colony    180             
+
+133   160       bramaiah               119               sai ram colony    0               
+
+134   148       balasubhaiah           127               sai ram colony    220             
+
+135   179       akhil                  128               sai ram colony    0               
+
+136   20        purushotham            145               sai ram colony    0               
+
+137   19        srisailam              145               sai ram colony    630             
+
+138   17        shivvama               145               sai ram colony    440             
+
+139   21        veeresh                145               sai ram colony    360             
+
+140   149       ashok                  145               sai ram colony    420             
+
+141   24        d.lingaiah             146/a             sai ram colony    330             
+
+142   175       s.kranthi              146/a             sai ram colony    0               
+
+143   159       thirupathaiah          146/a             sai ram colony    0               
+
+144   22        ashok                  146               sai ram colony    180             
+
+                                                                    	----------
+                                                                    	22070
+                                                                    	----------
+
+                                END OF THE REPORT

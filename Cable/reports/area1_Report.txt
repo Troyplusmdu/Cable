@@ -1,0 +1,21 @@
+
+                                     DUE LIST
+                                     --------
+Area : area1
+Order By : name
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     1         rahul                  80                rama              876             
+
+2     2         raj1                   22                22                850             
+
+3     3         raj2                   33                33                1100            
+
+                                                                    	----------
+                                                                    	2826
+                                                                    	----------
+
+                                END OF THE REPORT

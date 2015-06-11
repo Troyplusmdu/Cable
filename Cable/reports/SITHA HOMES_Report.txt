@@ -1,0 +1,617 @@
+
+                                     DUE LIST
+                                     --------
+Area : SITHA HOMES
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     179       shivaji                G.M.R.C           p-205             300             
+
+2     219       ANAND                  G.M.R.C           p-202             450             
+
+3     220       laxma reddy            G.M.R.C           p-401             0               
+
+4     215       naveen                 G.M.R.C           p-105             450             
+
+5     214       RAMAKRISHNA            G.M.R.C           p-101             900             
+
+6     198       SUNIL KUMAR            G.M.R.C           P-204             450             
+
+7     197       VIJAY                  G.M.R.C           P-302             800             
+
+8     239       yadhagiri              hunt              .                 300             
+
+9     306       narsimha               hut               .                 1050            
+
+10    361       krishna                hut               .                 300             
+
+11    256       VENKATIAH              HUT               .                 1000            
+
+12    398       mallesh                hut               .                 0               
+
+13    395       narsimha               hut               .                 0               
+
+14    356       shankar                p-watchman        .                 150             
+
+15    170       YADHI REDDY            SHIVA SAI NIVAS   P-202             900             
+
+16    258       venkatesh rao          shiva sai nivas   p-101             150             
+
+17    168       SURYA NARAYANA         SHIVA SAI NIVAS   P-103             300             
+
+18    171       NAGABUSHANAM           SHIVA SAI NIVAS   P-203             300             
+
+19    165       MANIPAL REDDY          SHIVA SAI NIVAS   G-3               0               
+
+20    253       RADHA                  SITHA MAJSTIC     P-302             150             
+
+21    233       sudhakar               sithmajets        p-101             900             
+
+22    139       VIDYA SAGAR            SREE SHIVA SAI RCYG-1               300             
+
+23    142       ARUN KUMAR             SRI SHIVA SAI RCY G-5               750             
+
+24    153       MAHESH                 SRI SHIVA SAI RCY P-205             600             
+
+25    144       RAM BABU               SRI SHIVA SAI RCY P-101             300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    146       SANTOSH                SRI SHIVA SAI RCY P-103             0               
+
+27    149       SHANKAR                SRI SHIVA SAI RCY P-106             150             
+
+28    151       HARSHA                 SRI SHIVA SAI RCY P-201             300             
+
+29    152       BABU                   SRI SHIVA SAI RCY P-204             450             
+
+30    143       SRINIVAS RAO           SRI SHIVA SAI RCY G-7               300             
+
+31    154       SWATHA                 SRI SHIVA SAI RCY P-207             750             
+
+32    155       DEVA                   SRI SHIVA SAI RCY P-206             850             
+
+33    156       GOVEDHAN               SRI SHIVA SAI RCY P-301             450             
+
+34    158       KIRAN                  SRI SHIVA SAI RCY P-303             1050            
+
+35    159       SURESH                 SRI SHIVA SAI RCY P-304             150             
+
+36    160       RAM MOHAN RAO          SRI SHIVA SAI RCY P-305             300             
+
+37    163       SANTOSH                SRI SHIVA SAI RCY P-404             300             
+
+38    147       MADHU                  SRI SHIVA SAI RCY P-104             1100            
+
+39    280       madhav reddy           SRI SHIVA SAI RCY G-6               1400            
+
+40    161       SRIDDAHA               SRI SHIVA SAI RCY P-308             150             
+
+41    240       sri kanth              watch man         .                 800             
+
+42    322       shodiya                watchman          .                 600             
+
+43    338       raju                   watchman          .                 900             
+
+44    225       KONDAL                 WATCHMAN          .                 1500            
+
+45    377       srinivas.m             watchman          .                 300             
+
+46    396       bhanu                  watchman          .                 0               
+
+47    400       kondal                 watchman          .                 0               
+
+48    313       rama krishna           g-1               .                 1050            
+
+49    261       rajesh                 g-1               .                 300             
+
+50    376       pudhakar reddy         g-2               .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    228       ravi kumar             g-2               .                 750             
+
+52    375       suresh                 g-2               .                 300             
+
+53    330       k.n.raju               g-2               .                 150             
+
+54    293       naveen                 g-2               g.m.r.c           1500            
+
+55    332       jagan                  g-2               .                 0               
+
+56    292       padma                  g-3               sitha majitck     450             
+
+57    325       kiran                  g-3               .                 0               
+
+58    341       SARADHA                g-3               .                 100             
+
+59    339       venkat reddy           g-3               .                 750             
+
+60    355       saradu hushan          g-3               .                 600             
+
+61    199       SANTOSH                G-4               .                 0               
+
+62    326       SANTOSH                g-4               .                 0               
+
+63    370       ravi kumar             g-5               .                 0               
+
+64    405       vikram                 g-6               .                 0               
+
+65    281       NAGESHWAR RAO          p-12              .                 150             
+
+66    95        SATYA NARAYANA         SAITEJATOWER(4-66/201               1050            
+
+67    92        SURESH                 SAITEJATOWER(4-66/G-2               900             
+
+68    298       prabhakar              p-101             .                 150             
+
+69    394       harsha                 p-101             a.r.c             0               
+
+70    328       arun kumar             p-102             sitha majestic apt0               
+
+71    316       s.a.maheshwar          p-102             .                 0               
+
+72    301       anil                   p-102             .                 350             
+
+73    312       suresh                 p-102             .                 600             
+
+74    238       radha krishna          p-103             G.M.R.C           150             
+
+75    329       kiran kumar            p-103             .                 450             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    317       SRIKANTH               p-104             .                 750             
+
+77    337       GANESHWAR              p-104             G.M.R.C           150             
+
+78    344       v.j.murthy             p-105             G.M.R.C           750             
+
+79    352       s.v.s.chary            p-105             .                 0               
+
+80    374       ganesh                 p-107             .                 300             
+
+81    359       ramesh                 p-107             .                 200             
+
+82    315       sai kumar              p-201             .                 300             
+
+83    169       RAMESH                 P-201             SHIVA SAI NIVAS   0               
+
+84    303       shamba shiva rao       p-202             .                 150             
+
+85    251       PRAVEEN                P-202             .                 300             
+
+86    387       yadhagiri              p-202             .                 0               
+
+87    304       bhasnath redy          p-203             .                 140             
+
+88    297       chandraiah             p-204             g.m.r.c arcade    150             
+
+89    336       GANESHWAR              p-205             .                 0               
+
+90    183       VISHVANATH             P-301             .                 150             
+
+91    369       gangadhar reddy        p-301             .                 450             
+
+92    342       vikas                  p-301             .                 750             
+
+93    363       rajesh                 p-302             .                 0               
+
+94    250       KISHOR                 P-302             .                 300             
+
+95    157       NEGA REDDY             P-302             .                 900             
+
+96    343       vinay                  p-303             G.M.R.C           150             
+
+97    213       kiran                  p-303             .                 300             
+
+98    296       bhaskar                p-303             .                 420             
+
+99    324       laxman                 p-303             .                 150             
+
+100   389       naresh                 p-304             .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   185       sudhakar reddy         p-305             .                 300             
+
+102   176       VIJAY KUMAR            p-306             .                 450             
+
+103   279       sri ramulu             p-401             .                 0               
+
+104   334       ramesh                 p-402             .                 150             
+
+105   335       bishapathi             p-405             .                 150             
+
+106   175       raghuveer              p-405             .                 0               
+
+107   254       G.NARESH               4-                P-20              450             
+
+108   236       narsimha               4-18              .                 150             
+
+109   345       BALA KRISHNA           4-20              .                 750             
+
+110   305       chandra shekar         4-21              .                 1200            
+
+111   2         GOVARDHAN RAO          4-21              .                 0               
+
+112   321       sri charan             4-23              .                 900             
+
+113   190       SAI PRASAD             4-23              .                 1200            
+
+114   242       RAMU                   4-24              .                 600             
+
+115   9         BALA RAJU              4-25              .                 0               
+
+116   8         KALAVATHI              4-25              .                 400             
+
+117   378       bala krishna           4-26              .                 150             
+
+118   10        VENU KUMAR             4-27/A            .                 600             
+
+119   11        ANASURYA               4-27              .                 150             
+
+120   12        JOSHI                  4-28              .                 0               
+
+121   13        DESHMUKH               4-28              .                 0               
+
+122   401       kala                   4-29/1            .                 0               
+
+123   174       SUBHA RAO              4-29/5            .                 450             
+
+124   371       narsimha rao           4-29              .                 0               
+
+125   14        A.S.R.MURTHY           4-29              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   17        SRI KISHAN             4-31              .                 550             
+
+127   16        S.Y.RAJU               4-31              .                 0               
+
+128   269       VIDYA SAGAR            4-32              .                 150             
+
+129   184       mohan reddy            4-33              .                 450             
+
+130   18        MURLI KRISHNA          4-34              .                 0               
+
+131   20        SYED KADHAR            4-36              .                 150             
+
+132   21        SHANKAR                4-37              .                 300             
+
+133   22        G.VENKATIAH            4-38              .                 0               
+
+134   244       LAXMANRAO              4-40              .                 1350            
+
+135   24        RAVI PRAKESH REDDY     4-41              .                 150             
+
+136   25        PRATHA SARADHI         4-42              .                 150             
+
+137   26        KRISHNA MOHAN          4-44              .                 0               
+
+138   364       narsing rao            4-45              .                 0               
+
+139   28        GOPAL RAO              4-46              .                 150             
+
+140   381       venkateshwar rao       4-47/1            .                 150             
+
+141   308       srinivas rao           4-47/1            .                 1050            
+
+142   29        R.S.PRASAD             4-48              .                 300             
+
+143   30        YASHODA                4-49              .                 300             
+
+144   241       KALISH                 4-49              .                 0               
+
+145   384       subhiya                4-50              .                 0               
+
+146   31        NARSIMHA               4-51/1            .                 300             
+
+147   270       ramesh                 4-51/1            .                 150             
+
+148   300       narayana               4-51/1            .                 0               
+
+149   380       pulla reddy            4-53              .                 0               
+
+150   33        SANDEEP                4-53              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   350       krishna murthy         4-54              .                 600             
+
+152   37        GOPAL RAO              4-55/1            .                 1200            
+
+153   391       srinivas rao           4-55/2            .                 0               
+
+154   347       chandra shekar         4-55/3            .                 150             
+
+155   402       krishna                4-55/4            .                 0               
+
+156   288       anil                   4-55/4            .                 1500            
+
+157   274       raju                   4-55/4            .                 600             
+
+158   182       HARI                   4-55/4            .                 100             
+
+159   44        VENKAT REDDY           4-55/5            .                 1150            
+
+160   385       vasanth                4-55/5            .                 0               
+
+161   48        PRAMOSH                4-55/6            .                 200             
+
+162   216       RANGA                  4-55/6            .                 300             
+
+163   246       deepu                  4-55/7            .                 0               
+
+164   283       sadhi reddy            4-55              ...               300             
+
+165   393       nagesh rao             4-55              .                 0               
+
+166   295       rama krishna           4-55              .                 1000            
+
+167   392       nageshwar rao          4-55              .                 0               
+
+168   299       thirupathi             4-55              .                 600             
+
+169   275       sameer                 4-55              .                 1100            
+
+170   38        NAGESHWAR RAO          4-55              .                 900             
+
+171   51        .                      4-56              .                 0               
+
+172   52        ANATHA SWAROOP         4-59              .                 0               
+
+173   255       DAYAKAR                4-60              .                 150             
+
+174   53        M.R.C.REDDY            4-60              .                 0               
+
+175   54        APPLA REDDY            4-60              .                 750             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   234       sharma                 4-60              .                 250             
+
+177   348       sridevi                4-61/1/a          .                 150             
+
+178   56        SATHI BABU             4-61              .                 150             
+
+179   57        SRINIVAS               4-62              .                 1450            
+
+180   191       ANIL KUMAR	            4-62              .                 1950            
+
+181   61        SRINIVAS               4-63/2            .                 150             
+
+182   59        NARAYAN                4-63              .                 1200            
+
+183   62        SHIVA                  4-64/1            .                 1160            
+
+184   63        SRINIVAS REDDY         4-65              .                 200             
+
+185   340       shiva ram              4-66/1            .                 0               
+
+186   390       s.l.k.srinivas         4-66/4            .                 0               
+
+187   349       suresh                 4-66/4            .                 600             
+
+188   235       hari                   4-66/4            .                 800             
+
+189   65        SRINIVAS               4-66/6            .                 0               
+
+190   66        RATANLALU              4-66/7            .                 0               
+
+191   67        BALA KRISHNA           4-66/8            .                 300             
+
+192   230       ANJAIAH                4-66/9            .                 0               
+
+193   357       beem singh             4-66/9            .                 150             
+
+194   271       naveen                 4-66/10           .                 0               
+
+195   351       prasad                 4-66/10           .                 0               
+
+196   229       siddharatha            4-66/10           .                 150             
+
+197   69        BALA RAJU              4-66/11           .                 150             
+
+198   397       srinivas reddy         4-66/11           .                 0               
+
+199   202       NAGABUSHANAM           4-66/11           .                 1200            
+
+200   70        SHIVA KUMAR            4-66/12           .                 900             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   362       devadas                4-66/13           .                 0               
+
+202   309       naya raju              4-66/13           .                 1050            
+
+203   232       gopi                   4-66/13           .                 0               
+
+204   311       SHIVA KUMAR            4-66/13           .                 500             
+
+205   323       naga raju              4-66/14           .                 900             
+
+206   72        srihari                4-66/14           .                 300             
+
+207   368       rajamma                4-66/16           .                 0               
+
+208   247       anitha                 4-66/17           .                 300             
+
+209   272       srinivas               4-66/17           .                 750             
+
+210   77        VIDHNANDU              4-66/18           .                 900             
+
+211   365       kumar                  4-66/18           .                 300             
+
+212   217       ANITHA                 4-66/19           .                 150             
+
+213   80        RAMESH                 4-66/21           .                 600             
+
+214   186       rajesh                 4-66/23           .                 1500            
+
+215   382       pranith                4-66/23           .                 0               
+
+216   367       n.s.r.murthy           4-66/23           .                 150             
+
+217   346       shankar                4-66/23           .                 600             
+
+218   83        RAMA RAO               4-66/26           .                 0               
+
+219   84        DURGA PRASAD           4-66/28           .                 0               
+
+220   85        SATYA NARAYANA         4-66/29           .                 150             
+
+221   87        SRINIVAS               4-66/30           .                 150             
+
+222   403       anil                   4-66/30           .                 0               
+
+223   86        SURYA NARAYANA         4-66/30           .                 0               
+
+224   379       avinash                4-66/31           .                 0               
+
+225   276       CHANDRA SHEKAR         4-66/32           .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   103       MADUSUDHAR REDDY       4-66/34           .                 400             
+
+227   354       someshwar rao          4-66/34           .                 600             
+
+228   102       RAJU                   4-66/34           .                 150             
+
+229   101       RAMESH                 4-66/34           .                 300             
+
+230   105       KONDAL RAO             4-66/35           .                 0               
+
+231   318       krishna                4-66/36           .                 450             
+
+232   106       KRISHNA RAO            4-66/37           .                 450             
+
+233   358       srinivas rao           4-66/38           .                 600             
+
+234   383       prabhakar              4-66/39           .                 0               
+
+235   237       SASHEDHAR              4-66/42           .                 0               
+
+236   135       ASHOK KUMAR            4-66/42           .                 150             
+
+237   310       manohar                4-66/42           .                 0               
+
+238   173       narender raju          4-66/44           .                 300             
+
+239   137       CHALAPATHI RAO         4-66/44           .                 170             
+
+240   404       murthy                 4-66/47           .                 0               
+
+241   360       sharma                 4-66/48           .                 300             
+
+242   319       narsimha               4-66/48           .                 600             
+
+243   286       vijay kumar            4-66/49           .                 350             
+
+244   201       RAMCHARAN REDDY        4-66/49           .                 0               
+
+245   114       SANDEEP                4-66/50           .                 300             
+
+246   327       sri kumar              4-66/50           .                 0               
+
+247   117       PRASAD                 4-66/51           .                 0               
+
+248   267       SRINIVAS REDDY         4-66/51           .                 150             
+
+249   116       kalish                 4-66/51           .                 150             
+
+250   118       RAMESH                 4-66/52           .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   119       JANARDHAN RAO          4-66/53           .                 300             
+
+252   120       NERJAN                 4-66/53           .                 150             
+
+253   122       ASHWIN KUMAR           4-66/55           .                 300             
+
+254   291       satesh                 4-66/55           .                 1200            
+
+255   284       venu gopal             4-66/56           .                 0               
+
+256   243       P.P.RAJU               4-66/56           .                 600             
+
+257   123       ASHOK KUMAR            4-66/56           .                 150             
+
+258   307       naresh                 4-66/58           .                 0               
+
+259   127       MADHAV RAO             4-66/58           .                 300             
+
+260   333       vidhan nandu           4-66/58           .                 750             
+
+261   278       prasad                 4-66/58           .                 200             
+
+262   302       naik                   4-66/59           .                 1350            
+
+263   372       kumar                  4-66/59           .                 0               
+
+264   331       r.s.sharma             4-66/59           .                 900             
+
+265   128       RAVI KUMAR             4-66/59           .                 600             
+
+266   314       dashrathnam            4-66/59           .                 0               
+
+267   320       nagaraju               4-66/60           .                 1050            
+
+268   129       JAWASH AR              4-66/60           .                 300             
+
+269   388       venu gopal             4-66/61           .                 0               
+
+270   231       KRISHNA PRASAD         4-66/61           .                 150             
+
+271   131       VENKATESH              4-66/61           .                 700             
+
+272   132       PRASAD                 4-66/62           .                 1350            
+
+273   134       RENUKA                 4-66/63           .                 750             
+
+274   373       mahendhar              4-66/64           .                 150             
+
+275   285       murladhar              4-66/64           .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   353       laxma reddy            4-66/65           .                 0               
+
+277   399       hari                   4-66/65           .                 0               
+
+278   287       yadha reddy            4-66              .                 750             
+
+279   366       yearriya               4-66              .                 150             
+
+                                                                    	----------
+                                                                    	100940
+                                                                    	----------
+
+                                END OF THE REPORT

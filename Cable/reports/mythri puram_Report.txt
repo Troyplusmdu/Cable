@@ -1,0 +1,59 @@
+
+                                     DUE LIST
+                                     --------
+Area : mythri puram
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     16        laxman                 pt.no:112         .                 50              
+
+2     12        venakata swamy         pt.no:128         .                 50              
+
+3     9         krishnama chari        pt.no:128         .                 50              
+
+4     11        srinivas               pt.no:128         .                 100             
+
+5     13        venugopal chary        pt.no:128         .                 50              
+
+6     14        manohar                pt.no:128         .                 50              
+
+7     15        sunil                  pt.no:128         .                 150             
+
+8     18        VIJAYALAXMI            pt.no:128         .                 50              
+
+9     10        srikanth chary         pt.no:128         .                 150             
+
+10    4         rajendhra prasad       pt.no:33          .                 50              
+
+11    3         sravan                 pt.no:41          .                 50              
+
+12    2         shashidhar             pt.no:41          .                 50              
+
+13    1         sri ram                pt.no:41/a        .                 50              
+
+14    17        laxma reddy            pt.no:82          .                 50              
+
+15    20        ramani                 ravindhra barathi main road         50              
+
+16    21        raman singh            ravindhra barathi main road         50              
+
+17    8         ibrahim                h.no:8-22         .                 50              
+
+18    5         subramanyam            h.no:8-66         .                 50              
+
+19    6         bala narsimha          h.no:8-67         .                 150             
+
+20    19        satya narayana         h.no:8-68         .                 100             
+
+21    7         satya narayana         h.no:8-68         .                 50              
+
+22    22        PRASAD RAO             8-70              .                 50              
+
+                                                                    	----------
+                                                                    	1500
+                                                                    	----------
+
+                                END OF THE REPORT

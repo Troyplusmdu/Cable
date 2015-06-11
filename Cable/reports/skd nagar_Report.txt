@@ -1,0 +1,1479 @@
+
+                                     DUE LIST
+                                     --------
+Area : skd nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     751       raghupathi reddy       1                 skd nagar         180             
+
+2     460       anil                   1                 skd nagar         180             
+
+3     246       ramachary              2                 skd nagar         180             
+
+4     245       ramulu                 2                 skd nagar         180             
+
+5     249       r.benjamin             3                 skd nagar         180             
+
+6     462       rajgopal rao           3                 skd nagar         180             
+
+7     556       madhav                 4                 skd nagar         180             
+
+8     601       vishnuvardhan rao      4                 skd nagar         180             
+
+9     453       rv.subbha reddy        5                 skd nagar         210             
+
+10    459       lingam                 5                 skd nagar         180             
+
+11    529       r.jithender reddy      5-6-557/b         skd nagar         180             
+
+12    366       janardhanswamy         5-6-557           skd nagar         180             
+
+13    493       ch.sudhakar reddy      5-6-554/13        skd nagar         180             
+
+14    494       gopal reddy            5-6-554/13        skd nagar         180             
+
+15    704       p.ravindra babu        5-7-932           skd nagar         180             
+
+16    288       sreenu                 8                 skd nagar         540             
+
+17    543       b.ravinder             8                 skd nagar         580             
+
+18    564       janghaya               8                 skd nagar         280             
+
+19    565       d.swamy                8                 skd nagar         180             
+
+20    452       koteshwar rao          8                 skd nagar         180             
+
+21    593       suresh                 8                 skd nagar         180             
+
+22    748       sandeep                8                 skd nagar         180             
+
+23    441       rajireddy              9                 skd nagar         320             
+
+24    287       anjaya                 9                 skd nagar         340             
+
+25    439       b.prasadh              9                 skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    440       salaya                 9                 skd nagar         180             
+
+27    286       anjaya                 10                skd nagar         180             
+
+28    461       malyadri               10                skd nagar         180             
+
+29    285       t.nageshwar rao        11                skd nagar         180             
+
+30    683       a.anjaya               11(gudisa)        skd nagar         180             
+
+31    450       naveen                 12                skd nagar         -540            
+
+32    706       naveenkumar reddy      13                skd nagar         180             
+
+33    289       m.srihari reddy        13                skd nagar         180             
+
+34    290       narsimha chary         13                skd nagar         180             
+
+35    591       biksham                14                skd nagar         180             
+
+36    592       anitha                 14                skd nagar         180             
+
+37    447       venkateshgoud          14                skd nagar         180             
+
+38    448       mahender               14                skd nagar         360             
+
+39    682       b.yadhaiah             14(r.shed)        skd nagar         180             
+
+40    466       srikanth               15                skd nagar         180             
+
+41    467       bhasker reddy          15                skd nagar         180             
+
+42    468       srinivas rao           15                skd nagar         180             
+
+43    469       sathyanarayana         15                skd nagar         -540            
+
+44    463       sathyanarayana         18                skd nagar         180             
+
+45    680       laxman                 20                skd nagar         180             
+
+46    465       srikanth               21                skd nagar         180             
+
+47    622       madhu                  21                skd nagar         180             
+
+48    472       hanumanth rao          23                skd nagar         180             
+
+49    475       swamy                  24                skd nagar         180             
+
+50    525       sriram                 24                skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    715       d.sravan kumar         24                skd nagar         180             
+
+52    663       r.kavitha              25                skd nagar         180             
+
+53    583       m.janga reddy          25(1st.f)         skd nagar         180             
+
+54    585       y.sathish kumar        25(1st.f)         skd nagar         180             
+
+55    584       dr.naveen              25(1st.f)         skd nagar         300             
+
+56    586       m.santhosh kumar       25(g.f)           skd nagar         180             
+
+57    685       bal reddy(node)        26                skd nagar         0               
+
+58    587       vijaybhasker reddy     26                skd nagar         360             
+
+59    297       p.sanjeeva reddy       26                skd nagar         180             
+
+60    752       srikanth               26                skd nagar         180             
+
+61    281       ramesh                 27                skd nagar         180             
+
+62    280       venkatakonda reddy     27                skd nagar         180             
+
+63    279       venkatramaya           27                skd nagar         180             
+
+64    278       ankayanaidu            27                skd nagar         180             
+
+65    277       narsimha rao           27                skd nagar         180             
+
+66    276       sathyanarayana         27                skd nagar         180             
+
+67    739       ravi                   28                skd nagar         360             
+
+68    644       y.giri                 28                skd nagar         360             
+
+69    270       sheytappa              28                skd nagar         340             
+
+70    271       buchibabu              28                skd nagar         180             
+
+71    272       ravindhar reddy        28                skd nagar         180             
+
+72    761       ramulu                 28                skd nagar         0               
+
+73    603       raghuma reddy          28                skd nagar         180             
+
+74    614       pandu                  28                skd nagar         180             
+
+75    267       t.narsimha reddy       29                skd nagar         -540            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    642       r. ramesh rao          29                skd nagar         180             
+
+77    640       yakubh                 29                skd nagar         360             
+
+78    268       nagarjun reddy         29                skd nagar         360             
+
+79    560       sowmya chary           29                skd nagar         360             
+
+80    265       k.v sreedhar reddy     30                skd nagar         160             
+
+81    730       m.apparao              30                skd nagar         180             
+
+82    479       t.balakrishna sharma   31                skd nagar         180             
+
+83    262       sharat                 31                skd nagar         180             
+
+84    578       bhadru(p.c)            31                skd nargar        150             
+
+85    261       m.sathyanarayana       31                skd nagar         180             
+
+86    263       amarender reddy        31                skd nagar         180             
+
+87    481       venkat reddy           31                skd nagar         -540            
+
+88    260       d.ramakrishna          32                skd nagar         180             
+
+89    478       bharat lal             32                skd nagar         180             
+
+90    258       c.sudharshan reddy     33                skd nagar         360             
+
+91    477       lachi reddy            33                skd nagar         180             
+
+92    255       m.naresh               33                skd nagar         180             
+
+93    559       saibhargav             33                skd nagar         360             
+
+94    256       ch.venkatramana        33                skd nagar         180             
+
+95    567       prakesh reddy          33                skd nagar         180             
+
+96    240       prabhakar rao          34/e              skd nagar         180             
+
+97    745       ramchandra reddy       34                skd nagar         180             
+
+98    473       srinivas               35                skd nagar         180             
+
+99    241       nr.subhas              35                skd nagar         180             
+
+100   545       k.ravi kumar           35                skd nagar         320             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   250       p.srinivas rao         36/a              skd nagar         360             
+
+102   732       p.balraj               36/1              skd nagar         180             
+
+103   244       ravi                   36/1              skd nagar         360             
+
+104   243       venkateshwar rao       36/1              skd nagar         340             
+
+105   242       n.sreedhar reddy       36/1              skd nagar         180             
+
+106   248       malhadri               36                skd nagar         360             
+
+107   247       mahesh                 36                skd nagar         180             
+
+108   535       mahesh                 36                skd nagar         460             
+
+109   534       sreedhar reddy         36                skd nagar         180             
+
+110   577       narsimha redy          37/1              skd nargar        180             
+
+111   566       srinivas               37                skd nagar         180             
+
+112   251       sommaiah               37                skd nagar         180             
+
+113   471       chandra shekar         37                skd nagar         180             
+
+114   470       vijay kumar            37                skd nagar         -280            
+
+115   252       ramatenki malaya       38                skd nagar         180             
+
+116   25        srinivas               509               skd nagar         180             
+
+117   24        g.narasimha            509               skd nagar         190             
+
+118   23        babuyadhav             510               skd nagar         560             
+
+119   22        srinivas               510               skd nagar         360             
+
+120   20        vv.janardhan           511               skd nagar         180             
+
+121   692       ansare                 511               skd nagar         360             
+
+122   21        gaman                  511               skd nagar         160             
+
+123   18        anjanaiah chary        512               skd nagar         180             
+
+124   17        sathyanarayana         512               skd nagar         180             
+
+125   16        balajimmens hair       512               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   15        k.veera reddy          514               skd nagar         360             
+
+127   14        mallesh                515               skd nagar         180             
+
+128   93        chakrapani             516               skd nagar         180             
+
+129   94        v.balakrishna          516               skd nagar         180             
+
+130   742       zangeer                516               skd nagar         180             
+
+131   92        naidu                  516               skd nagar         180             
+
+132   88        madhava reddy          519               skd nagar         320             
+
+133   87        m.ashok                520               skd nagar         180             
+
+134   26        shiva saisweet         522               skd nagar         180             
+
+135   27        amarender reddy        522               skd nagar         450             
+
+136   731       br.reddy chik(shop)    523               skd nagar         180             
+
+137   29        ramesh                 524               skd nagar         360             
+
+138   30        p.krishna              525               skd nagar         180             
+
+139   31        noble hostel(2con)     526               skd nagar         360             
+
+140   32        saiganesh tent         526               skd nagar         360             
+
+141   702       kiran kumar            528               skd nagar         180             
+
+142   36        prasadh                528               skd nagar         180             
+
+143   35        murali                 528               skd nagar         180             
+
+144   37        chandraiah             528               skd nagar         180             
+
+145   596       eshwar                 528               skd nagar         180             
+
+146   656       a.murali               529(f.no-104)     skd nagar         180             
+
+147   547       saibaba drycleaner     529               skd nagar         180             
+
+148   42        drk.raju               529               skd nagar         180             
+
+149   574       friends spoken         529               skd nagar         180             
+
+150   44        ladiesemporem          529               skd nagar         210             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   38        chandra shekar         529(3rd.f)        skd nagar         180             
+
+152   575       nagaraju               529(cellar9)      skd nagar         180             
+
+153   43        srinivas               529(f.no 103)     skd nagar         180             
+
+154   40        kishan                 529(f.no 201)     skd nagar         180             
+
+155   41        kranthikiran           529(f.no 204)     skd nagar         180             
+
+156   39        bramanadham            529(f.no 301)     skd nagar         180             
+
+157   46        balajirao              530               skd nagar         180             
+
+158   45        kondaya cowdari        530               skd nagar         200             
+
+159   527       sidhu                  531               skd nagar         180             
+
+160   604       h.lingam goud          531               skd nagar         180             
+
+161   595       bhoopal reddy          531               skd nagar         360             
+
+162   48        sambashiva rao         531               skd nagar         180             
+
+163   47        madhavi                531               skd nagar         360             
+
+164   549       upendar                532               skd nagar         180             
+
+165   694       upendar(2ndfloor)      532               skd nagar         180             
+
+166   50        suresh                 532               skd nagar         180             
+
+167   51        m.srikanth             532               skd nagar         280             
+
+168   52        govardhan chary        532               skd nagar         180             
+
+169   53        crk.shastri            534               skd nagar         180             
+
+170   67        raju                   535               skd nagar         180             
+
+171   66        g.srinivas             535               skd nagar         -540            
+
+172   69        usha rani              536               skd nagar         180             
+
+173   70        v.janardhan            536               skd nagar         180             
+
+174   72        thirumala              536               skd nagar         180             
+
+175   76        gopal krishna          537               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   75        g.srikanth reddy       537               skd nagar         180             
+
+177   73        sreedhar reddy         537               skd nagar         360             
+
+178   77        shanker                538               skd nagar         300             
+
+179   78        venkanna               538               skd nagar         180             
+
+180   83        srinivas               541               skd nagar         180             
+
+181   79        manohar                541               skd nagar         180             
+
+182   85        raghavender rao        541               skd nagar         180             
+
+183   82        k.srinivas reddy       542               skd nagar         180             
+
+184   86        dibba reddy            542               skd nagar         180             
+
+185   84        laxmikanth             542               skd nagar         180             
+
+186   762       venkanna               545               skd nagar         0               
+
+187   641       n.ramu                 545               skd nagar         520             
+
+188   550       v.devendhar            545               skd nagar         180             
+
+189   80        b.shanth kumar         545               skd nagar         180             
+
+190   654       v.anjanailu            545               skd nagar         180             
+
+191   90        prabhakar rao          548               skd nagar         180             
+
+192   684       lingaya                550(r.shed)       skd nagar         180             
+
+193   89        mahender reddy         551               skd nagar         240             
+
+194   551       mahipal reddy          554               skd nagar         180             
+
+195   643       p.shekar               554               skd nagar         360             
+
+196   65        mohan reddy            557               skd nagar         180             
+
+197   104       thulasi reddy          559               skd nagar         100             
+
+198   102       madhusudhan reddy      559               skd nagar         360             
+
+199   103       ch.mohan               559               skd nagar         180             
+
+200   101       madhusudhan reddy      559               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   650       ch.venkateshwarlu      559               skd nagar         180             
+
+202   100       mahender reddy         560               skd nagar         -360            
+
+203   631       b.mohangoud            560               skd nagar         180             
+
+204   530       g.narayana reddy       562               skd nagar         360             
+
+205   96        v.rajesh               563               skd nagar         180             
+
+206   97        srinivas reddy         563               skd nagar         180             
+
+207   98        geetha                 563               skd nagar         180             
+
+208   95        sridevi                563               skd nagar         180             
+
+209   99        keshav                 564               skd nagar         360             
+
+210   120       krishna kumar          566               skd nagar         180             
+
+211   119       udaybhasker(2 conn)    566               skd nagar         300             
+
+212   635       ravindhar              567               skd nagar         360             
+
+213   118       srinivas reddy         567               skd nagar         180             
+
+214   117       ramalinga reddy        568               sriramnagar       180             
+
+215   112       p.bal reddy            569               skd nagar         180             
+
+216   113       veera reddy            569               skd nagar         180             
+
+217   114       t.lalith bab           569               skd nagar         180             
+
+218   552       g.venkatesh            569               skd nagar         360             
+
+219   110       narsimha reddy         570               skd nagar         180             
+
+220   108       m.sudhakar             571/1             skd nagar         180             
+
+221   107       m.nagaraju             571/1             skd nagar         180             
+
+222   59        dhamodhar rao          572               skd nagar         -540            
+
+223   597       KRANTHI KUMAR          573               skd nagar         180             
+
+224   60        saibaba                573               skd nagar         180             
+
+225   64        divakar                576               skd nagar         360             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   54        karthikeya school      582               skd nagar         180             
+
+227   677       raju                   582(beside kart)  skd nagar         180             
+
+228   55        mallaya                584               skd nagar         180             
+
+229   571       g.chandra sekar        586               skd nagar         180             
+
+230   56        madhava rao            586               skd nagar         180             
+
+231   707       yesu                   591/5             skd nagar         360             
+
+232   708       kiran                  591/6             skd nagar         360             
+
+233   579       b.viresh               591/7(gudisa)     skd nargar        180             
+
+234   58        bhoopal reddy          620               skd nagar         180             
+
+235   57        sudhaker reddy         620               skd nagar         180             
+
+236   723       p.kondal reddy         621               skd nagar         180             
+
+237   62        narayana reddy         622               skd nagar         -540            
+
+238   625       shanthi babu           622               skd nagar         250             
+
+239   61        padmavathi             622               skd nagar         180             
+
+240   63        srinu                  622               skd nagar         180             
+
+241   701       m.suresh               623               skd nagar         360             
+
+242   158       sudheer                623               skd nagar         180             
+
+243   576       d.narsing              624               skd nagar         360             
+
+244   156       sreedhar               624               skd nagar         360             
+
+245   157       d.mallesham            624               skd nagar         180             
+
+246   155       n.rajashekar reddy     624               skd nagar         180             
+
+247   162       laxman                 658               skd nagar         180             
+
+248   163       narendhar              658               skd nagar         180             
+
+249   164       alfread                659               skd nagar         180             
+
+250   165       n.sathyanarayana       660               skd nagar         410             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   166       raghu ram              660               skd nagar         260             
+
+252   636       ramesh                 663               skd nagar         180             
+
+253   623       ravindhar goud         663               skd nagar         180             
+
+254   757       lingaiah               663               skd nagar         180             
+
+255   168       praveen                663               skd nagar         180             
+
+256   167       venkat                 663e              skd nagar         360             
+
+257   169       pullaya                664               skd nagar         180             
+
+258   170       venkat reddy           665               skd nagar         180             
+
+259   171       ksr.murthy             666               skd nagar         360             
+
+260   634       radha krishna          666               skd nagar         180             
+
+261   172       somasunder             667               skd nagar         180             
+
+262   174       m.kamalakar rao        668               skd nagar         150             
+
+263   688       brammaiah              668               skd nagar         180             
+
+264   175       gal reddy              669               skd nagar         180             
+
+265   178       m.madhava naidu        670/w             skd nagar         180             
+
+266   176       ram reddy              670/w             skd nagar         180             
+
+267   177       yadhav reddy           670/w             skd nagar         210             
+
+268   662       srinivasulu            670               skd nagar         180             
+
+269   710       ramchander             671               skd nagar         100             
+
+270   649       k.ashok                671               skd nagar         180             
+
+271   152       sunitha                671-672           skd nagar         180             
+
+272   153       y.koteshwar rao        671-672           skd nagar         200             
+
+273   154       k.hariprasadh          671-672           skd nagar         180             
+
+274   151       venkat reddy           672               skd nagar         180             
+
+275   149       amma rao               673               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   150       krishna                673               skd nagar         180             
+
+277   148       nikith reddy           674               skd nagar         180             
+
+278   145       gopinath               676               skd nagar         180             
+
+279   147       srinivas kumar         676               skd nagar         180             
+
+280   146       m.omkar                676               skd nagar         180             
+
+281   754       chandrashekar reddy    677/b             skd nagar         180             
+
+282   138       dhananjaya rao         677a              skd nagar         380             
+
+283   686       o.mahesh               678/n             skd nagar         360             
+
+284   554       b.v.s.prasadh          678/n             skd nagar         180             
+
+285   741       g.surender             678/n             skd nagar         180             
+
+286   194       suresh                 679               skd nagar         180             
+
+287   193       m.santhosh reddy       679               skd nagar         180             
+
+288   606       nova                   679               skd nagar         180             
+
+289   187       babu rao               680/a             skd nagar         180             
+
+290   191       kk.sharma              680               skd nagar         180             
+
+291   186       nv.krishna rao         681               skd nagar         330             
+
+292   185       suresh                 682               skd nagar         180             
+
+293   184       madhusudhan rao        682               skd nagar         320             
+
+294   183       madhava reddy          682               skd nagar         180             
+
+295   182       venkatesh              682               skd nagar         180             
+
+296   181       anka rao               682               skd nagar         180             
+
+297   180       raju                   682               skd nagar         290             
+
+298   737       k.ramesh               683               skd nagar         -540            
+
+299   179       m.ramakrishna          683               skd nagar         180             
+
+300   161       kv.ramreddy            684               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   159       nagesh                 684               skd nagar         360             
+
+302   160       srinivas sharma        684               skd nagar         180             
+
+303   668       vishnu                 686               skd nagar         180             
+
+304   139       upender                687               skd nagar         360             
+
+305   653       m.d.niranjan           688/n             skd nagar         180             
+
+306   140       md.akmal               688a              skd nagar         180             
+
+307   141       syed ibrahim           688n              skd nagar         180             
+
+308   142       ramachandra murthy     689               skd nagar         180             
+
+309   143       uday bhasker           690               skd nagar         180             
+
+310   144       prassana               690               skd nagar         180             
+
+311   109       s.sai krishna(2con)    691               skd nagar         300             
+
+312   116       s.h.venkat             692               skd nagar         160             
+
+313   115       m.ramanjanailu         692               skd nagar         180             
+
+314   111       dhanalaxmi             692e              skd nagar         180             
+
+315   646       venkatasubramanyam     693               skd nagar         180             
+
+316   725       m.sai ram              693               skd nagar         180             
+
+317   127       ravinder rao           694               skd nagar         -540            
+
+318   605       g.rathna kumari        697               skd nagar         180             
+
+319   135       s.prabhakar reddy      699-685           skd nagar         180             
+
+320   134       t.venkat reddy         699-685           skd nagar         360             
+
+321   136       yadgiri reddy          699-685           skd nagar         220             
+
+322   196       srinivas rao           701/s             skd nagar         540             
+
+323   630       nagarjuna              701               skd nagar         540             
+
+324   132       v.purushotham reddy    701               skd nagar         -900            
+
+325   131       ranga reddy            701               skd nagar         620             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+326   192       ramesh                 703               skd nagar         420             
+
+327   133       ramesh babu            705               skd nagar         180             
+
+328   190       venkateshwarlu         706               skd nagar         480             
+
+329   188       na.padmanadham         707               skd nagar         180             
+
+330   673       pinchalaiah            709               skd nagar         360             
+
+331   709       n.naidu                710               skd nagar         180             
+
+332   227       naidu                  711               skd nagar         180             
+
+333   226       ashok reddy            711               skd nagar         360             
+
+334   210       mukesh                 712/a             skd nagar         180             
+
+335   721       g.deveiah              712               skd nagar         180             
+
+336   197       a.venkateshwar raju    714               skd nagar         180             
+
+337   201       sathyanarayana reddy   715               skd nagar         180             
+
+338   202       chandra sheker         715               skd nagar         180             
+
+339   203       janaki reddy           715               skd nagar         360             
+
+340   204       janga reddy            715               skd nagar         180             
+
+341   199       bhasker                716               skd nagar         380             
+
+342   200       vidyasagar             716               skd nagar         180             
+
+343   667       g.kameshwari           716               skd nagar         180             
+
+344   522       k.nagaraju             716               skd nagar         540             
+
+345   198       g.venkatesh            716               skd nagar         180             
+
+346   624       g.rama rao             717               skd nagar         360             
+
+347   195       pwv.raju               717               skd nagar         180             
+
+348   744       b.uma                  719               skd nagar         180             
+
+349   130       k.shekar               721               skd nagar         180             
+
+350   129       venkateseshwar rao     722               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+351   128       ch.nagaya              723               skd nagar         180             
+
+352   126       nagarathamma           724               skd nagar         180             
+
+353   124       p.krishna kumar        725               skd nagar         180             
+
+354   122       srinivas rao           726               skd nagar         180             
+
+355   121       shenkar goud           726               skd nagar         0               
+
+356   726       ch.nagaraju            728               skd nagar         180             
+
+357   713       venkatamma(r.shed)     728               skd nagar         180             
+
+358   13        yadhagiri              728               skd nagar         180             
+
+359   12        sathaiah(r.shed)       729               skd nagar         200             
+
+360   11        ravinder rao           730               skd nagar         180             
+
+361   8         rajmalla reddy         732               skd nagar         580             
+
+362   7         prashanth reddy        732               skd nagar         240             
+
+363   5         ashok                  732               skd nagar         -540            
+
+364   698       bramhachary            732               skd nagar         180             
+
+365   759       srinivas               732               skd nagar         0               
+
+366   548       venkatesh              732               skd nagar         180             
+
+367   431       SRINIVAS RAO           733/B             skd nagar         -180            
+
+368   4         rajashekar             734               skd nagar         180             
+
+369   3         nageshwar rao          735               skd nagar         220             
+
+370   2         lakshmi                735               skd nagar         180             
+
+371   1         balakrishna            736               skd nagar         180             
+
+372   608       y.ramanaidu            738               skd nagar         180             
+
+373   205       s.manohar rao          740               skd nagar         200             
+
+374   629       k.surekha              740               skd nagar         180             
+
+375   206       ram reddy              740               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+376   705       sv surendhar rao       740               skd nagar         240             
+
+377   207       shekar reddy           741               skd nagar         180             
+
+378   209       a.surendhar reddy      742               skd nagar         180             
+
+379   213       ch.srinivas            742               skd nagar         360             
+
+380   666       a.rajendra prasadh     743(203p.no)      skd nagar         360             
+
+381   217       mallikarjuna           743(f .no 202)    skd nagar         180             
+
+382   222       ravinder               743(f .no 304)    skd nagar         180             
+
+383   215       murthy                 743(f. no 104)    skd nagar         180             
+
+384   212       s.bhasker reddy        743(f.no 101)     skd nagar         180             
+
+385   214       p.vengaya              743(f.no 102)     skd nagar         180             
+
+386   218       dillip reddy           743(f.no 103)     skd nagar         180             
+
+387   216       k.govardhan reddy      743(f.no 201)     skd nagar         180             
+
+388   219       ramachandram           743(f.no 204)     skd nagar         180             
+
+389   220       k.sudharshan           743(f.no 301)     skd nagar         180             
+
+390   555       balakrishna            743(f.no 302)     skd nagar         180             
+
+391   733       shekar goud            743(f.no 303)     skd nagar         180             
+
+392   626       subash reddy           743(f.no 401)     skd nagar         180             
+
+393   211       ramu                   743(ground)       skd nagar         180             
+
+394   221       gowtham reddy          743(ground)       skd nagar         180             
+
+395   224       r.gopal                744               skd nagar         180             
+
+396   223       tirmal rao             744               skd nagar         180             
+
+397   658       baskar                 744               skd nagar         180             
+
+398   225       v.srikanth             744               skd nagar         180             
+
+399   524       t.dinesh chandra       744               skd nagar         360             
+
+400   228       vengaya                745               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+401   232       radhakrishna reddy     746               skd nagar         180             
+
+402   231       shekar                 746               skd nagar         180             
+
+403   230       venkatramana reddy     746               skd nagar         360             
+
+404   233       venkatesh              747               skd nagar         330             
+
+405   689       ravindhar reddy        747               skd nagar         300             
+
+406   648       b.t.p sithamma         748               skd nagar         270             
+
+407   234       bv.sharatbabu          749               skd nagar         180             
+
+408   691       yadaiah                751               skd nagar         180             
+
+409   235       g.krishna              752               skd nagar         180             
+
+410   687       bn.reddy               756               skd nagar         180             
+
+411   237       t.venkat reddy         757               skd nagar         280             
+
+412   236       musthapa               757               skd nagar         360             
+
+413   239       venkateshwar rao       758               skd nagar         360             
+
+414   238       s.yadireddy            758               skd nagar         180             
+
+415   699       k.shyam rao            759               skd nagar         180             
+
+416   407       narsimhaswamy(2c)      759               skd nagar         300             
+
+417   411       shanker                760               skd nagar         180             
+
+418   672       yadhaiah               761               skd nagar         180             
+
+419   412       k.giridhar             761               skd nagar         180             
+
+420   659       narsimha               764               skd nagar         180             
+
+421   413       mallesh goud           764               skd nagar         180             
+
+422   415       madhusudhan reddy      767               skd nagar         180             
+
+423   416       v.radhakrishna         768               skd nagar         -540            
+
+424   422       s.venkateshwar(node)   769/a             skd nagar         0               
+
+425   423       v.mahesh babu          769/a             skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+426   417       jhanaki ramarao        769/b             skd nagar         0               
+
+427   418       v.jyothi               769/b             skd nagar         180             
+
+428   746       n.sunitha              770               skd nagar         180             
+
+429   424       raghuma reddy          770               skd nagar         190             
+
+430   427       gopal rao              770               skd nagar         180             
+
+431   432       sathyanarayana(2con)   773               skd nagar         300             
+
+432   404       suresh                 778               skd nagar         180             
+
+433   402       ramchender rao         780               skd nagar         180             
+
+434   403       narsimha reddy         780               sriramnagar       -350            
+
+435   401       srinivas               780               skd nagar         180             
+
+436   405       sarojoni               783               skd nagar         360             
+
+437   693       r.premalatha           784               skd nagar         150             
+
+438   434       t.l.k.reddy            784               skd nagar         180             
+
+439   433       sudhakar reddy         785               skd nagar         330             
+
+440   435       rakesh                 785               skd nagar         180             
+
+441   758       aravindh               785               skd nagar         0               
+
+442   518       balaya                 788               skd nagar         180             
+
+443   517       kistaya                789               skd nagar         -540            
+
+444   671       k.malyadri             789               skd nagar         360             
+
+445   734       sambhashiva rao        790               skd nagar         180             
+
+446   519       venkateshwar rao       790               skd nagar         180             
+
+447   753       d.koteswar             790(2nd floor0    skd nagar         180             
+
+448   760       balavath reddy         790(g.floor)      skd nagar         0               
+
+449   676       r.thirupathi rao       791               skd nagar         180             
+
+450   390       ramesh                 791               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+451   391       s.thirumal rao         791               skd nagar         180             
+
+452   394       n.srinivas rao         791               skd nagar         180             
+
+453   395       p.srinivas reddy       791               skd nagar         300             
+
+454   389       d.paparao              791               skd nagar         180             
+
+455   749       sai prasadh            791w(grond.f)     skd nagar         180             
+
+456   582       sathaiah               792               skd nagar         180             
+
+457   594       miravalli              792               skd nagar         180             
+
+458   615       ramadevi               792               skd nagar         180             
+
+459   628       ch.nirmal swamy        792               skd nagar         360             
+
+460   399       g.sreedhar rao         792               skd nagar         300             
+
+461   293       venkat reddy           792               skd nagar         180             
+
+462   400       venkateshwar rao       792               skd nagar         180             
+
+463   292       balraju                793/1             skd nagar         180             
+
+464   590       mallaya                793/3             skd nagar         520             
+
+465   383       n.babu                 794               skd nagar         360             
+
+466   380       g.chaneya              794               skd nagar         180             
+
+467   539       p.venkateshwarlu       794               skd nagar         380             
+
+468   382       thirmal rao            794               skd nagar         180             
+
+469   639       k.edaya                794               skd nagar         180             
+
+470   378       p.malakondaya          795               skd nagar         180             
+
+471   377       nancharaiah            795               skd nagar         180             
+
+472   373       p.ramakrishna          796               skd nagar         180             
+
+473   372       prahaladhjoshi         796               skd nagar         180             
+
+474   599       vijayasimha            796               skd nagar         180             
+
+475   369       balayagoud             797               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+476   295       krishna reddy          797               skd nagar         180             
+
+477   370       sreedhar reddy         797               skd nagar         180             
+
+478   371       basavaya               797               skd nagar         180             
+
+479   302       ballaya                798               skd nagar         180             
+
+480   304       raghu                  799/0             skd nagar         -720            
+
+481   538       s.suresh               799/1             skd nagar         180             
+
+482   580       raju                   799/1             skd nargar        360             
+
+483   637       t.ravindhar            799/1             skd nagar         360             
+
+484   736       mallaya                799/3             skd nagar         180             
+
+485   309       janga reddy            799/3             skd nagar         180             
+
+486   310       madhava reddy          799/3             skd nagar         180             
+
+487   311       mohan reddy            799/4             skd nagar         180             
+
+488   718       k.srinu                799/4             skd nagar         180             
+
+489   690       k.raju                 799/4             skd nagar         360             
+
+490   322       srinivas               799/6             skd nagar         180             
+
+491   321       venkatesh              799/6             skd nagar         180             
+
+492   627       sathyam.v              799/6             skd nagar         340             
+
+493   323       narsimha               799/6             skd nagar         180             
+
+494   320       kanakachary            799/6             skd nagar         360             
+
+495   328       krishna reddy          799/7             skd nagar         180             
+
+496   329       kumar                  799/8             skd nagar         180             
+
+497   647       sardhar singh          799/8             skd nagar         200             
+
+498   703       g.kumar                799/8             skd nagar         180             
+
+499   738       srikanth               799/8             skd nagar         360             
+
+500   652       anwar bhasha           799               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+501   616       venkateshwarlu         800/1             skd nagar         360             
+
+502   353       k.srinivas             800/6             skd nagar         -540            
+
+503   350       jangaya                800/7             skd nagar         180             
+
+504   385       m.rajugoud             800               skd nagar         180             
+
+505   367       suribabu               801/a             skd nagar         180             
+
+506   711       pollaya                801/a             skd nagar         180             
+
+507   379       k.raghuma reddy        802/a             skd nagar         540             
+
+508   374       ramreddy               802/b             skd nagar         180             
+
+509   375       madhusudhan reddy      802/b             skd nagar         180             
+
+510   376       gv.ramana rao          802/b             skd nagar         180             
+
+511   363       balraju                802/1             skd nagar         360             
+
+512   362       mallesh                802/1             skd nagar         360             
+
+513   361       bvn.reddy              802/1             skd nagar         -540            
+
+514   356       karnakar reddy         802/4             skd nagar         180             
+
+515   364       narsimha reddy         802/6             skd nagar         180             
+
+516   365       srinu                  802/6             skd nagar         360             
+
+517   360       ramulu                 802/8             skd nagar         180             
+
+518   660       m.chandrashekar        802/8             skd nagar         180             
+
+519   618       yadaiah                802/8             skd nagar         180             
+
+520   357       ankkama raju           802/8             skd nagar         180             
+
+521   358       anjanailu              802/8             skd nagar         180             
+
+522   354       ramreddy               802/10            skd nagar         -300            
+
+523   621       mahendhar reddy        802/10            skd nagar         180             
+
+524   607       m.shanthi kumar        802/10            skd nagar         100             
+
+525   633       s.m k murthy           802/11            skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+526   610       venkateshwarlu         802/12            skd nagar         180             
+
+527   609       v.lingaiah             802/12            skd nagar         180             
+
+528   611       g.sudharshan           802/12            skd nagar         360             
+
+529   349       narendhar              802/12            skd nagar         520             
+
+530   351       m.govindha             802/12            skd nagar         180             
+
+531   348       narsimha               802/13            skd nagar         360             
+
+532   619       g.thirupathaiah        802/13            skd nagar         360             
+
+533   346       ramakrishna gudisa     802/14            skd nagar         540             
+
+534   345       krishnaya gudisa       802/14            skd nagar         540             
+
+535   384       kanthukumar            803               skd nagar         340             
+
+536   563       v.ganeswar             803               skd nagar         540             
+
+537   387       b.suryanarayana        807/a             skd nagar         180             
+
+538   520       ns.giridhar            808               skd nagar         180             
+
+539   755       p.mahesh(r.shed)       809               skd nagar         180             
+
+540   514       arvindh reddy(2c)      809               skd nagar         300             
+
+541   512       p.sailaja              812               skd nagar         360             
+
+542   511       prabhaker              812               skd nagar         180             
+
+543   503       raghavender reddy      813/6             skd nagar         180             
+
+544   504       srinivas               813/6             skd nagar         180             
+
+545   502       t.krishna              813/7             skd nagar         180             
+
+546   499       krishna                813/8             skd nagar         160             
+
+547   740       srinivas naiak         813/8             skd nagar         180             
+
+548   747       j.srinivas             813/8(1st.f)      skd nagar         180             
+
+549   498       r.somani               813/9             skd nagar         200             
+
+550   720       kirankumar             813/9             skd nagar         360             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+551   712       umashwar               813/9             skd nagar         180             
+
+552   569       brammaiah              813/9             skd nagar         160             
+
+553   484       sudhakar reddy         813/15            skd nagar         180             
+
+554   750       g.ramesh               813/15            skd nagar         180             
+
+555   661       y.s.srinivas sharma    813/15            skd nagar         180             
+
+556   491       bushanaiah             813/15/a          skd nagar         240             
+
+557   719       k.nagaraju             813/15/b          skd nagar         180             
+
+558   490       bvn.rao                813/15/b          skd nagar         180             
+
+559   355       baldas                 813/18            skd nagar         180             
+
+560   483       ravi                   813/18            skd nagar         180             
+
+561   482       k.subhash reddy        813/18            skd nagar         180             
+
+562   496       srinivas               813/20            skd nagar         180             
+
+563   645       v.raju                 813/20            skd nagar         360             
+
+564   497       anil(2c)               813/20/n          skd nagar         300             
+
+565   679       m.mariyama             813/20e(gudisa)   skd nagar         360             
+
+566   501       s.jayaprakesh          813/22            skd nagar         180             
+
+567   570       raghava                813/22            skd nagar         180             
+
+568   500       ravi                   813/22            skd nagar         180             
+
+569   480       s.naveen               813/24            skd nagar         340             
+
+570   505       sharadha               813               skd nagar         180             
+
+571   510       k.mahadev              813               skd nagar         360             
+
+572   508       shashidhar reddy       814               skd nagar         150             
+
+573   509       d.shekar               816               skd nagar         220             
+
+574   515       p.nageshwar rao        820               skd nagar         180             
+
+575   442       sudhakar reddy         824               skd nagar         -300            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+576   588       narendhar              824               skd nagar         540             
+
+577   589       muralikrishna          824               skd nagar         180             
+
+578   444       purnachander rao       824               skd nagar         180             
+
+579   443       bhoomi reddy           824               skd nagar         180             
+
+580   437       m.pandari              837               skd nagar         180             
+
+581   436       subbaraidu             837               skd nagar         180             
+
+582   438       venkatramana           837               skd nagar         180             
+
+583   542       g.l.n.rao              841               skd nagar         180             
+
+584   430       v.sukjeevan rao        841               skd nagar         180             
+
+585   429       venkat reddy           841               skd nagar         180             
+
+586   428       ch.arun kumar          841               skd nagar         180             
+
+587   454       b.mruthunjai rao       843               skd nagar         360             
+
+588   455       dssk.murthy            844               skd nagar         180             
+
+589   716       ms madhav              845               skd nagar         180             
+
+590   458       a.yadhi reddy          845               skd nagar         180             
+
+591   456       bln.reddy              857               skd nagar         180             
+
+592   526       ashok kumar            857               skd nagar         180             
+
+593   421       chandra shekar reddy   860/a             skd nagar         360             
+
+594   717       chandrashekar reddy    860/a(2nd floor)  skd nagar         540             
+
+595   722       muralikrishna          863               skd nagar         0               
+
+596   426       b.mohan kumar          863               skd nagar         180             
+
+597   425       lingappa               863               skd nagar         180             
+
+598   541       lokesh                 865/a             skd nagar         180             
+
+599   420       malla reddy            865/a             skd nagar         180             
+
+600   419       s.praveen kumar        866               skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+601   678       b.srisailam            926               skd nagar         180             
+
+602   602       raju                   926               skd nagar         180             
+
+603   674       b.narasimha            926               skd nagar         180             
+
+604   335       krishnaswamy           927               skd nagar         180             
+
+605   340       k.malakondaiah         928               skd nagar         540             
+
+606   339       shamkumar              928               skd nagar         180             
+
+607   344       p.sathyanarayana       929/e             skd nagar         180             
+
+608   338       m.seetharam            929               skd nagar         180             
+
+609   336       yadhagiri              929               skd nagar         180             
+
+610   333       narsimha               929               skd nagar         180             
+
+611   492       mahender reddy         930/1             skd nagar         200             
+
+612   489       k.laxman               930/1             skd nagar         180             
+
+613   488       anv.trinath            930/1             skd nagar         180             
+
+614   612       kurumurthy             930               skd nagar         420             
+
+615   670       k.ramakrishna          930               skd nagar         180             
+
+616   506       malla reddy            930               skd nagar         180             
+
+617   507       yadamma                930               skd nagar         180             
+
+618   343       pandu gudisa           930               skd nagar         180             
+
+619   613       v.sathyam              931               skd nagar         540             
+
+620   342       venkatesh              931               skd nagar         360             
+
+621   727       peddaiah               931(gudisa)       skd nagar         360             
+
+622   487       y.asaya                932/1             skd nagar         180             
+
+623   681       j.srinivas             932/1             skd nagar         180             
+
+624   341       somendhar              932               skd nagar         180             
+
+625   410       laxminarasaya(2c)      932               skd nagar         300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+626   408       praveenkumar           933               skd nagar         200             
+
+627   409       ashok reddy            933               skd nagar         180             
+
+628   406       narsimha reddy         934               skd nagar         180             
+
+629   695       anji                   934(gudisa)       skd nagar         360             
+
+630   581       p.karunakar reddy      935               skd nagar         180             
+
+631   485       s.giri                 935               skd nagar         180             
+
+632   728       dt.sharma              935               skd nagar         180             
+
+633   729       chandrakanth           935               skd nagar         180             
+
+634   398       jaipal reddy           936               skd nagar         180             
+
+635   396       a.vijay kumar          937               skd nagar         180             
+
+636   392       prabhakar reddy        938               skd nagar         150             
+
+637   393       janga reddy            938               skd nagar         180             
+
+638   714       g.pardhasarathi        938               skd nagar         180             
+
+639   386       kondal reddy           939               skd nagar         180             
+
+640   756       prabhakar reddy        942               skd nagar         180             
+
+641   537       saidulu                942               skd nagar         360             
+
+642   275       ravindhar rao          942               skd nagar         180             
+
+643   274       krishna reddy          942               skd nagar         240             
+
+644   273       venkat reddy           942               skd nagar         180             
+
+645   669       s.manohar reddy        942               skd nagar         0               
+
+646   700       d.sathaiah             943               skd nagar         540             
+
+647   269       narsimha rao           943               skd nagar         180             
+
+648   266       t.preamdath            944               skd nagar         180             
+
+649   536       madhusudhan reddy      945               skd nagar         180             
+
+650   259       m.kondal reddy         946               skd nagar         410             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+651   283       srinivassharma         947               skd nagar         130             
+
+652   291       mark                   948               skd nagar         180             
+
+653   561       ajaykumar              949               skd nagar         180             
+
+654   664       b.shekar               950/a             skd nagar         360             
+
+655   300       ch.prabhakar           950               skd nagar         180             
+
+656   298       srinivas goud          950               skd nagar         180             
+
+657   299       g.venkatesh goud       950               skd nagar         180             
+
+658   303       vasudeva               951               skd nagar         180             
+
+659   306       m.srikanth             952/b             skd nagar         180             
+
+660   305       venkatesh              952/b             skd nagar         180             
+
+661   307       g.shanker goud         953               skd nagar         180             
+
+662   308       srinivas rao           953               skd nagar         180             
+
+663   313       murali                 954               skd nagar         180             
+
+664   735       s.prasadh(2nd f)       955               skd nagar         360             
+
+665   743       b.dharshan goud        955(1st. f)       skd nagar         0               
+
+666   651       b.bramanandha reddy    955(1st.f)        skd nagar         240             
+
+667   317       sathi reddy            955(2nd.f)        skd nagar         180             
+
+668   318       suresh                 955(2nd.f)        skd nagar         360             
+
+669   319       p.giridhar reddy       955(3rd.f)        skd nagar         360             
+
+670   315       shivanageshwar         955(ground)       skd nagar         360             
+
+671   316       jagan                  955(ground)       skd nagar         230             
+
+672   325       jagan reddy            956               skd nagar         180             
+
+673   600       ramchandra reddy       956               skd nagar         180             
+
+674   326       narsimha reddy         956               skd nagar         180             
+
+675   724       umamaheshwar           956(pent house)   skd nagar         180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+676   332       balraj                 957               skd nagar         180             
+
+677   562       raju                   957               skd nagar         540             
+
+678   330       thirmal reddy          957               skd nagar         180             
+
+                                                                    	----------
+                                                                    	133940
+                                                                    	----------
+
+                                END OF THE REPORT

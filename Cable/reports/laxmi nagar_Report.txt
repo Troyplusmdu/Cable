@@ -1,0 +1,31 @@
+
+                                     DUE LIST
+                                     --------
+Area : laxmi nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     7         vijay kumar            pt.no:209         .                 100             
+
+2     6         srinivas               pt.no:209         .                 50              
+
+3     5         kishor                 pt.no:209         .                 50              
+
+4     8         nandu                  pt.no:209/a       .                 50              
+
+5     4         kondal reddy           pt.no:209/a       .                 150             
+
+6     3         sathaiah               pt.no:35          .                 50              
+
+7     2         narasimha              pt.no:35          .                 50              
+
+8     1         kagendar reddy         pt.no:35          .                 50              
+
+                                                                    	----------
+                                                                    	550
+                                                                    	----------
+
+                                END OF THE REPORT

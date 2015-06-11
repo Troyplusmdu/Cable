@@ -1,0 +1,29 @@
+
+                                     DUE LIST
+                                     --------
+Area : karmanghat
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     7         srinivas               .                 .                 50              
+
+2     6         devaraj                h.no:             .                 50              
+
+3     5         nagamani               h.no:             .                 50              
+
+4     4         somaiah                h.no:             .                 50              
+
+5     3         rahee                  h.no:             .                 100             
+
+6     2         sulthan                h.no:             .                 50              
+
+7     1         fyace                  rakula shad       .                 150             
+
+                                                                    	----------
+                                                                    	500
+                                                                    	----------
+
+                                END OF THE REPORT

@@ -1,0 +1,107 @@
+
+                                     DUE LIST
+                                     --------
+Area : thirumala  enclave
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     59        sashiya                hut               .                 0               
+
+2     1         VEERANNA               P-3               .                 600             
+
+3     60        narsimha               p-6               .                 0               
+
+4     2         KUMAR                  P-6               .                 1650            
+
+5     54        ramulu                 p-6               .                 300             
+
+6     5         SHESHIDHAR REDDY       P-7               .                 450             
+
+7     55        Gopal                  p-8               .                 0               
+
+8     46        PRABHAKAR RAO          p-9               .                 300             
+
+9     50        naresh                 p-11              .                 50              
+
+10    47        Staya narayana         p-12              .                 0               
+
+11    8         RAMA MURTHY	           P-15              .                 250             
+
+12    51        kiran                  p-15              .                 150             
+
+13    44        sridhar                p-17/4            .                 150             
+
+14    63        praveen                p-17              .                 0               
+
+15    9         SURYA PRAKESH	         P-17              .                 0               
+
+16    41        SUDHANAMAN             P-18/A            .                 350             
+
+17    10        I.S.R.ANIANEYALU       P-18              .                 0               
+
+18    48        shiva                  p-19              .                 450             
+
+19    11        E.V.RAO                P-20              .                 1350            
+
+20    12        KAMAL KUMAR	           P-21              .                 150             
+
+21    62        g.v.rao                p-22              .                 0               
+
+22    58        srinivas               p-23              .                 0               
+
+23    13        LALITHS	               P-24              .                 1200            
+
+24    36        SHANKAR                P-24              .                 750             
+
+25    52        prashanth              p-26              .                 300             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    43        R.S.RAO                P-27              .                 0               
+
+27    15        NARESH KUMAR	          P-30              .                 650             
+
+28    16        ravi                   p-31              .                 300             
+
+29    65        madhu chary            p-32              .                 0               
+
+30    17        CHANDRA SHEKAR         P-34              .                 850             
+
+31    18        AMBAIAH                P-38              .                 0               
+
+32    19        NAGA RAJU              P-40              .                 400             
+
+33    66        madhav reddy           p-40              .                 0               
+
+34    20        AVINASH                P-41              .                 0               
+
+35    25        ADHITYA                P-43              .                 650             
+
+36    40        KAPIAL                 P-51/52           .                 600             
+
+37    39        jaya nandhan           p-53              .                 1350            
+
+38    61        shankar                p-55/56           .                 0               
+
+39    53        laxman                 p-55/56           .                 0               
+
+40    27        ANAND                  P-56/57           .                 450             
+
+41    56        venkatiah              p-57              .                 0               
+
+42    57        ramcharan prasad       p-58/a            .                 0               
+
+43    49        masula huddin          p-61/62           .                 150             
+
+44    64        krishna rao            p-62/63           .                 0               
+
+                                                                    	----------
+                                                                    	13850
+                                                                    	----------
+
+                                END OF THE REPORT

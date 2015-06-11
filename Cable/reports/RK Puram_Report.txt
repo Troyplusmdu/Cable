@@ -1,0 +1,15 @@
+
+                                     DUE LIST
+                                     --------
+Area : RK Puram
+Order By : code
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+                                                                    	----------
+                                                                    	0
+                                                                    	----------
+
+                                END OF THE REPORT

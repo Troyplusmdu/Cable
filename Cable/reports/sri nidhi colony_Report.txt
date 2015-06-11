@@ -1,0 +1,57 @@
+
+                                     DUE LIST
+                                     --------
+Area : sri nidhi colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     20        raghu tea shop         .                 .                 50              
+
+2     18        narasimhulu            kirana shop       .                 50              
+
+3     17        lepakshi d center      pt.no:10          .                 100             
+
+4     16        srinivas               pt.no:10          .                 100             
+
+5     15        srikanth reddy         pt.no:10          .                 50              
+
+6     4         srinivas reddy         pt.no:21          .                 100             
+
+7     2         rama laxmi             pt.no:22          .                 50              
+
+8     3         prasanth               pt.no:22          .                 50              
+
+9     1         yerrappa               pt.no:22          .                 100             
+
+10    5         t.venkat krishna       pt.no:30          .                 50              
+
+11    14        i.prathap reddy        pt.no:4           .                 50              
+
+12    8         srinivasulu            pt.no:47          .                 50              
+
+13    6         c.shiva kumar          pt.no:49          .                 50              
+
+14    7         srinadh                pt.no:49          .                 50              
+
+15    12        srinivas               pt.no:53          .                 100             
+
+16    9         a.gopi                 pt.no:53          .                 100             
+
+17    11        suresh anand           pt.no:53          .                 150             
+
+18    10        bala krishna           pt.no:53          .                 50              
+
+19    13        vineethna              pt.no:60          .                 100             
+
+20    19        jai thulaja bavani     real estate       .                 50              
+
+21    21        sridhar                25                .                 50              
+
+                                                                    	----------
+                                                                    	1500
+                                                                    	----------
+
+                                END OF THE REPORT

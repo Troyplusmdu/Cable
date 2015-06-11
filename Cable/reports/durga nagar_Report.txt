@@ -1,0 +1,367 @@
+
+                                     DUE LIST
+                                     --------
+Area : durga nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     252       shiva ram reddy        .                 .                 50              
+
+2     256       narsimha reddy         f.no:501          h.h               50              
+
+3     228       pandu                  hari hara         ft.no:503         50              
+
+4     229       sathish                hari hara         ft.no:404         50              
+
+5     231       umesh reddy            hari hara         ft.no:303         50              
+
+6     230       RAMA KRISHNA REDDY     hari hara         ft.no:402         50              
+
+7     249       alaval reddy           pt.no:10          .                 50              
+
+8     151       hanumanth reddy        pt.no:103         .                 100             
+
+9     150       giri babu              pt.no:103         .                 50              
+
+10    143       krishna                pt.no:111         .                 150             
+
+11    244       shiva kumar            pt.no:111         .                 50              
+
+12    142       chandrashekar reddy    pt.no:111         .                 50              
+
+13    144       RAM PRAKASH            pt.no:111         .                 50              
+
+14    141       p.chary                pt.no:112         .                 50              
+
+15    140       srinivas goud          pt.no:112         .                 150             
+
+16    139       parmesh goud           pt.no:112         .                 50              
+
+17    138       ravi kumar             pt.no:112         .                 100             
+
+18    137       K.Venkataiah           pt.no:113         .                 50              
+
+19    156       sathaiah               pt.no:113         .                 50              
+
+20    136       ganesh                 pt.no:113         .                 50              
+
+21    135       purendhar              pt.no:113         .                 50              
+
+22    159       narsimha reddy         pt.no:114         .                 50              
+
+23    160       srinivas reddy         pt.no:114         .                 50              
+
+24    161       sai reddy              pt.no:115         .                 100             
+
+25    247       ravindhar reddy        pt.no:115         .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    162       srinivas reddy         pt.no:115         .                 50              
+
+27    163       kumar                  pt.no:118         .                 100             
+
+28    164       sri ram                pt.no:118         .                 50              
+
+29    254       sham sundhar reddy     pt.no:121         .                 60              
+
+30    165       hari                   pt.no:133         .                 50              
+
+31    166       sridhar                pt.no:133         .                 50              
+
+32    169       sri sai ram kiranam    pt.no:137         .                 50              
+
+33    170       t.kavitha              pt.no:138         .                 50              
+
+34    171       pradeep                pt.no:138         .                 50              
+
+35    172       laxmikanth reddy       pt.no:141         .                 50              
+
+36    173       yadagiri               pt.no:141         .                 50              
+
+37    119       S.RAVI KUMAR           pt.no:15          .                 50              
+
+38    220       ranga reddy            pt.no:15          .                 50              
+
+39    221       bupathi rao            pt.no:15          .                 50              
+
+40    222       krishna                pt.no:15          .                 50              
+
+41    223       narendhar reddy        pt.no:15          .                 50              
+
+42    118       s.satya narayana       pt.no:15          .                 50              
+
+43    179       janag reddy            pt.no:150         .                 50              
+
+44    181       durga prasad           pt.no:151         .                 50              
+
+45    182       eswar chary            pt.no:151         .                 150             
+
+46    183       d.pavan kumar          pt.no:151         .                 50              
+
+47    180       hanumanth              pt.no:151         .                 50              
+
+48    185       g.venkatesh            pt.no:152         .                 50              
+
+49    186       surendhar              pt.no:152         .                 100             
+
+50    242       sri ramulu             pt.no:152         .                 50              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    258       sri ramulu             pt.no:152         .                 120             
+
+52    184       muthyam                pt.no:152         .                 50              
+
+53    205       v.b.narayana           pt.no:153         .                 50              
+
+54    204       yadagiri               pt.no:153         .                 100             
+
+55    206       narasimha              pt.no:153         .                 0               
+
+56    207       ragavendhar            pt.no:153         .                 50              
+
+57    208       ramesh                 pt.no:153         .                 50              
+
+58    203       narasaiah              pt.no:153         .                 100             
+
+59    215       srinivas               pt.no:154         .                 50              
+
+60    209       sathyam                pt.no:156         .                 50              
+
+61    243       sathi reddy            pt.no:156         .                 50              
+
+62    210       jangaiah               pt.no:156         .                 50              
+
+63    227       sai rupesh kiranam     pt.no:159         .                 50              
+
+64    112       jagan                  pt.no:16          .                 50              
+
+65    113       manikanta              pt.no:16          .                 100             
+
+66    226       jagadish               pt.no:160         .                 150             
+
+67    225       krishna rao            pt.no:161         .                 50              
+
+68    224       thirupathi reddy       pt.no:161         .                 50              
+
+69    248       vanaja                 pt.no:169         .                 50              
+
+70    216       sydulu                 pt.no:169/a       .                 100             
+
+71    212       venkatesh goud         pt.no:19          .                 100             
+
+72    211       ashok reddy            pt.no:19          .                 50              
+
+73    259       lingamaiah             pt.no:19          .                 120             
+
+74    218       srinu                  pt.no:19/a        .                 50              
+
+75    219       surendhar              pt.no:19/a        .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    217       srinu                  pt.no:19/a        .                 150             
+
+77    115       prasanth               pt.no:2           .                 100             
+
+78    114       mallesh                pt.no:2           .                 50              
+
+79    167       prabhakar              pt.no:25          .                 50              
+
+80    232       sathaiah               pt.no:259         .                 50              
+
+81    168       shashidhar             pt.no:28          .                 50              
+
+82    117       venkat reddy           pt.no:3           .                 50              
+
+83    116       mohan reddy            pt.no:3           .                 150             
+
+84    175       p.venkat swamy         pt.no:35          .                 50              
+
+85    176       mahesh                 pt.no:37          .                 50              
+
+86    177       sridhar                pt.no:45          .                 50              
+
+87    178       p.m.motors             pt.no:45/a        .                 100             
+
+88    251       giri prasad            pt.no:47          .                 100             
+
+89    213       vinay                  pt.no:53          .                 50              
+
+90    214       venkat reddy           pt.no:53          .                 150             
+
+91    197       naveen                 pt.no:56          .                 50              
+
+92    198       anjaiah                pt.no:56          .                 100             
+
+93    196       b.s.n.babu             pt.no:56          .                 50              
+
+94    195       kumar                  pt.no:57          .                 100             
+
+95    194       rajesh                 pt.no:57          .                 100             
+
+96    193       sunil                  pt.no:57          .                 50              
+
+97    192       karunakar              pt.no:58          .                 50              
+
+98    191       satya narayana         pt.no:58          .                 100             
+
+99    190       chandra reddy          pt.no:59          .                 100             
+
+100   189       gopal                  pt.no:59          .                 50              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   157       satyalaxmi             pt.no:6           kirana shop       50              
+
+102   109       srinu                  pt.no:6           .                 50              
+
+103   158       basha                  pt.no:6           .                 150             
+
+104   108       surya                  pt.no:6           .                 100             
+
+105   107       sathish                pt.no:6           .                 100             
+
+106   106       shekar                 pt.no:6           .                 50              
+
+107   246       sydulu babu            pt.no:6           .                 50              
+
+108   121       shankar                pt.no:6(203)      janatha homes     100             
+
+109   188       rama krishna           pt.no:62          .                 50              
+
+110   187       jagan                  pt.no:62/a        .                 150             
+
+111   200       srinivasacharyulu      pt.no:66          .                 50              
+
+112   199       rajesh                 pt.no:66          .                 50              
+
+113   201       sudhashan reddy        pt.no:67          .                 100             
+
+114   253       devendhar reddy        pt.no:69          .                 100             
+
+115   120       i.jangaiah             pt.no:7           .                 50              
+
+116   202       yadagiri               pt.no:72          .                 100             
+
+117   234       srisailam              pt.no:89          .                 100             
+
+118   233       janagaiah              pt.no:89          .                 50              
+
+119   235       ganesh                 pt.no:90          .                 50              
+
+120   236       sri sai hair style     pt.no:90/a        .                 150             
+
+121   238       nagesh                 pt.no:90/a        .                 100             
+
+122   239       vijendhar reddy        pt.no:90/a        .                 50              
+
+123   237       mallesh                pt.no:90/a        .                 50              
+
+124   128       mahesh                 pt.no:93          .                 100             
+
+125   127       SUBRAMANYAM            pt.no:93          .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   125       prasad                 pt.no:93          .                 150             
+
+127   124       venkatesh              pt.no:93          .                 150             
+
+128   123       v.r.prabhakar          pt.no:93          .                 50              
+
+129   126       mallikarjun            pt.no:93          .                 50              
+
+130   133       venkatramana reddy     pt.no:94          .                 50              
+
+131   129       shankar                pt.no:94          .                 50              
+
+132   130       venkatesh              pt.no:94          .                 50              
+
+133   132       thirupathi rao         pt.no:94          .                 50              
+
+134   134       v.rajendhar reddy      pt.no:94          .                 100             
+
+135   131       narayana               pt.no:94          .                 50              
+
+136   146       raju                   pt.no:94/h        .                 100             
+
+137   122       hanumanth reddy        pt.no:96          .                 50              
+
+138   145       malla reddy            pt.no:99          .                 50              
+
+139   245       T.L.rao                pt.no:99          .                 50              
+
+140   148       raghu                  pt.no:99/h        .                 100             
+
+141   147       shankar                pt.no:99/h        .                 50              
+
+142   149       shekar reddy           pt.no:99/h        .                 100             
+
+143   174       s.balraj goud          pt.no:35/1        .                 100             
+
+144   250       nagaraj                pt.no:112/2       .                 100             
+
+145   152       yadamma                pt.no:99/4        .                 50              
+
+146   33        V.CHANDRA SHEKAR       PLOT NO 111/112   GROUND FLOOR      150             
+
+147   155       b.ramulu               H.NO 10-1-96/1/4  .                 50              
+
+148   154       krishna                h.no:10-1-96/1/4  .                 50              
+
+149   153       kondal                 h.no:10-1-96/1/4  .                 50              
+
+150   105       p.upendhar             h.no:10-1-96/1a   .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   110       shankar                H.NO:10-1-96/10/1 .                 50              
+
+152   111       jangaiah               H.NO:10-1-96/10/1 .                 100             
+
+153   265       a.armpally             3                 .                 50              
+
+154   263       sridhar                6                 .                 50              
+
+155   257       raju                   11                .                 100             
+
+156   261       sai shankar kira..     16                .                 50              
+
+157   262       patel                  16                .                 50              
+
+158   264       lingamaiah             19                .                 50              
+
+159   255       s.balraj goud          35                .                 100             
+
+160   241       suavarna               99/a              .                 50              
+
+161   266       c.pandu                112               .                 50              
+
+162   267       nagaraju               113/2             .                 50              
+
+163   268       ravindhar reddy        115               .                 50              
+
+164   260       raju                   145               .                 50              
+
+                                                                    	----------
+                                                                    	11700
+                                                                    	----------
+
+                                END OF THE REPORT

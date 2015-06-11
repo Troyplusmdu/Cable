@@ -1,0 +1,161 @@
+
+                                     DUE LIST
+                                     --------
+Area : shivaji nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     98        r.bhaupal reddy        .                 .                 0               
+
+2     77        srinu                  hut               .                 1200            
+
+3     108       janganth               p-44              .                 0               
+
+4     112       naresh                 5-86              .                 0               
+
+5     72        d,srinivas rao         5-179/1           .                 1050            
+
+6     1         RAVI KUMAR             5-179/1(G-2)      .                 600             
+
+7     2         BAJARANGAM             5-179/1(P-101)    .                 200             
+
+8     4         SUBHA RAJU             5-179/1(P-103)    .                 150             
+
+9     5         JAGAN                  5-179/1(P-202)    .                 500             
+
+10    8         SUJATHA                5-179/1(P-304)    .                 600             
+
+11    97        srinivas               5-179/2           .                 300             
+
+12    66        suresh                 5-179/2           .                 800             
+
+13    105       b.prabhakar reddy      5-179             .                 0               
+
+14    89        sudharani              5-179             .                 600             
+
+15    107       shame                  5-179             .                 0               
+
+16    92        sam raju               5-179             .                 1050            
+
+17    63        utashorm               5-179             .                 150             
+
+18    61        KALAYAN                5-179(204)        SAI RECEDENCY     900             
+
+19    106       prabhakar reddy        5-179(302)        .                 0               
+
+20    93        dillip kumar           5-179(g-1)        .                 450             
+
+21    119       raju kumar             5-179(g-1)        .                 0               
+
+22    96        madhusudhan reddy      5-179(p-102)      .                 0               
+
+23    21        RAMA KRISHNA           5-180/1           .                 750             
+
+24    64        phone kashwar          5-180             .                 1050            
+
+25    19        SAGAR                  5-180             .                 1550            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    18        SATYA RAJU             5-180             .                 1350            
+
+27    17        SURESH                 5-180             .                 1150            
+
+28    16        PANDU                  5-180             .                 1250            
+
+29    76        praveen                5-180             .                 1500            
+
+30    81        ramesh                 5-180             .                 1200            
+
+31    109       phani kumar            5-180             .                 0               
+
+32    118       sagar                  5-180             .                 0               
+
+33    110       suresh                 5-180             .                 0               
+
+34    113       m.satya raju           5-180             .                 0               
+
+35    114       naresh rao             5-180             .                 0               
+
+36    120       suresh                 5-181             .                 0               
+
+37    111       rama reddy             5-181             .                 0               
+
+38    71        rama devi              5-181             .                 0               
+
+39    115       sai kumar              5-182/1           .                 0               
+
+40    117       a.venkateshwarlu       5-182/1           .                 0               
+
+41    116       g.ramana               5-182/1           .                 0               
+
+42    29        CHANDRA KUMAR          5-182             .                 600             
+
+43    104       raj kumar              5-182             .                 0               
+
+44    74        konda babu             5-182             .                 1200            
+
+45    100       mallesh                5-183             .                 150             
+
+46    87        manohar rao            5-184             .                 200             
+
+47    35        ARAVIND KUMAR          5-185             .                 450             
+
+48    36        NARENDRA SHARMA        5-187             .                 750             
+
+49    37        GAYNESHWAR             5-188             .                 450             
+
+50    102       y.v.l.narayana         5-190             .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    73        janga reddy            5-191             .                 0               
+
+52    95        laxmi                  5-191             .                 0               
+
+53    38        RAMA KRISHNA           5-191             .                 900             
+
+54    40        RAJINI KUMAR           5-191             .                 750             
+
+55    41        SHESHAIAH              5-192             .                 0               
+
+56    42        MURTHY                 5-194/1           .                 300             
+
+57    65        lalitha                5-194             .                 500             
+
+58    43        CHENNA REDDY           5-195             .                 300             
+
+59    62        SRINIVAS RAO	          5-197/1           .                 600             
+
+60    78        g.prasad               5-197/2           ..                1200            
+
+61    48        SURESH                 5-197/2           .                 150             
+
+62    88        bhaskar                5-197/2           .                 150             
+
+63    94        ankulu                 5-197/2           .                 0               
+
+64    101       s.prasad               5-197             .                 0               
+
+65    51        DAMODAR                5-198             .                 0               
+
+66    52        PRABHAKAR              5-199             .                 150             
+
+67    99        madhava reddy          5-200             .                 0               
+
+68    56        SUDHAKAR REDDY         5-201             .                 700             
+
+69    103       hari dass              5-202             .                 0               
+
+                                                                    	----------
+                                                                    	27850
+                                                                    	----------
+
+                                END OF THE REPORT

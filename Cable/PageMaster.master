@@ -1,0 +1,221 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="PageMaster.master.cs" EnableTheming="true"
+    Inherits="PageMaster" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register TagPrefix="cc1" Namespace="ACCSYS" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Accounting System</title>
+    <meta http-equiv = "X-UA-Compatible" content = "IE=EmulateIE7" />
+    <link href="App_Themes/DefaultTheme/DefaultTheme.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/DefaultTheme/calendar.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/DefaultTheme/ComboBox.css" rel="Stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="Scripts/calendar_eu.js"></script>
+    <script language="javascript" type="text/javascript" src="Scripts/JScript.js"></script>
+
+    <style type="text/css">
+        .style1
+        {
+            height: 39px;
+        }
+        .style2
+        {
+            height: 100%;
+        }
+    </style>
+</head>
+<body onload="clock()">
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" AsyncPostBackTimeout="6000"
+        OnAsyncPostBackError="ScriptManager1_AsyncPostBackError">
+    </asp:ScriptManager>
+    <div class="container">
+        <!-- Container Div -->
+        <div class="innertube">
+            <!-- Inner Div -->
+            <div class="header">
+                <!-- Header Div -->
+                <h2>
+                    J&J Technologies</h2>
+            </div>
+            <!-- Header Div -->
+            <div class="spacer3">
+                <div class="msgCont">
+                    <div class="dateDtl">
+                        <table align="left" cellspacing="2px" cellpadding="0" border="0" style="margin-top: -20px; vertical-align:middle">
+                            <tr style="display:none">
+                                <td colspan="2">
+                                    Company Code :&nbsp; <asp:Label ID="lblCompany" runat="server"></asp:Label>
+                                </td>
+                            </tr>
+                            <tr style="display:none">
+                                <td colspan="2" style="text-align:left">        
+                                    Welcome&nbsp;
+                                    <asp:Label ID="lblUser" runat="server"></asp:Label>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="dateDtl" style="display:none">
+                    <table align="left" cellspacing="2px" cellpadding="0" border="0" style="margin-top: -10px;">
+                      <tr>
+                       <td>
+                        <!-- Message Display Div -->
+                                    <asp:Label ID="uiDateTimeLabel" runat="server"></asp:Label>
+                                    <asp:Label ID="lblTitle" runat="server"></asp:Label>
+                       </td>
+                      </tr>
+                    </table>
+                    </div>
+                    <div class="logoutDiv">
+                        <div id="signOut" title="Signout">
+                            <!-- Signout Div -->
+                            <asp:LinkButton ID="lnkLogout" CausesValidation="false" runat="server"
+                                CssClass="signOut" OnClick="lnkLogout_Click"></asp:LinkButton>
+                        </div>
+                        <!-- Signout Div -->
+                        <div id="help" title="Help">
+                            <!-- Help -->
+                            <asp:LinkButton ID="lnkHelp" runat="server" CssClass="help" CausesValidation="false"></asp:LinkButton>
+                        </div>
+                        <!-- Help -->
+                    </div>
+                </div>
+            </div>
+            <div class="innerContent">
+                <!-- Main Content -->
+                <div class="leftCont">
+                    <div class="leftDiv">
+                        <!-- Menu Div -->
+                        <div class="menuBody">
+                            <!-- Menu Body -->
+                            <div id="mainMenu">
+                                <div class="shadow">
+                                <cc1:navbar id="Navbar2" runat="server" ReplaceOnNavigate="False">
+				                    <defaultitemstyle selected="selecteditem" base="item" hover="hoveritem"></defaultitemstyle>
+				                    <blocks>
+					                    <cc1:navbarblock Text="Subscriber Management" >
+						                    <Items>
+						                        <cc1:navbaritem Roles="*" NavigateUrl="./Default.aspx" Text="Home" Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="AREAMST" NavigateUrl="./AreaMaster.aspx" Text="Area Master"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="CUSTMST" NavigateUrl="./CustomerSearch.aspx" Text="Customer Master"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="MNGBK" NavigateUrl="./ManageBooks.aspx" Text="Manage Books"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="CAHSENT" NavigateUrl="./BookCashEntry.aspx" Text="Cash Entry"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="CASHADJ" NavigateUrl="./ModifyCash.aspx" Text="Cash Adjustments"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="INSCSADJ" NavigateUrl="./ModifyInstCash.aspx" Text="Installation Cash Adjustments"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="BALADJ" NavigateUrl="./AdjustmentEntry.aspx" Text="Balance Adjustments"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="GENRECPT" NavigateUrl="./GenerateReceipt.aspx" Text="Generate Receipt"  Selected="False"></cc1:navbaritem>
+						                    </Items>
+					                    </cc1:navbarblock>
+					                     <cc1:navbarblock Text="Account Management">
+						                    <items>
+						                        <cc1:navbaritem Roles="GRPINFO1" NavigateUrl="./Groupinfo.aspx" Text="Group Information" Description="Group Information" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="LEDGINFO1" NavigateUrl="./LedgerInfo.aspx" Text="Ledger Information" Description="Ledger Information" Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="PAYMENT1" NavigateUrl="./Payments.aspx" Text="Payments"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="RECEIPTS1" NavigateUrl="./Receipts.aspx" Text="Receipts" Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="JOURNALS1" NavigateUrl="./Journals.aspx" Text="Journals" Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="UPDTRANS01" NavigateUrl="./UpdateTransactions.aspx" Text="Update Transactions"  Selected="False"></cc1:navbaritem>
+							                </items>  
+					                    </cc1:navbarblock>
+					                    <cc1:navbarblock Text="Asset Management">
+						                    <items>
+                                                <cc1:navbaritem Roles="ASSDTLS" NavigateUrl="./AssetDetails.aspx" Text="Asset Details"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="ASSCAT" NavigateUrl="./AssetCategory.aspx" Text="Asset Category"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="ASSMST" NavigateUrl="./AssetMaster.aspx" Text="Asset Master"  Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="PURCHASE1" NavigateUrl="./Purchase.aspx" Text="Purchase"  Selected="False"></cc1:navbaritem>						                    
+							                 </items>  
+					                    </cc1:navbarblock>
+					                    <cc1:navbarblock Text="Reports">
+						                    <items>
+						                        <cc1:navbaritem Roles="DUELSTRPT,CASHRPT,BILLRPT,CSHOUTANY,ADJREPT,BNKSTRPT,LEDGRPT,DAYBKREPRT,ASSDETRPT,BUSTRNSRPT,FRDCHKRPT,BKENTRPT,TRBALRPT,BALSHTRPT,PRLSSRPT,MNTCMPRPT" NavigateUrl="./Reports.aspx" Text="Reports"  Selected="False"></cc1:navbaritem>
+						                    </items>
+						                </cc1:navbarblock>
+					                    <cc1:navbarblock Text="Security">
+						                    <items>
+						                        <cc1:navbaritem Roles="COMPINFO" NavigateUrl="./CompanyInfo.aspx" Text="Company Information" Description="Company Information" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="SMSCONFIG" NavigateUrl="./SMSConfig.aspx" Text="SMS Configuration" Description="SMS Configuration" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="SYSCONFIG" NavigateUrl="./Configuration.aspx" Text="System Configuration" Description="System Configuration" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="RECON" NavigateUrl="./ReconDate.aspx" Text="Change ReconDate" Description="Change ReconDate" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="MNGUSRS" NavigateUrl="./UserMaintenance.aspx" Text="Manage Users" Description="Manage Users" Selected="False"></cc1:navbaritem>
+						                        <cc1:navbaritem Roles="*" NavigateUrl="./ChangePassword.aspx" Text="Change Password" Description="Change Password" Selected="False"></cc1:navbaritem>
+							                    <cc1:navbaritem Roles="*" NavigateUrl="./Login.aspx" Text="Sign Out" Description="Sign Out" Selected="False"></cc1:navbaritem>
+						                    </items>
+					                    </cc1:navbarblock>
+				                    </blocks>
+				                    <defaultblockstyle closed="closedheader" itemarea="itemarea" expanded="openheader"></defaultblockstyle>
+			                    </cc1:navbar>
+                                </div>                               
+                            </div>
+                            <!-- Main Menu -->
+                        </div>
+                        <!-- Menu Body -->
+                        <div class="menuFoot">
+                            <!-- Menu Footer -->
+                            <div class="leftTbl">
+                                
+                            </div>
+                            <div class="midTbl">
+                                &nbsp;&nbsp;
+                            </div>
+                            <div class="rightTbl">
+                                
+                            </div>
+                        </div>
+                        <!-- Menu Footer -->
+                    </div>
+                    <!-- Menu Div -->
+                </div>
+                <div class="rightCont">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr id="rowTab" runat="server">
+                            <td>
+                                <asp:ContentPlaceHolder ID="cplhTab" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="middle">
+                                <!--<div id="height" style="height: 30px">
+                                </div> -->
+                                <asp:UpdateProgress runat="server" ID="uProcess1">
+                                    <ProgressTemplate>
+                                        <progresstemplate>        
+                                            <div id="divLoading" class="divCenter" >
+                                                <table border="0" cellpadding="0" cellspacing="0" align="center" width="95%" height="95%">
+                                                    <tr>
+                                                        <td class="style1">Please Wait....</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top" class="style2">
+                                                            <img id="imgLoading" src="App_Themes/DefaultTheme/Images/ajax-loader.gif" align="absmiddle" vspace="0" hspace="0" style="vertical-align:middle" />    
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                        </progresstemplate>
+                                    </ProgressTemplate>
+                                </asp:UpdateProgress>
+                                <div style="vertical-align:top">
+                                <asp:ContentPlaceHolder ID="cplhControlPanel" runat="server">
+                                </asp:ContentPlaceHolder>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <!-- Main Content -->
+		    <div class="footerDiv">																	<!-- Footer -->
+			    <div class="footText">
+				    Copyrights &#169; J & J Technologies 2010. All Rights Reserved
+			    </div>
+		    </div>																					<!-- Footer -->
+		    <div class="spacer1">
+			&nbsp;
+		    </div>      
+		 </div>
+        <!-- Inner Div -->
+    </div>
+    <!-- Key Features Div -->
+    </form>
+</body>
+</html>

@@ -1,0 +1,155 @@
+
+                                     DUE LIST
+                                     --------
+Area : SAI VIHAR NAGAR
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     83        MUTHYALU               hut               .                 750             
+
+2     15        SHIVA                  WATCH MAN         SRIJA HOMES       750             
+
+3     6         HARIKA                 G-1               SRIJA HOMES       750             
+
+4     67        raja mani              g-2               .                 200             
+
+5     8         SAILAJA                G-4               SRIJA HOMES       550             
+
+6     96        prakesh                p-47              .                 150             
+
+7     9         PRASAD                 P-101             SRIJA HOMES       750             
+
+8     11        CHARY                  P-102             SRIJA HOMES       300             
+
+9     95        k.n.murthy             p-103             .                 0               
+
+10    12        PRAVEEN                P-203             SRIJA HOMES       300             
+
+11    14        SASHI                  P-301             SRIJA HOMES       350             
+
+12    63        NARSIMHA CHARY         P-303             .                 150             
+
+13    50        anitha                 p-304             srija homes       0               
+
+14    90        vinay kumar            4-13/1            .                 300             
+
+15    28        MANHOUR                4-66/3            .                 600             
+
+16    4         SRINIVAS               4-76/2            .                 1400            
+
+17    3         RAGAVA REDDY           4-76/2            .                 300             
+
+18    29        RAM RAO                4-84/4            .                 1050            
+
+19    81        krishna mohan          5-12              ..                1500            
+
+20    98        krishna                5-14              .                 0               
+
+21    45        durga prasad           5-30              .                 1650            
+
+22    47        sri laxmi              5-75/2            .                 1500            
+
+23    84        geetha                 5-76/2            ..                250             
+
+24    93        manohar                5-76/2            .                 300             
+
+25    89        venkat reddy           5-76/2            .                 450             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    94        pandu                  5-76/2            .                 400             
+
+27    65        eashwar                5-76/2            .                 1650            
+
+28    82        manju                  5-76/2            .                 1000            
+
+29    17        PRADHASAROTHI          5-79              .                 0               
+
+30    71        RAVINDER REDDY         5-79              .                 0               
+
+31    75        PRABHAKAR              5-84/A            .                 550             
+
+32    23        BRAHMAIAH              5-84/1            .                 200             
+
+33    30        KRSHNA                 5-84/1            .                 0               
+
+34    49        ramulu                 5-84/1            .                 300             
+
+35    62        NANIYA                 5-84/1            .                 200             
+
+36    79        mahesh                 5-84/1            .                 1500            
+
+37    87        venkat rama rao        5-84/1            .                 1050            
+
+38    91        venkat ramana          5-84/1            .                 150             
+
+39    104       srinivas rao           5-84/1            .                 0               
+
+40    69        nikhal                 5-84/1            .                 1050            
+
+41    99        krishna                5-84/1            .                 150             
+
+42    76        MONESH                 5-84/1/6          .                 1350            
+
+43    101       nikhal                 5-84/1/a          .                 0               
+
+44    103       narsimha reddy         5-84/1/b          .                 0               
+
+45    102       mahesh                 5-84/1/b          .                 0               
+
+46    88        somu                   5-84/2            .                 400             
+
+47    26        NARSIMHA               5-84/2            .                 150             
+
+48    25        LAXAMMA                5-84/2            .                 750             
+
+49    58        k.srinivas rao         5-84/3            .                 1350            
+
+50    54        NARSIMAHA REDDY        5-84/4            .                 1350            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    56        HANMATH                5-84/6            .                 300             
+
+52    80        raja reddy             5-84              .                 0               
+
+53    92        subesh                 5-85/1            ...               300             
+
+54    105       nagaraju               5-85/2/1          .                 0               
+
+55    51        srinivas rao           5-88/1            .                 0               
+
+56    70        NARAYANA GOUD          5-88/1            .                 100             
+
+57    38        JANARDHAN              5-91/2            .                 800             
+
+58    97        rama krishna           5-92              .                 150             
+
+59    72        kalayam                5-92              .                 600             
+
+60    106       srisha                 5-92              .                 0               
+
+61    35        SATESH                 5-92              .                 0               
+
+62    34        SRISALAM GOUD          5-93/1            .                 0               
+
+63    85        Naik                   5-93/2            ..                1500            
+
+64    86        d.v.s.rao              5-182/1           .                 1200            
+
+65    78        ravi                   5-184/A/2         .                 150             
+
+66    100       ravi kumar             202               srija homes       150             
+
+                                                                    	----------
+                                                                    	33100
+                                                                    	----------
+
+                                END OF THE REPORT

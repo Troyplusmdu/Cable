@@ -1,0 +1,63 @@
+
+                                     DUE LIST
+                                     --------
+Area : harihara puram
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     5         laxman rao             291-303           hariharapuram     0               
+
+2     6         srinivas               291-303           hariharapuram     -20             
+
+3     7         maheshwara chary       291-303           hariharapuram     0               
+
+4     25        jaya                   295-300           hariharapuram     0               
+
+5     27        rajitha                302               hariharapuram     180             
+
+6     4         amar                   303               hariharapuram     0               
+
+7     15        anantharama rao        308               hariharapuram     0               
+
+8     29        p.shaker               308               harihara puram    0               
+
+9     3         ravishankar            317               hariharapuram     0               
+
+10    1         bhanumurthy            320               hariharapuram     0               
+
+11    22        p.srinivas reddy       322               hariharapuram     390             
+
+12    8         ranganatham chary      324               hariharapuram     0               
+
+13    9         ramulu                 324opp(gudisa)    hariharapuram     760             
+
+14    24        ramu                   325(gudisa)       hariharapuram     180             
+
+15    10        krishna reddy          326               hariharapuram     0               
+
+16    11        venkatramana           327               hariharapuram     0               
+
+17    12        s.v.s.raju             327               hariharapuram     0               
+
+18    18        ch.sureshbabu          327               hariharapuram     0               
+
+19    19        ranga reddy            327               hariharapuram     0               
+
+20    13        s.janardhan swamy      328               hariharapuram     0               
+
+21    26        andamma                330               hariharapuram     0               
+
+22    30        praveen kumar          331               harihara puram    -180            
+
+23    17        shankar goud           347               hariharapuram     0               
+
+24    28        s.ramulu               362               harihara puram    0               
+
+                                                                    	----------
+                                                                    	1310
+                                                                    	----------
+
+                                END OF THE REPORT

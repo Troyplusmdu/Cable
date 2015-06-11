@@ -1,0 +1,727 @@
+
+                                     DUE LIST
+                                     --------
+Area : VSPM(HUDASAI NAGAR)
+Order By : name
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     353        M D VAREES            22                HUDASAI           4080            
+
+2     365       .....                  71                .                 2210            
+
+3     14        A. NARSHIMA            6                                   3740            
+
+4     157       A. PRASAD              233                                 4120            
+
+5     8         A. SATYANARAYANA       5                                   4080            
+
+6     118       A. SRINIVAS REDDY      4-13-35                             4250            
+
+7     131       A. TIRUMALA            24                                  4250            
+
+8     154       A.K. RAO               135/13                              4250            
+
+9     311       ABDUL LATIF            36                                  4080            
+
+10    54        ABIJITHI               28                                  3900            
+
+11    316       ACHI REDDY             158                                 4250            
+
+12    265       AJAY RAY               213                                 4310            
+
+13    270       ANAND REDDY            212                                 4250            
+
+14    140       ANJAYA                 14                                  3730            
+
+15    123       ANJE REDDY             64                                  3600            
+
+16    96        ANJU REDDY             54                                  3910            
+
+17    256       ARVIND REDDY           146                                 3980            
+
+18    335       ASHOK REDDY            999/1                               4420            
+
+19    172       AUDIO CD CENTER        129                                 2700            
+
+20    28        B. KUMAR BABU          16/K                                4080            
+
+21    112       B. SRINIVAS REDDY      4-13-26                             4080            
+
+22    68        B. SUBHANKAR           74                                  3560            
+
+23    97        B.S. REDDY             54                                  4080            
+
+24    320       BABU RAO               120                                 3900            
+
+25    124       BAL REDDY              64                                  4480            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    253       BAL REDDY              184                                 4250            
+
+27    233       BAL REDDY              156                                 4590            
+
+28    212       BALA RAJU              20/B                                4250            
+
+29    328       BALAJI                 118                                 4250            
+
+30    143       BANU PRAKESH           246                                 4080            
+
+31    292       BARATHAMMA             215                                 4420            
+
+32    95        BASKAR REDDY           47                                  3500            
+
+33    159       BASWAVA RAJU           240                                 3710            
+
+34    227       BHARATHI MAJE          135                                 3610            
+
+35    197       BHASKAR REDDY          17                                  4270            
+
+36    151       BHASKAR(PAREMALA)      133                                 7310            
+
+37    152       BHAVALITHA             134                                 4080            
+
+38    182       BISHKAMMAIAH           228                                 4250            
+
+39    252       BISHKAMMAIAH           144                                 4080            
+
+40    155       C. NARASHIMA           234                                 4080            
+
+41    138       C. VENKATESH           14                                  4270            
+
+42    198       CARPENTER              17                                  3900            
+
+43    38        CH. MANHOR REDDY       8                                   4100            
+
+44    12        CH. VENKANTA NARAYAN   6                                   4250            
+
+45    260       CH. VENU MADHAV        149                                 4590            
+
+46    242       CHANDRA MOULI          172                                 4270            
+
+47    50        CHENNA REDDY           30                                  4250            
+
+48    193       CHINNA                 21/5                                4080            
+
+49    183       D. NARASHIMA           984                                 4080            
+
+50    274       DAMODHAR               188                                 4250            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    213       DAMODHAR REDDY         996                                 4340            
+
+52    83        DATTA GANESH           40                                  3910            
+
+53    195       DD.SAPATAGIRI          21/4                                3750            
+
+54    56        DEELIP                 27                                  4610            
+
+55    266       DEVINDAR               213                                 4080            
+
+56    136       DEVINDER               22                                  4080            
+
+57    62        DHAMODHAR REDDY        25                                  4080            
+
+58    319       DHARMDHAR              1                                   4080            
+
+59    99        DHAYANADHAM            54                                  4080            
+
+60    4         DILEP                  3                                   4040            
+
+61    220       DISHULU                226                                 4270            
+
+62    330       DV. SUBRAMANYAM        27                                  4080            
+
+63    363       G. HARI HARA PRASAD    198               .                 4080            
+
+64    329       GANAPATHI TRANSPORT    67                                  4250            
+
+65    165       GANESH NADIU           122                                 4250            
+
+66    275       GOIAL                  188                                 4080            
+
+67    336       GUJARATHI              27                .                 4080            
+
+68    163       HANTHUMA               141                                 4080            
+
+69    333       HANUMAN ENTERPRISES    135                                 4590            
+
+70    290       ILAHAIAH               205                                 4250            
+
+71    129       J. GOPAL               24                                  4420            
+
+72    92        J. LILA                49                                  3580            
+
+73    262       JAI PAL REDDY          158                                 4250            
+
+74    273       JANAGA REDDY           188                                 4250            
+
+75    86        JANARDHAN REDDY        40                                  4080            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    343       JANGA REDDY            11                .                 4250            
+
+77    84        JANGAYA GOUD           40                                  4080            
+
+78    348       jayaram                260               hudasai           4080            
+
+79    72        JUGAL KISHOR           77                                  4250            
+
+80    191       JYOTHI                 20/10                               4080            
+
+81    57        JYOTHI MISSERA         77                                  4080            
+
+82    350       k suvarna              20/A              huda sai          4100            
+
+83    310       K. INDRA REDDY         129                                 4590            
+
+84    360       K. JANGANATH           115               .                 4080            
+
+85    44        K. MUHARHAR RAO        18                                  3600            
+
+86    357       K. PRAKESH             116               .                 4080            
+
+87    3         K. PRATHAP             1                                   3430            
+
+88    282       K. RAMESH              197                                 4080            
+
+89    61        K. SURSHDAN REDDY      25                                  4250            
+
+90    119       K. VENKATESHWAR REDD   4-13-35                             4250            
+
+91    305       K.L.NARAYANA           120                                 4080            
+
+92    225       KADHAR                 136                                 3540            
+
+93    234       KALADHAR REDDY         146                                 4080            
+
+94    58        KIRAN                  27                                  3950            
+
+95    240       KIRANA SHOP            137                                 3900            
+
+96    235       KONDAL REDDY           137/136                             2500            
+
+97    46        KOTESHWAR RAO          18                                  4250            
+
+98    122       KOTESHWAR RAO          250                                 4420            
+
+99    264       KRISHNA                159                                 3980            
+
+100   263       KRISHNA                157                                 4440            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   133       KRISHNA MOHAN          22                                  4250            
+
+102   87        KRISHNA PRASAD         11                                  4080            
+
+103   175       KRISHNAIAH             231                                 4080            
+
+104   245       KURPAKAR REDDY         181                                 4250            
+
+105   184       LADDY TAILOR           23                                  3850            
+
+106   132       LAKSHMI                22                                  4080            
+
+107   251       LAKSHMI NARAYANA       144                                 4080            
+
+108   35        LALATHA SREE           9                                   3750            
+
+109   115       LALITHA NADIU          4-13-35                             4080            
+
+110   359       LAXMI                  134               .                 4080            
+
+111   358       LAXMI KANTH REDDY      116               .                 4080            
+
+112   340       LAXMI NARAYANA         134               .                 4120            
+
+113   314       LINGA SWAMY            4                                   3690            
+
+114   21        LOTUS LAP SCHOOL       6/K                                 4080            
+
+115   164       M. BUCHI REDDY         63                                  4080            
+
+116   160       M. D. AZAM             123                                 3580            
+
+117   199       M. DHARMA REDDY        20/B                                4100            
+
+118   354       M. KARTHIK             P-18              .                 4080            
+
+119   111       M. RAJE REDDY          4-13-26                             4080            
+
+120   15        M. SHANKAR             6/B                                 4270            
+
+121   222       M.D. KAMAL             168                                 4080            
+
+122   144       MADHAN                 246                                 4590            
+
+123   294       MADHAV RAO             218                                 4250            
+
+124   134       MADHU                  22                                  4440            
+
+125   39        MADHUSHAN REDDY        7                                   4010            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   345       MAHESH KUMAR           187               .                 3750            
+
+127   217       MAHIPAL REDDY          227                                 4140            
+
+128   141       MALIKARJUNA            14                                  4240            
+
+129   79        MALLA REDDY            37                                  4250            
+
+130   5         MALLA REDDY            3                                   4150            
+
+131   180       MALLA REDDY            229                                 4440            
+
+132   11        MALLAKARJUN            6                                   4250            
+
+133   315       MALLESH                14                                  3900            
+
+134   128       MALLESH                24                                  4440            
+
+135   223       MOHAN REDDY            168                                 3690            
+
+136   19        MUNNA BAI              5/K                                 4590            
+
+137   326       MURTHY                 260                                 4390            
+
+138   48        N. SATIAH              31                                  4080            
+
+139   64        N.D. YAS               77                                  4080            
+
+140   37        N.L. NARAYANA          10                                  4250            
+
+141   307       NAGABUSHANAM           20/B                                4420            
+
+142   255       NAGESH WAR RAO         146                                 4250            
+
+143   110       NAGESHWAR RAO          59/C                                4100            
+
+144   238       NARASHIMA              137                                 4250            
+
+145   45        NARASHIMA REDDY        18                                  4080            
+
+146   261       NARASHIMA REDDY        158                                 4420            
+
+147   10        NARAYANA               5                                   4250            
+
+148   337       NARESH                 217               .                 4080            
+
+149   283       NARSAI REDDY           196                                 4100            
+
+150   189       NARSHIMAREDDY          20/A                                3600            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   219       NARSI REDDY            227                                 4160            
+
+152   214       NARSINGH               172                                 4250            
+
+153   116       NEEHAR                 4-13-35                             4460            
+
+154   74        NEERAJ KULAKARNI       74                                  4080            
+
+155   334       NS. NARAYANA           128                                 4250            
+
+156   77        OM . PRAKESH           36                                  4080            
+
+157   26        P- PREMANDHAR SINGH    14                                  3670            
+
+158   190       P. BASWA REDDY         20/A                                4250            
+
+159   47        P. MADHUSUDHAN REDDY   18                                  4080            
+
+160   156       P. MANIK REDDY         233                                 4080            
+
+161   101       P. SRINU               60                                  4080            
+
+162   244       P. YADI REDDY          181                                 4440            
+
+163   107       PADMA                  175                                 3880            
+
+164   170       PADMA                  118                                 4590            
+
+165   81        PADMA REDDY            37                                  3930            
+
+166   32        PALLURI LALITHALUNDU   9                                   4140            
+
+167   269       PANDU                  213                                 4270            
+
+168   306       PANDU RANGA REDDY      187                                 3600            
+
+169   295       PRABAKAR REDDY         216                                 4250            
+
+170   364       PRABHAKAR REDDY        145               .                 4080            
+
+171   148       PRABHAKAR REDDY        248                                 4100            
+
+172   162       PRAKESH                69                                  4250            
+
+173   313       PRAPAT REDDY           996                                 4250            
+
+174   352       PRASADARAO             20/A              HUDASAI NAGAR     3750            
+
+175   207       PRAVEEN                PAPERS                              4080            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   146       PRAVEEN HAIR DREDD     246                                 4250            
+
+177   18        PRAVEEN KUMAR          5/K                                 4080            
+
+178   167       PRAVEEN KUMAR          123                                 4250            
+
+179   103       PRAVEEN KUMAR          4-13-30                             4100            
+
+180   185       PRAVEEN REDDY          986/2                               4080            
+
+181   145       PRINCE TAILOR          246                                 3730            
+
+182   29        PUNAIAH                9                                   4080            
+
+183   347       r f c                  23                huda sai          4250            
+
+184   31        R. BISHWAR             9                                   4080            
+
+185   224       R. LAXMAIAH            135                                 4390            
+
+186   25        R. SWAMY               14                                  4080            
+
+187   341       R.F.C                  157               .                 4420            
+
+188   108       R.L. SHARMA            57                                  4080            
+
+189   80        R.P. DATHODE           37                                  4080            
+
+190   24        RADHA SHANKAR          14                                  4250            
+
+191   228       RAGHUNATH REDDY        135                                 3710            
+
+192   231       RAJA RAM               173                                 4420            
+
+193   355       RAJAMAIAH              33                .                 4080            
+
+194   268       RAJAMMA                213                                 3760            
+
+195   174       RAJE REDDY             231                                 4080            
+
+196   70        RAJENDHAR SINGH        77                                  4250            
+
+197   248       RAJESH SHARMA          182                                 4080            
+
+198   331       RAJESHEKAR             20/A                                4250            
+
+199   158       RAJU                   240                                 3900            
+
+200   6         RAKESH MANTHI          3                                   3580            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   236       RAM CHANDRA REDDY      137                                 3710            
+
+202   309       RAM LINGAM             215                                 4080            
+
+203   102       RAM REDDY              60                                  3930            
+
+204   209       RAM REDDY              999/A                               4250            
+
+205   91        RAM SINGH              47                                  4080            
+
+206   202       RAMA CHANDRA REDDY     20/D                                4270            
+
+207   88        RAMA KISHAN            46                                  4250            
+
+208   161       RAMA KRISHNA           63                                  4250            
+
+209   196       RAMA LINGAM            17                                  4250            
+
+210   51        RAMA RAO               28                                  4260            
+
+211   287       RAMA SWAMY             201                                 4080            
+
+212   361       RAMANA MURTHY          30                .                 4080            
+
+213   216       RAMANA REDDY           61                                  4080            
+
+214   76        RAMBABU                11                                  4080            
+
+215   63        RAMCHANDRAYA           25/A                                4080            
+
+216   67        RAMESH                 77                                  4050            
+
+217   318       RAMESH                 135                                 3750            
+
+218   166       RAMESH DWL             122                                 4420            
+
+219   279       RANGA REDDY            194                                 4140            
+
+220   127       RAVI                   24                                  4250            
+
+221   221       RAVI                   168                                 4080            
+
+222   153       RAVI                   134                                 4250            
+
+223   211       RAVI KUMAR             20/B                                4080            
+
+224   34        RAVI NARAYAN SAMAL     9                                   3730            
+
+225   120       RAVINDHAR GOUD         250                                 3430            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   280       RAVINDHAR REDDY        210                                 4250            
+
+227   208       S. INDRA               992                                 3850            
+
+228   215       S. SANJEEV REDDY       999/A/1                             4140            
+
+229   20        S.K. MALAM             5/K                                 4220            
+
+230   73        S.V. PONDA             74                                  3730            
+
+231   126       S.V.R. ENTERPRISES     24                                  4420            
+
+232   100       SADHANDHA REDDY        54                                  4080            
+
+233   71        SAGRAM                 77                                  4250            
+
+234   241       SAI BABA               172                                 4180            
+
+235   78        SAI BABA               36                                  3710            
+
+236   33        SANJAY DAS             9                                   3560            
+
+237   210       SANJEEV REDDY          999/A                               4120            
+
+238   98        SATHI REDDY            54                                  4080            
+
+239   308       SATI REDDY             967                                 4250            
+
+240   168       SATI REDDY             128                                 4250            
+
+241   258       SATYAM                 147                                 4250            
+
+242   187       SATYANARAYANA          51/1/B                              4250            
+
+243   285       SATYANARAYANA          207                                 4080            
+
+244   36        SATYANARAYANA          8/B                                 4270            
+
+245   13        SATYANARAYANA          6                                   4080            
+
+246   296       SATYANARAYANA          203                                 4250            
+
+247   137       SATYANARAYANA          14                                  4250            
+
+248   284       SATYANARAYANA          200                                 4250            
+
+249   205       SATYANARAYANA          22/A/2                              4080            
+
+250   321       SATYANARAYANA          129                                 3710            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   324       SATYANARAYANA          212                                 3860            
+
+252   322       SATYANARAYANA          205                                 4590            
+
+253   327       SHAKER                 141                                 4250            
+
+254   257       SHANKAR RAO            147                                 4420            
+
+255   250       SHANKARYA              144                                 4250            
+
+256   27        SHARMA                 15                                  4420            
+
+257   7         SHEKAR                 5                                   4080            
+
+258   325       SHEKAR                 23                                  4420            
+
+259   254       SHEKAR REDDY           146                                 3900            
+
+260   281       SHUEEL METTAL          209                                 4080            
+
+261   109       SINGH                  57                                  3910            
+
+262   356       SITARA                 33                .                 4080            
+
+263   178       SOMAIAH                230                                 3730            
+
+264   338       SREE HARI              122               .                 4080            
+
+265   121       SRIKANTH               259                                 4670            
+
+266   17        SRINIVAS               5/K                                 4250            
+
+267   188       SRINIVAS RAO           982                                 4250            
+
+268   232       SRINIVAS REDDY         173                                 4080            
+
+269   90        SRINIVAS REDDY         47                                  4270            
+
+270   229       SRINIVAS REDDY         135                                 3690            
+
+271   288       SRINIVAS REDDY         205                                 4080            
+
+272   277       SRINIVAS REDDY         194                                 4080            
+
+273   271       SRINIVAS REDDY         RTA                                 2700            
+
+274   43        SRINIVAS REDDY         17                                  4420            
+
+275   194       SRINU                  21/5                                4080            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   297       SUBANI                 203                                 4250            
+
+277   206       SUBBA RAO              25                                  4610            
+
+278   230       SUDHAKAR               172                                 4100            
+
+279   82        SUDHAKAR REDDY         37                                  3730            
+
+280   59        SUDHEER                27                                  4270            
+
+281   339       SUHEEL                 74                .                 4100            
+
+282   147       SUMANTH                248                                 3600            
+
+283   89        SUNITHA PALPUNA        46                                  4250            
+
+284   105       SURAYANA NARAYANA      4-13-30                             4080            
+
+285   179       SURENDHAR REDDY        229                                 3900            
+
+286   272       SURENDHAR REDDY        212                                 3710            
+
+287   169       SURENDHAR REDDY        128                                 3580            
+
+288   104       SURENDHAR REDDY        4-13-30                             4270            
+
+289   342       SURESH                 187               .                 4250            
+
+290   239       SURESH                 137                                 4250            
+
+291   276       SURESHDHAN RAO         196                                 4080            
+
+292   204       SWAMY REDDY            22/A/2                              4080            
+
+293   243       SWEET SHOP             172                                 4200            
+
+294   117       T. VENKATESH           4-13-35                             4420            
+
+295   42        TEMPLE                 ......                              2510            
+
+296   94        TIRUMALASH             49                                  3430            
+
+297   171       TRIMULA REDDY          129                                 4080            
+
+298   323       UPPALAIAH              HALL                                4660            
+
+299   362       V. NARAYANA RAO        172               .                 4080            
+
+300   332       VASU DEVA SHARMA       20/B                                4250            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+301   41        VENKAT RAMA RAO        11/A                                3780            
+
+302   312       VENKAT REDDY           181                                 3860            
+
+303   218       VENKAT REDDY           227                                 4100            
+
+304   349       venkat reddy           118               hudasai nagar     4080            
+
+305   291       VENKAT REDDY           SWAGTH BAR205                       2600            
+
+306   289       VENKAT REDDY           205                                 4100            
+
+307   16        VENKAT REDDY           4/K                                 4080            
+
+308   259       VENKAT REDDY           147                                 3860            
+
+309   192       VENKAT REDDY           20/A                                4500            
+
+310   278       VENKATA RAMANA         194                                 3710            
+
+311   93        VENKATESAM             49                                  4100            
+
+312   177       VENKATESH              230                                 4270            
+
+313   85        VENKATESH              40                                  4250            
+
+314   186       VENKATESH              229                                 4440            
+
+315   142       VENKATESH              246                                 4030            
+
+316   113       VENKATESH              260                                 3760            
+
+317   246       VENKATESHWAR SWEETS    181                                 3690            
+
+318   249       VENKATESHWARULU        182                                 3690            
+
+319   75        VENKATESWAR RAO        11                                  3860            
+
+320   52        VENKATRAMAIAH          28                                  4050            
+
+321   237       VIJAYA REDDY           136/137                             4250            
+
+322   344       VIJAYAKRISHNA          133               .                 4420            
+
+323   346       VIKRAM REDDY           17                .                 3730            
+
+324   203       VISHNU VARDHAN REDDY   24/5                                4080            
+
+325   53        VNUTHU                 28                                  3600            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+326   125       WACHMEN                64                                  2400            
+
+327   317       Y.K.SONY               25                                  4050            
+
+328   293       YADHAMMA               217                                 4080            
+
+329   351       YADHI REDDY            20/D              HUDA SAI          4100            
+
+330   267       YESPRABU               213                                 4450            
+
+                                                                    	----------
+                                                                    	1346600
+                                                                    	----------
+
+                                END OF THE REPORT

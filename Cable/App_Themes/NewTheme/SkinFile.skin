@@ -1,0 +1,74 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:GridView runat="server" AutoGenerateColumns="false" PageSize="12" AllowPaging="True" BackColor="White">
+    <RowStyle CssClass="dataRow" />
+    <SelectedRowStyle CssClass="SelectdataRow" />
+    <AlternatingRowStyle CssClass="altRow" />
+    <EmptyDataRowStyle CssClass="gridTitle" />
+    <HeaderStyle Height="25px" CssClass="GrdHeaderbgClr" />
+    <FooterStyle Height="27px" CssClass="HeadataRow" />
+    <PagerStyle Height="25px"  CssClass="footer-row allPad" VerticalAlign="Middle" HorizontalAlign="Left"  />
+</asp:GridView>
+
+<asp:GridView runat="server" AutoGenerateColumns="false" PageSize="15" GridLines="None" SkinID="GrBigHeader" AllowPaging="True" >
+    <RowStyle CssClass="dataRow" />
+    <AlternatingRowStyle CssClass="altRow" />
+    <EmptyDataRowStyle CssClass="gridTitle" />
+    <HeaderStyle Height="30px" CssClass="HeadataRow" />
+    <FooterStyle CssClass="footer-row" Height="25px" />
+    <PagerStyle Height="25px"  CssClass="footer-row allPad" VerticalAlign="Middle" HorizontalAlign="Left"  />
+</asp:GridView>
+
+<asp:Button runat="server" CssClass="pageButton" SkinID="skinButtonCol"/>
+<asp:Button runat="server" CssClass="pageButton"/>
+<asp:Button runat="server" CssClass="mediumButton" SkinID="skinBtnMedium"/>
+<asp:Button runat="server" CssClass="Button" Text="Save" SkinID="skinBtnSave" width="80px"/>
+<asp:Button runat="server" CssClass="Button" Text="Update" SkinID="skinBtnUpdate" width="80px"/>
+<asp:Button runat="server" CssClass="ButtonMobile" Text="Save" SkinID="MobileBtnSave" width="140px"/>
+<asp:Button runat="server" CssClass="Button" Text="Search" SkinID="skinBtnSearch" width="90px"/>
+<asp:Button runat="server" CssClass="Button" Text="Cancel" SkinID="skinBtnCancel" width="80px"/>
+<asp:Button runat="server" CssClass="Button" Text="Back" SkinID="skinBtnBack" width="80px"/>
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtn"/>
+<asp:Button runat="server" CssClass="Button cursor" SkinID="skinBtnPrint" width="80px"/>
+<asp:Button runat="server" CssClass="Button cursor" SkinID="skinBtnDelete" width="80px"/>
+<asp:Button runat="server" CssClass="Button cursor" SkinID="skinBtnAddNew" width="100" Text="Add New"/>
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnDownload"/>
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnUpload" />
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnContnue" />
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnAddProduct" width="130px" />
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnUpdateProduct" width="130px" />
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnLookUp" width="160px"/>
+<asp:Button runat="server" CssClass="Button" SkinID="skinBtnRefresh" />
+
+<asp:ImageButton runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/Cancel.png" SkinID="GridCancel" />
+<asp:ImageButton runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/Save.png" CssClass="lPadss" SkinID="GridUpdate" />
+<asp:ImageButton SkinID="print" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/RightLink1.gif" AlternateText="Print" ToolTip="Click to Print" />
+<asp:ImageButton SkinID="edit" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/edit.png" AlternateText="Edit" ToolTip="Click to edit this item" />
+<asp:ImageButton SkinID="delete" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/delete.png" AlternateText="Delete" ToolTip="Click to delete this item" />
+<asp:ImageButton SkinID="SoftDelete" runat="server" ImageUrl="~/img/delete.gif" AlternateText="Soft Delete" ToolTip="Click to Delete this item" />
+<asp:ImageButton SkinID="Restore" runat="server" ImageUrl="~/img/restore.gif" AlternateText="Restore" ToolTip="Click to Restore this item" />
+<asp:ImageButton SkinID="BtnCancel" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/imgCancel.png" AlternateText="Save" ToolTip="Clear Details" />
+<asp:ImageButton SkinID="BtnSave" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/imgSave.png" AlternateText="Save" ToolTip="Save Details" />
+<asp:ImageButton SkinID="BtnSearch" runat="server" ImageUrl="~/App_Themes/DefaultTheme/Images/BtnSearch.png" AlternateText="Search" ToolTip="Search Details" />
+
+<asp:TextBox runat="server" CssClass="cssTextBox" SkinID="skinTxtBoxGrid" Width="150px"></asp:TextBox>
+<asp:TextBox runat="server" CssClass="cssTextBox" SkinID="skinTxtBox" Width="150px"></asp:TextBox>
+<asp:TextBox runat="server" CssClass="cssTextBox" SkinID="mobileTxtBox" Width="99%"></asp:TextBox>
+
+<asp:DropDownList runat="server" CssClass="cssDropDown" SkinId="skinDdlBox" Height="25px" Width="159px"/>
+<asp:DropDownList runat="server" CssClass="cssDropDown" SkinId="skinPagerDdlBox" Height="20" width="40px"/>
+

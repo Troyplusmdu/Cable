@@ -1,0 +1,19 @@
+
+                                     DUE LIST
+                                     --------
+Area : BNReddy colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     262       srinivas reddy(2c)     202               bnreddy           1980            
+
+2     644       ramesh                 207-209/d         bnreddy colony    1080            
+
+                                                                    	----------
+                                                                    	3060
+                                                                    	----------
+
+                                END OF THE REPORT

@@ -1,0 +1,33 @@
+
+                                     DUE LIST
+                                     --------
+Area : harithapuri colony
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     3         veeramani biscuit      biscuit company   harithapuri       400             
+
+2     14        raghu                  6-8               harithapuri       150             
+
+3     5         devendhar reddy        6-9               harithapuri       0               
+
+4     6         praveen                6-10              harithapuri       0               
+
+5     7         nagarjun reddy         6-11              harithapuri       0               
+
+6     8         s.suresh kumar         6-13              harithapuri       0               
+
+7     4         p.thirupathaya         6-15              harithapuri       0               
+
+8     1         veerana                6-27              harithapuri       0               
+
+9     13        prabhakar              302               harithapuri       750             
+
+                                                                    	----------
+                                                                    	1300
+                                                                    	----------
+
+                                END OF THE REPORT

@@ -1,0 +1,61 @@
+
+                                     DUE LIST
+                                     --------
+Area : balaji nagar ext
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     34        ramu                   p-8               .                 450             
+
+2     2         .                      p-9               .                 1010            
+
+3     33        prabhakar              p-10              .                 450             
+
+4     32        vijay                  p-14              .                 350             
+
+5     4         narender               p-15              .                 1950            
+
+6     6         bhanuprakesh           p-18              .                 100             
+
+7     29        satesh                 p-20              .                 0               
+
+8     25        SHANKAR                P-21              .                 1300            
+
+9     23        VENU GOPAL             p-22              .                 150             
+
+10    35        shivaji                p-23              .                 100             
+
+11    10        BALARI                 P-24              .                 600             
+
+12    31        ramesh                 p-25              .                 300             
+
+13    12        LOKESH                 P-26              .                 600             
+
+14    13        CHENNA REDDY           P-29              .                 600             
+
+15    27        vennla                 p-30              .                 0               
+
+16    36        nageshwar rao          p-32              .                 150             
+
+17    16        PANDU RANGADU          P-32              .                 450             
+
+18    17        SRINU                  P-33              .                 700             
+
+19    28        k.vanoesa              p-34              .                 150             
+
+20    30        venkatesh              p-35              .                 1050            
+
+21    20        SURESH BABU            P-35              .                 600             
+
+22    21        HARI KRISHNA           P-36              .                 0               
+
+23    24        RAJU                   p-36              .                 1650            
+
+                                                                    	----------
+                                                                    	12710
+                                                                    	----------
+
+                                END OF THE REPORT

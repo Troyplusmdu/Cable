@@ -1,0 +1,613 @@
+
+                                     DUE LIST
+                                     --------
+Area : VVNAGAR
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     1369      Durga prasad           .                 .                 0               
+
+2     306       I.SRINIVAS             ANM.APT(203)      V.V.NAGAR         180             
+
+3     394       venu gopal             ANMOL (301)       -                 180             
+
+4     88        GIRI RAJU              ANMOL P.H         .                 180             
+
+5     318       VIDYASAGAR             ANMOL(201)        V.V.NAGAR         180             
+
+6     1291      ajay kumar             anmol(302)        anmol(302)        0               
+
+7     1206      srinivas chary         anmol(303)        anmol(303)        180             
+
+8     1292      kashaya                anmol(w.a)        anmol(w.a)        0               
+
+9     981       SRINIVAS (PHOTO)       BUS STOP          .                 160             
+
+10    1063      chaitanya              BUS STOP          .                 180             
+
+11    664       PRATHIBA BOOK SHOP     BUS STOP          .                 160             
+
+12    1294      Darmendhra             BUS STOP(hotel)   BUS STOP(hotel)   0               
+
+13    1135      Sateesh                Bus Stop(P.H)     .                 180             
+
+14    1176      mahesh                 bus stop(ph)      bus stop(ph)      180             
+
+15    998       MURTHY                 BUS STOP(V) 7     .                 180             
+
+16    1113      Ramu (Harishop)        Busstop           .                 130             
+
+17    1293      prasad                 bustoop           bustoop           0               
+
+18    248       CVS. RAO               PRABA(F1)         -                 1980            
+
+19    48        GAYATHRI               praba(G2)         V V NGR           160             
+
+20    247       S.raju                 PRABA(S2)         -                 180             
+
+21    1297      SRINIVAS               RAG (102)         .                 0               
+
+22    1298      SRINIVAS               RAG (102)         .                 0               
+
+23    1296      Barath                 RAG (3)           RAG (3)           0               
+
+24    997       YELLAIAH               RAG (W.M)         .                 110             
+
+25    805       Vasanth kumar          RAG {302}         .                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    463       SRINIVAS               RAG(10)           .                 180             
+
+27    494       NARASIHMA              RAG(12)           .                 110             
+
+28    1187      mahesh                 Rag(13)           .                 180             
+
+29    862       SATYANARAYANA          RAG(304)          .                 10              
+
+30    669       PADMAVATHI             RAG(9)            .                 180             
+
+31    978       BALA KRISHNA           RAG(P.H)          .                 180             
+
+32    280       SATYANARAYANA          RAG.APT(101)      V.V.NAGAR         180             
+
+33    584       Sudhakar reddy         PRA.ENC(G-1)      .                 180             
+
+34    253       OMPRAKASH              RAG.APT-7         -                 160             
+
+35    1201      srinu                  15-36/2           15-36/2           180             
+
+36    1017      sujata                 15-62/A           vvnagar           180             
+
+37    13        RAMANA REDDY           15-62/1           .                 110             
+
+38    1257      Mohinudhin             15-62/1           .                 180             
+
+39    1256      satish kumar           15-62/1           .                 180             
+
+40    1003      KANAKA RAJU            15-62/1           .                 180             
+
+41    935       NAGESHWAR RAO          15-62/1           .                 180             
+
+42    416       Lalitha                15-62/1           -                 180             
+
+43    656       UJAVALA                15-62/1           .                 180             
+
+44    569       SHEKAR                 15-62/1           .                 180             
+
+45    450       SURENDRANATH           15-62/1           .                 180             
+
+46    1038      YADHAIAH               15-62/1           .                 180             
+
+47    1259      Gangadhar              15-62/2           .                 180             
+
+48    1239      Ashok reddy            15-62/2           .                 180             
+
+49    1091      Anjaiah                15-62/2           .                 180             
+
+50    1078      KRISHNA REDDY          15-62/2           .                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    1260      ramash SHANKAR         15-62/3           .                 520             
+
+52    1121      S.Guptha               15-62/3           .                 135             
+
+53    1223      vidyadar               15-63/1           .                 180             
+
+54    1         LALITH GILL            15-63/1           .                 137             
+
+55    1255      naga raju              15-63/2           .                 180             
+
+56    415       JAI RAM                15-63/3           -                 180             
+
+57    1127      Gurunadham             15-63             .                 110             
+
+58    1273      Anjanayalu             15-64/1           .                 180             
+
+59    535       KAMESHWAR  SHASTRY     15-64             .                 180             
+
+60    906       N.KUMAR                15-65/1           .                 138             
+
+61    1301      srikar                 15-65             .                 0               
+
+62    549       P.VINAY KUMAR          15-65             .                 180             
+
+63    1236      hari kiran             15-65             .                 180             
+
+64    1159      Ranga swamy            15-65             .                 180             
+
+65    1302      Laxmi                  15-66             .                 0               
+
+66    922       HARI                   15-68             .                 160             
+
+67    1185      ranmly                 15-70             15-70             180             
+
+68    1199      venu gopal reddy       15-71             15-71             180             
+
+69    603       G.S.RAMA KRISHNA       15-71             .                 0               
+
+70    1217      rajashakerreddy        19-1              19-1              180             
+
+71    1082      INDRA SENA REDDY       19-2              .                 180             
+
+72    511       G.SATYANARAYANA        19-3              .                 180             
+
+73    1304      Jayalaxmi              19-4              .                 0               
+
+74    1120      Srinivasa Chary        19-4              .                 180             
+
+75    1305      krishna reddy          19-4              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    263       PRAPATH REDDY          19-4              -                 180             
+
+77    272       KISHAN                 19-5              V.V.NAGAR         210             
+
+78    1262      uday                   19-6              .                 180             
+
+79    513       BAPUJI                 19-6              .                 210             
+
+80    1155      A.B.R.S.R.Shastry      19-7              .                 180             
+
+81    1264      sridhar                19-7              .                 180             
+
+82    971       MOHAN                  19-7              .                 180             
+
+83    1306      Yadagiri               19-7              .                 0               
+
+84    296       RAJU                   19-7              V.V.NAGAR         180             
+
+85    1263      karunakar              19-7              .                 720             
+
+86    35        VIJENDHAR REDDY        19-7(II)          .                 160             
+
+87    1177      vimod                  19-8/2            19-8/2            180             
+
+88    659       RAVI                   19-8/2            .                 180             
+
+89    108       SRINIVAS               19-8/2            .                 180             
+
+90    231       KRISHNA MURTHY         19-9              V V NGR           110             
+
+91    370       BHASKAR                19-11             V.V.NGR           160             
+
+92    333       VENKAIAH               19-11             V.V.NGR           180             
+
+93    1073      Srikanth               19-11             .                 180             
+
+94    1253      suresh                 19-11             .                 180             
+
+95    27        NARSING DAS            19-12             .                 180             
+
+96    1308      Biharg                 19-14             .                 0               
+
+97    996       Kunju Bihari           19-14             .                 140             
+
+98    1370      chandrakanth           19-15             .                 0               
+
+99    529       MAHADEV                19-16             .                 180             
+
+100   436       SHESHI                 19-17             -                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   1266      Vijaya laxmi           19-18             .                 180             
+
+102   863       RAVI                   19-18             .                 180             
+
+103   727       SOMAIAH                19-19             .                 180             
+
+104   20        JAGDISH                19-20 (T I )      .                 180             
+
+105   1267      ravi                   19-20(f1)         .                 180             
+
+106   338       A.S.N.MURTHY           19-20(F2)         V.V.NGR           180             
+
+107   1039      VENU GOPAL RAO         19-20(S1)         .                 180             
+
+108   1310      Harikrishna            19-20(S2)         .                 0               
+
+109   1309      hari rao               19-20(shop)       .                 0               
+
+110   761       srinivasa chary        19-20(T2)         .                 180             
+
+111   1268      bala raju              19-20(t3)         .                 180             
+
+112   1203      muthyalu               19-20(w.m)        19-20(w.m)        110             
+
+113   1243      vishnu                 19-23             .                 180             
+
+114   162       WILSON                 19-23             .                 140             
+
+115   1242      yakaias                19-23             .                 180             
+
+116   543       CHENNA KESHAVA         19-24/A           .                 180             
+
+117   443       M. PRASAD              19-24             .                 160             
+
+118   1311      Laxman rao             19-24             .                 0               
+
+119   1312      prakash                19-24             .                 0               
+
+120   120       HARINATH               19-26/A           V V NGR           180             
+
+121   1313      Sri pal reddy          19-26/A           .                 0               
+
+122   376       PANI RAJ               19-26/A           -                 180             
+
+123   1371      ramesh                 19-26/b           .                 0               
+
+124   1315      Nagaraju               19-26/B           .                 0               
+
+125   1314      Puspalatha             19-26/B           .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   1316      Prasad                 19-26/B           .                 0               
+
+127   1189      sridhar                19-26/b           19-26/b           180             
+
+128   1196      shaker reddy           19-26/b           19-26/b           180             
+
+129   1123      Venu Gopal             19-26/B           .                 180             
+
+130   1225      krishna prabhy         19-26/c/1         .                 180             
+
+131   1108      Sanjana                19-26/c/1         .                 180             
+
+132   1318      chandra shekar reddy   19-26/D           .                 0               
+
+133   1317      T.K. S laxmi           19-26/D           .                 0               
+
+134   651       ASHIRVADAM             19-26/G           .                 180             
+
+135   888       ANAND                  19-26/1           .                 180             
+
+136   1218      b.gopal                19-26/1           .                 180             
+
+137   1226      mallesh                19-26/1           .                 180             
+
+138   1269      sudha                  19-26/1           .                 180             
+
+139   1319      AZEEM                  19-26/1           .                 0               
+
+140   217       mumthar                19-26             V V NGR           180             
+
+141   1066      MANOJ                  19-26             .                 160             
+
+142   1322      Ravi                   19-26             .                 0               
+
+143   1323      kalyan                 19-27/1           .                 0               
+
+144   1075      Nagaraju               19-27/1           .                 6               
+
+145   1324      Barath kumar reddy     19-27/1           .                 0               
+
+146   1325      Satyanarayana          19-27/1           .                 0               
+
+147   1320      Vishnu vardhan reddy   19-27/2           .                 0               
+
+148   1244      veerabadra rao         19-27/2           .                 180             
+
+149   379       yakess                 19-27/2           -                 180             
+
+150   366       Raghu                  19-27/2           .                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   962       SRINIVAS               19-28             VVN               900             
+
+152   1270      ramesh babu            19-28             .                 180             
+
+153   1326      Rajitha                19-28             .                 0               
+
+154   1372      ramulu                 19-28             .                 0               
+
+155   1194      indira                 19-28             19-28             180             
+
+156   1246      Rajeshwarar reddy      19-28             .                 180             
+
+157   1245      krishna                19-28             .                 180             
+
+158   974       RAJENDHAR              19-29             .                 160             
+
+159   730       MADHAN MOHAN           19-31/1           .                 160             
+
+160   304       TA. NADIU              19-31             V.V.NAGAR         180             
+
+161   808       TEA SHOP               19-31             .                 110             
+
+162   1228      ramesh                 19-31(102)        .                 180             
+
+163   937       SANTHOSH               19-31(201)        .                 170             
+
+164   1327      Sravan kumar           19-31(G)          .                 0               
+
+165   547       SAILU                  19-32/A           .                 180             
+
+166   1328      Pravieen               19-32/A           .                 0               
+
+167   842       RAJESHWAR              19-32/A(G)        .                 180             
+
+168   685       RAJESH JOSHI           19-32             .                 180             
+
+169   502       RAJA LINGAM            19-33(1)          .                 180             
+
+170   1329      Veerababu              19-33(3)          .                 0               
+
+171   69        SAI                    19-33(3)          .                 110             
+
+172   1330      Kishor                 19-33(4)          .                 0               
+
+173   1272      Shiva raju             19-33(5)          .                 180             
+
+174   769       SAI BABA               19-33(6)II        .                 180             
+
+175   113       P.NARENDER             19-33(G)          .                 125             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   1332      Geevan                 19-34/A           .                 0               
+
+177   697       KISHAN                 19-34/B           .                 180             
+
+178   1331      Krishnavas             19-34/B           .                 0               
+
+179   1333      Vavalaxmi              19-34             .                 0               
+
+180   1182      ramalingayas           19-34             19-34             180             
+
+181   458       SURYA                  19-35/ Ist        .                 180             
+
+182   141       VENKAT  REDDY          19-35/I           V V NGR           180             
+
+183   1106      Venkatesh              19-35(3rd)        .                 180             
+
+184   1334      Suryanarayana          19-36             .                 0               
+
+185   826       SRINIVAS               19-36             .                 160             
+
+186   1335      Raju                   19-37             .                 0               
+
+187   1336      Brahmany               19-37             .                 0               
+
+188   83        RAMANA MURTHY          19-37             .                 170             
+
+189   485       Ranga.REDDY            19-37             .                 180             
+
+190   1337      V.srinivas rao         19-38             .                 0               
+
+191   1338      SAI KRISHNA            19-40/A           .                 0               
+
+192   792       BUCHAIAH               19-40/B           .                 260             
+
+193   489       VENKATESHWAR           19-40/B           .                 1620            
+
+194   1025      Shankr                 19-41/2           vvnagar           180             
+
+195   74        KRISHNA RAO            19-41/2           .                 180             
+
+196   79        RATHOD                 19-42/1           V V NGR           180             
+
+197   1166      Ravi                   19-43/1           .                 180             
+
+198   640       SESHI malaxmi          19-43             .                 110             
+
+199   1339      Barghav                19-43             .                 0               
+
+200   1340      Venkat rao             19-44/A           .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   1198      Sateesh                19-44/1           19-44/1           180             
+
+202   916       G. VIJAYA              19-44/1           VVN               180             
+
+203   1174      Girija kumar           19-44/2           19-44/2           180             
+
+204   1140      Ch.V.Krishna           19-45/2           .                 110             
+
+205   1373      shiva                  19-45/3           .                 0               
+
+206   1342      Vinod                  19-45/4           .                 0               
+
+207   128       D.B.MOHAN              19-46             V.V.NGR           180             
+
+208   1274      srinavas               19-47             .                 180             
+
+209   865       GIRI                   19-47             .                 250             
+
+210   1220      giridhar               19-47             .                 180             
+
+211   1375      Anjenayalu             19-47             .                 0               
+
+212   1374      Anil                   19-47             .                 0               
+
+213   1343      uday                   19-48             .                 0               
+
+214   1345      Umargul                19-49             .                 0               
+
+215   1105      Krishna Kumar          19-49             .                 160             
+
+216   1344      muthaias               19-49             .                 0               
+
+217   1085      VASANTHA               19-50/A           .                 180             
+
+218   1346      anmusha                19-50/a           .                 0               
+
+219   650       VENKAT REDDY           19-50             .                 180             
+
+220   1229      surash                 19-51             .                 180             
+
+221   1278      sai prakash            19-51             .                 180             
+
+222   1349      krishnavaias           19-52             .                 0               
+
+223   351       SARATHI                19-53             .                 180             
+
+224   64        MARUTHI SRINIVAS       19-53             V V NGR           180             
+
+225   835       SUJATHA                19-55             .                 180             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   294       KISHORE                19-57             V.V.NAGAR         160             
+
+227   61        RAMESH                 19-58             .                 130             
+
+228   518       ram mohan rao          19-59/1           .                 180             
+
+229   1281      krishna                19-59             .                 180             
+
+230   1352      NITHIN                 19-59             .                 0               
+
+231   1353      Balu                   19-60/A           .                 0               
+
+232   1351      Naresh                 19-60/A           .                 0               
+
+233   1084      SRI RAMULU             19-60/a           .                 900             
+
+234   1191      C.sridhar              19-60/a           19-60/a           180             
+
+235   1285      Laxminath              19-60/a           .                 720             
+
+236   1053      BAGAVATH               19-60/A           .                 180             
+
+237   1286      Parvathalas            19-60/a(w.m)      .                 110             
+
+238   1192      Balaji sweet house     19-60/1s          19-60/1s          179             
+
+239   234       CHANDRA SHEAKAR        19-61/A           V V NAGAR         180             
+
+240   5         LAVANYA                19-61/1           .                 180             
+
+241   1376      V.narajara             19-61/2           .                 0               
+
+242   498       BHOJA CHARY            19-61/2           .                 180             
+
+243   1354      Nagabushalu            19-61/2           .                 0               
+
+244   1355      Venu                   19-61/3           .                 0               
+
+245   224       P.RAJU                 19-61             -                 180             
+
+246   1012      VARA LAXMI             19-61             .                 180             
+
+247   1359      Mallikarjun            19-62             .                 0               
+
+248   1357      Veera raghavaias       19-62(201)        .                 0               
+
+249   337       S.D.SHA                19-62(202)        V.V.NGR           30              
+
+250   1378      Krishna                19-62(203)        .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   1377      Krishna                19-62(203)        .                 0               
+
+252   1126      Laxman                 19-62(301)        .                 180             
+
+253   1358      Naik                   19-62(W.M)        .                 0               
+
+254   348       S.R.K. CHARY           19-63             V.V.NGR           180             
+
+255   1379      raju                   19-64/B           .                 0               
+
+256   1361      CHANDRA SHEKAR         19-64/B           .                 0               
+
+257   828       PV. SRINIVAS           19-64/B           .                 900             
+
+258   1360      Srinivas               19-64/B           .                 0               
+
+259   961       ANIL KUMAR             19-64/B           9849117888        160             
+
+260   841       chandra shekar         19-64/C           .                 720             
+
+261   226       RAMULAMMA              19-64/C           V.V.NGR           880             
+
+262   1145      Sruthi                 19-64/c           .                 180             
+
+263   1380      Prema                  19-64/c           .                 0               
+
+264   94        NARAYAN BABU(KIRANA    19-64/C           .                 810             
+
+265   479       ANJANEYULU             19-64/C           .                 180             
+
+266   1381      ywthaias               19-64/d           .                 0               
+
+267   1180      vijay                  19-65/2           19-65/2           180             
+
+268   1173      basha                  19-65/3           .                 900             
+
+269   582       ABDUL HAQ              19-65             .                 1060            
+
+270   1364      Subramanyam            19-66             .                 0               
+
+271   824       J .R. NATH             19-66             .                 880             
+
+272   1365      CHANDRA SHEKAR         19-67/1           .                 0               
+
+273   1142      Rakesh                 19-67/1           .                 900             
+
+274   908       PRASAD                 19-67/2/B         .                 1260            
+
+275   46        SRINIVAS               19-67             .                 970             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   1368      ALN prasad             19-67             .                 0               
+
+277   1367      Baswaraju              19-67             .                 0               
+
+                                                                    	----------
+                                                                    	47660
+                                                                    	----------
+
+                                END OF THE REPORT

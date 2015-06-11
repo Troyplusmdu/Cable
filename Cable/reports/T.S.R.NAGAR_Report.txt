@@ -1,0 +1,331 @@
+
+                                     DUE LIST
+                                     --------
+Area : T.S.R.NAGAR
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     215       madhu                  watchman          nova towers       150             
+
+2     165       rama kanth             g-2               .                 220             
+
+3     161       ramu                   g-3               ...               50              
+
+4     166       mata reddu             g-4               .                 150             
+
+5     134       SATYA NARAYANA         p-4               .                 200             
+
+6     145       srinivas reddy         g-5 nova tower    .                 0               
+
+7     1         NARSIMHA               P-5               .                 150             
+
+8     126       MAHESH                 P-5               .                 300             
+
+9     2         NARSIMULU              P-6               .                 150             
+
+10    167       naresh                 p-11              .                 1050            
+
+11    168       naresh                 p-11              .                 1050            
+
+12    209       rajeshwar rao          p-13              .                 150             
+
+13    5         RAJESHWAR RAO          P-13              .                 450             
+
+14    6         BARHMAM                P-14              .                 750             
+
+15    8         NARAYAN CHARY          P-15              .                 450             
+
+16    173       malikarjuna            p-16              .                 600             
+
+17    163       srinivas reddy         p-16              .                 150             
+
+18    113       nanda kumar            p-16              .                 1250            
+
+19    11        RAJESH                 P-18              .                 650             
+
+20    10        NARSIMHA REDDY         P-18              .                 0               
+
+21    14        VIJAY CHARY            P-19/A            .                 300             
+
+22    13        LATHA SAGAR            P-19/B            .                 450             
+
+23    182       satesh                 p-21              .                 150             
+
+24    219       sridhar                p-22              .                 0               
+
+25    185       ramakrishna reddy      p-22              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    15        ravi kumar             P-22              .                 450             
+
+27    174       kiran kumar            p-22              .                 0               
+
+28    212       krishna goud           p-22              .                 150             
+
+29    18        SUDHAKAR               P-22              .                 650             
+
+30    213       praveen kumar          p-23              .                 0               
+
+31    139       VENKAIAH               P-24              .                 0               
+
+32    206       bupathi rao            p-25              .                 0               
+
+33    202       P.P.RAJU               p-27              .                 0               
+
+34    124       krishna                p-27              .                 0               
+
+35    207       srinivas               p-28              .                 300             
+
+36    135       srinivas               P-29              .                 150             
+
+37    217       ANJANEYULU             p-29              .                 0               
+
+38    208       BALA KRISHNA           p-29              .                 300             
+
+39    148       ashok kumar            p-31              .                 300             
+
+40    132       nagesh                 p-31              .                 550             
+
+41    149       sridhar                p-33              .                 1200            
+
+42    201       naveen kumar           p-33/41           .                 300             
+
+43    164       shankar                p-34/35           .                 900             
+
+44    152       vidaydhar              p-35              .                 0               
+
+45    24        REDDY                  P-36              .                 150             
+
+46    25        ANJAIAH                P-37              .                 150             
+
+47    23        NARSIMHA RAO           P-38              .                 600             
+
+48    26        PADMA                  P-39              .                 150             
+
+49    143       ragavender rao         p-41              .                 300             
+
+50    27        JARARDAN RAO           P-42              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    28        RAMESH                 P-45              .                 150             
+
+52    29        EASHWAR                P-46              .                 150             
+
+53    216       rajendhar reddy        p-46              .                 150             
+
+54    120       sandeep                p-47              .                 0               
+
+55    144       sridhar                p-48              .                 900             
+
+56    172       upendhar               p-49              .                 150             
+
+57    32        SHAKAR                 P-51              .                 150             
+
+58    37        PETTAT REDDY           P-51              .                 450             
+
+59    38        S.V.L.SWAMY            P-52              .                 150             
+
+60    104       NARSIMHA               P-52              .                 350             
+
+61    178       raju                   p-52              .                 0               
+
+62    169       prem kumar             p-53              .                 900             
+
+63    160       pream kumar            p-53              .                 150             
+
+64    40        DEVIED                 P-53              .                 150             
+
+65    39        SRINIVAS               P-53              .                 350             
+
+66    203       hari                   p-54              .                 300             
+
+67    194       rakesh                 p-54              .                 150             
+
+68    34        VISHNU                 P-55              .                 0               
+
+69    43        RAMANA                 P-55              .                 1650            
+
+70    33        BHANIYA                P-55              .                 0               
+
+71    44        AMBRESH                P-55              .                 150             
+
+72    36        NARENDER               P-55              .                 0               
+
+73    188       raghu ram              p-55              .                 0               
+
+74    105       sunil                  p-56              .                 750             
+
+75    162       venkat                 p-62              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    46        VIVIK CHARY            P-62              .                 0               
+
+77    47        RAJU                   P-63              .                 450             
+
+78    49        RAMULU                 P-64              .                 450             
+
+79    50        RAJA                   P-65              .                 1050            
+
+80    54        SUDHAKAR               P-66              .                 0               
+
+81    153       vijay krishna          p-66              .                 50              
+
+82    204       venkatesh              p-67/a            .                 300             
+
+83    192       aruna reddy            p-67              .                 450             
+
+84    111       ramesh                 p-67              .                 1350            
+
+85    142       xxx                    p-67              ..                1050            
+
+86    170       PANDU RANGA REDDY      p-68              .                 300             
+
+87    87        SURESH                 P-69              .                 600             
+
+88    55        CHARAPRAKESH           P-69              .                 150             
+
+89    86        V.V.S.SHARTHY          P-69              .                 1200            
+
+90    179       a.a.s.murthy           p-69              .                 0               
+
+91    189       phani indra            p-69              .                 0               
+
+92    193       shankar                p-70              .                 450             
+
+93    58        RAMAKRISHNA REDDDY     P-70              .                 1050            
+
+94    57        NARSIMHA               P-70              .                 450             
+
+95    56        RAJU                   P-70              .                 910             
+
+96    198       srinivas               p-70              .                 0               
+
+97    186       shakar                 p-70              .                 300             
+
+98    97        rama rao               p-70              .                 150             
+
+99    175       krishna                p-71              .                 600             
+
+100   190       jaypal                 p-71              .                 150             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   61        MAHESH REDDY           P-71              .                 300             
+
+102   195       janardhan              p-73              .                 300             
+
+103   136       SUBAS                  P-75/A            .                 150             
+
+104   64        PAWAN                  P-76              .                 600             
+
+105   125       INDRA                  P-77              .                 150             
+
+106   171       ramana                 p-77              .                 150             
+
+107   67        RANJITH                P-78              .                 900             
+
+108   197       josuff                 p-78              .                 450             
+
+109   66        SATYA NARAYANA         P-78              .                 150             
+
+110   196       mahendhar reddy        p-79              .                 300             
+
+111   99        kiran kumar            p-79              .                 150             
+
+112   218       sudhakar goud          p-80              .                 0               
+
+113   176       nanda kumar            p-81              .                 0               
+
+114   140       SRINIVAS               P-81              .                 150             
+
+115   68        MADHUSUDAN CHARY       P-82              .                 300             
+
+116   70        NARSING                P-83              .                 600             
+
+117   71        PRENIY                 P-83              .                 450             
+
+118   199       dhaninya               p-86              .                 0               
+
+119   76        ZERZ REDDY             P-87              .                 0               
+
+120   77        PRAVEEN KUMAR          P-87              .                 150             
+
+121   200       padma                  p-88              .                 150             
+
+122   78        SRIHARI                P-88              .                 150             
+
+123   80        SRIKANTH               P-89              .                 450             
+
+124   84        GOVERDHAN REDDY        P-89              .                 450             
+
+125   81        BUCHI RAJU             P-89              .                 0               
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   183       rajakumar              p-89              .                 150             
+
+127   79        RAMNATH                P-89              .                 0               
+
+128   159       edivaya                p-89              .                 600             
+
+129   181       mahendhar goud         p-90/a            .                 450             
+
+130   103       desh pandey            p-90              .                 150             
+
+131   88        HANTH REDDY            P-90              .                 0               
+
+132   205       krishna                p-90              .                 300             
+
+133   191       nagandeer goud         p-90              .                 150             
+
+134   180       hamath                 p-90              .                 0               
+
+135   127       SURYA KUMAR            P-91/A            .                 260             
+
+136   214       s.s.reddy              p-91              .                 0               
+
+137   89        S.S.REDDY              P-91              .                 1350            
+
+138   157       shaker                 p-101             .                 0               
+
+139   137       VIJAY KUMAR            P-102             .                 1000            
+
+140   130       RAMESH.J               P-105             NOVA TOWER        0               
+
+141   131       KIRAN KUMAR            P-105             .                 650             
+
+142   128       PRASHNA                P-201             NOVA TOWER        0               
+
+143   146       mani kumar             p-202             NOVA TOWER        150             
+
+144   129       RAVI KUMAR             P-204             NOVA TOWER        70              
+
+145   156       narsing                p-205             nova towers       150             
+
+146   184       gori                   p-301             .                 750             
+
+147   211       naveen kumar           41                .                 0               
+
+148   210       ...                    52                .                 150             
+
+                                                                    	----------
+                                                                    	46810
+                                                                    	----------
+
+                                END OF THE REPORT

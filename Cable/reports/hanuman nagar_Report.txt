@@ -1,0 +1,53 @@
+
+                                     DUE LIST
+                                     --------
+Area : hanuman nagar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     13        g.bala goud            banquet hall      .                 150             
+
+2     9         srinivas               h.no:21           .                 50              
+
+3     17        pramila                KLC               .                 100             
+
+4     19        prasana laxmi kira.    KLC               2 conn            100             
+
+5     2         dayakar                konduru lingaiah c502               100             
+
+6     3         divakar rao            konduru lingaiah c503               50              
+
+7     4         rakesh                 konduru lingaiah c504               50              
+
+8     5         satya narayana         konduru lingaiah c404               100             
+
+9     6         p.m.chary              konduru lingaiah c405               50              
+
+10    7         t.ramulu               konduru lingaiah c304               100             
+
+11    1         mahesh                 konduru lingaiah c501               50              
+
+12    8         nandiswara riceshop    konduru lingaiah c.                 50              
+
+13    11        yadagiri               pt.no:21          .                 50              
+
+14    12        papi reddy             pt.no:21          .                 100             
+
+15    10        lala mohan             pt.no:21          .                 50              
+
+16    14        ravi                   pt.no:55          .                 50              
+
+17    15        kondal rao             pt.no:55          .                 100             
+
+18    16        venkatesh              pt.no:55          .                 50              
+
+19    18        pradeep                54                .                 50              
+
+                                                                    	----------
+                                                                    	1400
+                                                                    	----------
+
+                                END OF THE REPORT

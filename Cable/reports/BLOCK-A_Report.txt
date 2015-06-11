@@ -1,0 +1,109 @@
+
+                                     DUE LIST
+                                     --------
+Area : BLOCK-A
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     631       venkatesh              a 25/2            .                 270             
+
+2     623       jagadish               A 29/3            .                 630             
+
+3     632       vijay babu             A 26/4            .                 300             
+
+4     633       laxmaiah               A 26/5            .                 300             
+
+5     620       varan rao              a 32/5            .                 550             
+
+6     627       POWAR                  A 28/6            .                 360             
+
+7     624       vishesh kumar          a 28/7            .                 430             
+
+8     628       RATNA                  A 28/10           .                 270             
+
+9     610       varghesu               A 29/11           .                 180             
+
+10    622       sandeep                A 29/13           .                 220             
+
+11    625       abc                    A 28/14           .                 260             
+
+12    629       d.s mani               a 28/15           .                 320             
+
+13    46        JANAK RAJ              A-16/3                              80              
+
+14    552       R. LAXMI BAI           A-16/4                              180             
+
+15    572       SHEKAR                 A-24/1            .                 700             
+
+16    73        P. DUBALA NAIK         A-24/09                             90              
+
+17    576       S.P.REDDY              A-24/10           .                 350             
+
+18    591       M.VIDYADHAR            A-25/1            -                 90              
+
+19    314       VENKATESH              A-25/2            .                 300             
+
+20    84        D. MADHAVA REDDY       A-25/05(24340192)                   180             
+
+21    87        M.YADGIRI CHARY        A-25/09                             150             
+
+22    88        MD.BURAN               A-25/10                             80              
+
+23    615       VENKATESH              A-26/1            .                 170             
+
+24    548       POORNIMA               A-26/2            .                 80              
+
+25    616       PADMA                  A-26/5            .                 90              
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    293       PERMAL                 A -26/8                             270             
+
+27    365       P. VENKATAIAH          A-26/9            .                 270             
+
+28    569       APPA RAO               A-27/1                              90              
+
+29    161       D. RAMESH              A-27/13                             90              
+
+30    635       MEETHLAL               A-27/14           .                 90              
+
+31    634       amul ralit             a-28/2            .                 90              
+
+32    561       K. RAMULU              A-29/1            .                 90              
+
+33    203       NAGRAJ                 A-29/2            .                 80              
+
+34    630       chandrama kumar        A-29/4            .                 510             
+
+35    594       YADHAGIRI              A-29/5            -                 350             
+
+36    595       ANIL KUMAR             A-29/6            -                 270             
+
+37    607       LALIT KUMAR            A-29/7            .                 150             
+
+38    626       THIRUPATHI             A-29/9            .                 250             
+
+39    590       TIRPDI  RAYUDU         A-29/10           -                 90              
+
+40    580       CHINNA RAO             A-29/14           .                 80              
+
+41    596       BALAJI                 A-29/15           -                 140             
+
+42    540       Y.LALITHA              A-31/12                             90              
+
+43    163       Y. NARSINGH RAO        A-32/1                              90              
+
+44    599       mohan                  27/15             drdo              180             
+
+45    604       R.L CHITTY             29/16             DRDO              450             
+
+                                                                    	----------
+                                                                    	10350
+                                                                    	----------
+
+                                END OF THE REPORT

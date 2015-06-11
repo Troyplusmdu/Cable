@@ -1,0 +1,109 @@
+
+                                     DUE LIST
+                                     --------
+Area : BDL CISF
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     192       T V BABU               A 15              .                 30              
+
+2     206       sathish                a 20              .                 100             
+
+3     214       shyam                  a 22              .                 200             
+
+4     217       ramswamy               A 31              .                 400             
+
+5     202       srinivas               a 35              .                 100             
+
+6     160       BAJARANGA              A 44              .                 400             
+
+7     222       narabhushan            A 5               .                 500             
+
+8     203       narsimla               a 56              .                 200             
+
+9     205       Madaim                 A 61              .                 100             
+
+10    189       parrinder singh        a13               .                 400             
+
+11    183       Bicir                  A18               d                 300             
+
+12    190       s.w.swamy              a21               .                 200             
+
+13    219       chinniah               A23               .                 100             
+
+14    204       ransingh               A28               .                 700             
+
+15    200       r.s.reddy              A39               .                 200             
+
+16    184       reddy                  A62               DRDO              210             
+
+17    207       rana                   A65               .                 700             
+
+18    125       V.N.RAO                B 14              .                 200             
+
+19    193       Y A NAIDU              B 17              .                 200             
+
+20    221       dutta                  B 21              .                 300             
+
+21    216       prakash                b 24              .                 200             
+
+22    215       murriam                b 4               .                 300             
+
+23    161       PAANDU                 B 6               .                 200             
+
+24    175       durga prasad           b28               drdo              100             
+
+25    172       laxmi                  b31               drdo              100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    166       B.SRINIVAS             B35               -                 100             
+
+27    201       babu                   B64               .                 100             
+
+28    220       M.A LINCOVER           F 6               .                 400             
+
+29    223       m.neelavathy           B 8/1             .                 270             
+
+30    78        S K YOUNUS             A-1               .                 700             
+
+31    155       NAGABUSHNAM            A-5               .                 500             
+
+32    101       ..............         B-8               .                 200             
+
+33    88        T.N.REDDY              B-13              .                 100             
+
+34    169       D.S.REDDY              A-17              .                 200             
+
+35    185       K.LAXMI PATHI NAYUDU   B-20              .                 100             
+
+36    146       DHAN RAJ               B-22              .                 100             
+
+37    152       S.RONDLE               B-23              .                 400             
+
+38    62        J.R.RAVATH             B-25              .                 200             
+
+39    89        RAJU                   B-32              .                 400             
+
+40    144       ROOP LAL               B-33              .                 100             
+
+41    73        RAHMAD PASHA           B-34                                200             
+
+42    162       I.B.YADHAV             A-38              .                 600             
+
+43    142       Ramanaiah              A - 49            .                 200             
+
+44    149       S.V.RAJU               A-59              .                 200             
+
+45    178       sudha                  37                DRDO              500             
+
+                                                                    	----------
+                                                                    	12010
+                                                                    	----------
+
+                                END OF THE REPORT

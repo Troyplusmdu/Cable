@@ -1,0 +1,621 @@
+
+                                     DUE LIST
+                                     --------
+Area : BLOCK-C
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     1563      m.n.srinivas rao       c 42/1            .                 100             
+
+2     1588      ram sewak              c 26/2            .                 200             
+
+3     1585      HMT mahaveer singh     c 37/2            .                 100             
+
+4     1574      m.babu rao             c 38/2            .                 100             
+
+5     1590      ram kumar              c 42/2            .                 300             
+
+6     1583      d varma                c 8/2             .                 600             
+
+7     1545      NARENDAR               C17/2             .                 100             
+
+8     1573      praveen kumar          c 25/3            .                 100             
+
+9     1561      rajesh                 c 34/3            .                 100             
+
+10    1591      k.s tomar              c 36/3            .                 100             
+
+11    1572      waaheed                c 38/3            .                 100             
+
+12    1575      narsing rao            c 14/4            .                 100             
+
+13    1595      srishilam              c 31/4            .                 300             
+
+14    1557      sarweshwar             c 38/4            .                 200             
+
+15    1558      ch.rao                 c 39/4            .                 100             
+
+16    1457      PREM KUMAR             C 29/6            .                 100             
+
+17    1542      RAMANA                 C26/6             .                 100             
+
+18    1577      g.m goud               c 40/7            .                 200             
+
+19    1580      pradeep kumar          c 47/7            .                 100             
+
+20    1537      HARI KRISHNA           C39/7             .                 500             
+
+21    1599      sudhir kumar singh     c 34/8            .                 300             
+
+22    1600      umeshkumar             c 43/8            .                 300             
+
+23    1594      gopal krishna          c 29/9            .                 200             
+
+24    1584      rama devi              c 32/10           .                 100             
+
+25    1568      k.sambashivarao        c 34/10           .                 200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    1538      uma maheshwar rao      C 43/10           .                 100             
+
+27    1576      d r singh              c 48/10           .                 500             
+
+28    1543      ...........            C28/11            .                 200             
+
+29    1593      shamsher khan          c 26/12           .                 200             
+
+30    1589      MOHD.BASHEER           C 37/12           .                 200             
+
+31    1560      jestin                 c 42/12           .                 100             
+
+32    1531      anjanlau               c44/12            .                 100             
+
+33    1581      SAMPATH KUMAR          C 25/13           .                 100             
+
+34    1596      p.k.garmi              c 28/13           .                 500             
+
+35    1459      R.BB.SINGH             C 33/13           .                 100             
+
+36    1597      shdhaik patial         c 37/14           .                 300             
+
+37    1592      r.k behera             c 26/15           .                 200             
+
+38    1582      aparna                 c 39/15           .                 300             
+
+39    1569      p.damoder              c 42/15           .                 100             
+
+40    1507      M.N SONU               C 25/16           DRDO              200             
+
+41    1601      j.srinivas             C 41/16           .                 300             
+
+42    1433      RAJENDER SINGH         C-1/2             .                 200             
+
+43    1365      GANGA RAJU             C-1/4             .                 100             
+
+44    1308      S MADHU BABU           C-2/1             .                 100             
+
+45    1386      ZOHARABEE              C-2/4             .                 200             
+
+46    9         SARASWATHI             C-3/1             -                 100             
+
+47    1265      PRASAD                 C-3/2                               100             
+
+48    1245      CHANDRASHEKHAR         C-5/2             -                 80              
+
+49    1451      NAGAIR                 C-5/3             .                 100             
+
+50    1417      DAYANAND RAO           C-6/1             .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+51    1482      C.H.A.KUMAR            C-6/2             -                 100             
+
+52    1247      LEELA GAURI MANOHARI   C-6/3                               210             
+
+53    1273      RAJU                   C-7/1                               100             
+
+54    1497      PRASAD                 C-7/2             .                 100             
+
+55    1342      KIRAN                  C-7/3             .                 100             
+
+56    1126      C.GOVIND RAJ           C-7/4(65303492)                     100             
+
+57    841       D.VARMA                C-8/2             -                 300             
+
+58    24        M.M.BAQUAR             C-8/3             -                 200             
+
+59    1304      SRIKANTH               C-9/3             .                 100             
+
+60    29        DAYANAND               C-10/1            -                 750             
+
+61    1174      SANNY                  C-11/1            -                 100             
+
+62    1476      LAXMINARAYANA          C-11/3            -                 100             
+
+63    1403      Balaraju               C- 12/1           .                 300             
+
+64    1456      M.CHAKRA PANI          C-12/3            .                 300             
+
+65    1553      RASHEED ALI            C-12/4            .                 600             
+
+66    1571      meary                  C-13/4            .                 400             
+
+67    1500      DHANIRAM               C-14/3            .                 100             
+
+68    743       DHARAMVEER SINGH       C-15/1            -                 200             
+
+69    1132      CHRISTOPHER            C-16/2                              200             
+
+70    1261      MADHUKAR               C-16/3                              200             
+
+71    1532      baboo rao              c-16/4            .                 100             
+
+72    1201      G. VIJAY KRISHNA       C-17/1            .                 100             
+
+73    715       VIJAY MEARI            C -17/3                             100             
+
+74    1382      SRINIVAS REDDY         C-17/4            .                 100             
+
+75    1554      SUBRAMANYAM            C-18/2            .                 110             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+76    1550      VILRAM SINGH           C-18/4            .                 200             
+
+77    944       BHANU REKHA            C-19/3            .                 100             
+
+78    1131      P.VITTALBABU           C-19/4(9440519205)                  300             
+
+79    1175      D.PRAKASH              C-20/1            -                 110             
+
+80    280       S.M. PASHA             C-20/3            -                 100             
+
+81    1169      T.K .N. VISHWESHWAR    C-20/4            .                 200             
+
+82    929       S.M.RAO                C-21/1            -                 100             
+
+83    62        M.REJESHWAR RAO        C-21/3            -                 200             
+
+84    1001      TILOTTAMA MALLICK      C-22/1                              300             
+
+85    459       ASHOK                  C-22/3                              200             
+
+86    1221      E. VENKAT RAO          C-23/1                              200             
+
+87    1431      NARESH                 C-23/2            .                 100             
+
+88    1319      V. DHOLE               C-24/2            .                 100             
+
+89    1269      G.K. SATYANARAYANA     C-24/3                              200             
+
+90    1407      Yadagiri               c- 24/4           .                 100             
+
+91    1305      BHUPATHY               C-25/2            .                 100             
+
+92    1552      KUMAR                  C-25/4            .                 100             
+
+93    1341      MD. ABDUL GUFFAR       C-25/5            .                 200             
+
+94    1378      SHIVA SATYANARAYANA    C-25/6            .                 100             
+
+95    1115      VIJAY KUMAR            C-25/9                              400             
+
+96    1332      T. RAM BABU            C-25/10           .                 200             
+
+97    1518      JAHANGEER              C-25/11           .                 200             
+
+98    1018      A.K.CHARY              C-25/14           -                 300             
+
+99    731       RANGA CHARY            C -25/15                            100             
+
+100   84        S.K.RAUFUDDIN          C-26/1            -                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+101   1548      SYAM                   C-26/4            .                 300             
+
+102   1551      H.MT.VINODKUMARSINGH   C-26/5            .                 300             
+
+103   526       RAJ KUMAR              C-26/7                              200             
+
+104   1534      P RAGURAMAYA           C-26/14           .                 100             
+
+105   1179      ANAND                  C-27/1                              100             
+
+106   1288      SATYANARAYANA          C-27/2                              100             
+
+107   1516      BALAYYA                C-27/6            .                 100             
+
+108   1428      BASHA                  C-27/7            .                 100             
+
+109   1173      NARSING RAO            C-27/9                              100             
+
+110   1106      P. MONOHAR SINGH       C-27/10                             100             
+
+111   1512      U.V.L.PRASAD           C-27/12           .                 100             
+
+112   1233      V. RADHA KRISHNA       C-27/13                             100             
+
+113   1322      KRISHNAVENI            C-27/14           .                 0               
+
+114   1440      SRIDHAR                C-27/16           .                 500             
+
+115   1235      P. JITENDER REDDY      C-28/2(9492932672)                  100             
+
+116   1423      GV.SURESH BABU         C-28/4            .                 100             
+
+117   755       SUBBA RAYUDU           C-28/6                              200             
+
+118   661       M.SRINIVAS RAO         C-28/9            -                 0               
+
+119   118       vasudevan              C-28/12           -                 40              
+
+120   1567      p.k garai              c-28/13           .                 500             
+
+121   1052      SHIVA PRASAD           C-28/14           -                 150             
+
+122   1297      BALAJI                 C-28/15           .                 100             
+
+123   1442      NEKATEN                C-28/16           .                 600             
+
+124   119       SANTHOSH KUMAR         C-29/1            -                 100             
+
+125   1481      RAJASHAKAR             C-29/2            -                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+126   1432      SAROJINI               C-29/11           .                 100             
+
+127   1325      GURNAM  SINGH          C-29/16           .                 400             
+
+128   1190      MANOJ KUMAR SAHU       C-30/2                              100             
+
+129   1488      A.ASHOK KUMAR          C-30/4            .                 0               
+
+130   1258      NARSING RAO            C-30/6 (9848976422                  100             
+
+131   1224      B. RAM CHANDER         C-30/9                              200             
+
+132   1388      SANTOSH KUDAIN         C-30/10           .                 50              
+
+133   1088      HAMEED                 C-30/11                             0               
+
+134   1555      RAVI KRISHNA           C-30/12           .                 100             
+
+135   1229      G.S. NAIK              C-30/13           .                 200             
+
+136   141       SRINIVAS RAO           C-30/14           -                 200             
+
+137   1238      T. ASHOK KUMAR         C-30/15                             100             
+
+138   1326      MADHUSUDAN             C-30/16           .                 100             
+
+139   457       A.RAVINDAR             C-31/1            .                 200             
+
+140   1334      M. HUDE                C-31/2            .                 100             
+
+141   1484      KAVITHA                C-31/6            -                 100             
+
+142   1510      Tirupathi              c-31/7            DRDO              200             
+
+143   1339      DAMODHAR               C-31/9            .                 100             
+
+144   742       RAJENDER               C-31/13                             200             
+
+145   1019      BALA BHADRA RAO.P      C-31/14           .                 100             
+
+146   1084      L.L.REDDY              C-32/2            -                 100             
+
+147   138       CHANTI                 C-32/4            -                 200             
+
+148   1335      KIRAN KUMAR            C-32/5            .                 500             
+
+149   1033      A.GAUTAM               C-32/9                              100             
+
+150   158       N.SATYANARAYAN         C-32/11           -                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+151   1427      SRINIVAS RAO           C-32/12           .                 700             
+
+152   1248      P.SRINIVAS             C-32/13           -                 300             
+
+153   1527      subhaiah               c-33/1            .                 100             
+
+154   1212      RAGHUNATH              C-33/7(9292850146).                 100             
+
+155   1598      SANT LAL               C-33/9            .                 300             
+
+156   1346      YELLAIAH               C-33/10           .                 100             
+
+157   1307      RAHUL RAMTEKE          C-33/11           DR                100             
+
+158   1399      A. Mallik              C-33/15           .                 300             
+
+159   962       G.SATYANARAYAN         C-34/1            -                 100             
+
+160   1289      SATTAR BHAI            C-34/5                              100             
+
+161   1383      G.C.SHARMA             C-34/15           .                 100             
+
+162   1520      d.sahish               c-35/2            .                 100             
+
+163   1496      mani                   C-35/5            drdo              100             
+
+164   1443      SACHIN KUMAR           C-35/8            .                 100             
+
+165   1419      PRAVEEN                C-35/10           .                 300             
+
+166   1468      GLN.JAYAVARDHAN        C-35/12           -                 100             
+
+167   1470      KUMAR                  C-36/1            -                 200             
+
+168   1408      Uma Pathi              C - 36/2          .                 100             
+
+169   1587      P.V.RAJU               C-36/4            .                 400             
+
+170   1155      L.UDAY KUMAR GOUD      C-36/5            .                 200             
+
+171   1562      d.k.singh              C-36/6            .                 200             
+
+172   1503      SURYA RAMESH           C-36/8            .                 100             
+
+173   791       K.MURGAN               C-36/9            -                 200             
+
+174   1026      K.R.IYANGAR            C-36/10 (924711630.                 100             
+
+175   1202      SATYANARAYANA          C-36/11           .                 200             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+176   1361      VEERA SHANKAR          C-36/13           .                 100             
+
+177   1420      SK ALI                 C-36/15           .                 100             
+
+178   1429      BIKSHAPATHI            C-37/1            .                 300             
+
+179   282       KISHANLAL              C-37/9            -                 100             
+
+180   1099      SRINIVAS RAO           C-37/13                             100             
+
+181   1321      B.P. SHANKAR           C-38/5            .                 100             
+
+182   1023      N.SRINIVAS RAO         C-38/6            .                 110             
+
+183   1566      k.nataraju             c-38/9            .                 200             
+
+184   1065      CH.HARI KRISHNA        C-38/11                             100             
+
+185   1028      S.K. DABHADE           C-38/12                             200             
+
+186   234       T.V.SUBBA RAO          C-38/14           -                 100             
+
+187   1546      GURVANDER              C-38/16           .                 200             
+
+188   1469      MAMATHS                C-39/1            -                 200             
+
+189   401       G.RANGAIAH             C-39/2            -                 200             
+
+190   1435      LAXMAIAH               C-39/3            .                 100             
+
+191   1216      L.H.REDDY              C-39/5(9492848873)                  200             
+
+192   1479      JAMPAIAH               C-39/6            .                 160             
+
+193   1478      G.RAMESH               C-39/9            -                 80              
+
+194   951       NARASIAH               C-39/13                             100             
+
+195   914       KAMALNATH              C-40/1(9885466062)                  700             
+
+196   1359      OMKAR SINGH            C-40/3            .                 200             
+
+197   1504      SAHAR                  C-40/4            .                 200             
+
+198   1349      G.RAGHUNATH            C-40/5            .                 200             
+
+199   1306      D.B. SINGH             C-40/6            .                 200             
+
+200   1533      m.s.kushwaha           c-40/13           .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+201   1275      SABLE N.S              C-41/5                              100             
+
+202   1375      T.M.S.RAO              C-41/10           .                 100             
+
+203   1324      ROY CHAKOO             C-41/13           .                 100             
+
+204   425       D.MADHUSUDAN REDDY     C-41/14(9441282098                  100             
+
+205   1471      MALLESHWAR  RAO        C-41/15           -                 200             
+
+206   1377      TEK BAHADUR            C-42/3            .                 400             
+
+207   1279      BASANTHAMMA            C-42/5                              500             
+
+208   1227      A.K. YADAV             C-42/6            .                 100             
+
+209   1421      GAJENDRA NAIDU         C-42/11           .                 100             
+
+210   1517      MARAY                  C-42/13           .                 300             
+
+211   1109      DHARANVEER             C-43/3                              100             
+
+212   1398      HAMZA                  C-43/4            .                 100             
+
+213   285       K.YADAIAH              C -43/5           -                 100             
+
+214   295       VIJAYA                 C-43/6            -                 100             
+
+215   1343      NAVEEN                 C-43/9            .                 0               
+
+216   1541      K.SRINIVAS             C-43/11           .                 300             
+
+217   1547      D,V,RATNA REDDY        C-43/12           .                 100             
+
+218   1508      HUNUMAIH               c-43/13           DRDO              100             
+
+219   1363      DEVI                   C-43/14           .                 200             
+
+220   1480      VENKATSEHWAR  RAO      C-43/15           .                 100             
+
+221   1434      K.YADAIAH              C-44/1            .                 200             
+
+222   478       V.VENKAT RAMANA        C-44/2                              300             
+
+223   1302      DEEPAK KUMAR           C-44/3(9397339828).                 100             
+
+224   1086      K.SRINIVAS RAO         C-44/5                              100             
+
+225   1515      LAXMI NARSYYA          C-44/6            .                 900             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+226   1425      ANIL.G                 C-44/7            .                 100             
+
+227   1093      YOHAN                  C-44/9                              100             
+
+228   310       KOYALE                 C-44/13(24345734) -                 200             
+
+229   1353      M.SUKANYA              C-44/14           .                 200             
+
+230   1394      M.A.KHAN               C-44/15           .                 200             
+
+231   689       KOTESHWAR RAO          C -45/1                             100             
+
+232   1159      G.A.RAJU               C-45/2            .                 200             
+
+233   1311      GIRIJA PRASADSINGH     C-45/6            .                 100             
+
+234   1570      sandeep kumar          c-45/7            .                 300             
+
+235   1586      kishor                 c-45/8            .                 100             
+
+236   1055      PREETI                 C-45/9            .                 100             
+
+237   1163      B.RAMCHANDAR           C-45/13           -                 100             
+
+238   1313      RATNAMMA               C-45/14           .                 100             
+
+239   1231      VIJAY                  C-45/15                             100             
+
+240   1438      SYED                   C-46/1            .                 100             
+
+241   1486      S.S.CHAUHAN            C-46/2            -                 300             
+
+242   1406      Hari Prasad            C - 46/3          .                 200             
+
+243   1487      S.K.Reddy              C-46/10           C-46/10           400             
+
+244   1366      VIKASH KUMAR           C-46/14           .                 300             
+
+245   1397      B.MALLESH              C-46/15           .                 200             
+
+246   337       K.PURNACHANDAR         C-47/1            -                 800             
+
+247   1309      G TRIMURTHY            C-47/2            .                 100             
+
+248   1331      K. MOHAN NAIK          C-47/3            .                 300             
+
+249   461       CHANDRAMOHAN           C-47/9                              200             
+
+250   751       T. SRINIVAS RAO        C-47/11                             100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+251   1549      RANGDU                 C-47/12           .                 200             
+
+252   1426      HABEEB KHAN            C-47/13           .                 100             
+
+253   1107      V. VISHWANATH          C-48/1                              600             
+
+254   1416      MOHAN LAL              C-48/6            .                 100             
+
+255   1579      V.LAXMI                C-48/12           .                 100             
+
+256   1333      S.F. RAHMAN            C-49/1            .                 100             
+
+257   1066      CHANDRA SATYANARAYAN   C-49/2                              100             
+
+258   1027      L.L.PRASAD             C-49/3                              0               
+
+259   1112      SANJAY KUMAR           C-49/5            .                 200             
+
+260   1050      IMTIAZ                 C-49/6            -                 100             
+
+261   1192      M.V.SUBBAIAH           C-49/7                              100             
+
+262   370       RAJESHWARI             C-49/10           -                 200             
+
+263   1540      VARDHARMMA             C-49/11           .                 200             
+
+264   621       B.V.BHASKAR            C-49/14                             100             
+
+265   1127      SHARIF                 C-49/15           .                 100             
+
+266   1523      krishnaveni            4/4               .                 300             
+
+267   1525      eshwar kumar           15/4              .                 100             
+
+268   1522      vijay kumar            18/1              .                 200             
+
+269   1499      mahaveer sing          26/16             drdo              300             
+
+270   1505      MALATHI                29/14             Sagar Complex     280             
+
+271   1519      mOHAN                  30/1              DRDO              100             
+
+272   1526      anad kishore           31/5              .                 100             
+
+273   1492      ramulu                 37/5              DRDO              0               
+
+274   1506      RAVINDHAR              37/10             DRDO              80              
+
+275   1521      amber kumar            40/12             .                 100             
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+276   1498      ravi                   40/16             drdo              300             
+
+277   1489      vijay barman           42/10             DRDO              100             
+
+278   1490      k.Atcha rao            42/14             DRDO              200             
+
+279   1528      madhan                 46/6              .                 100             
+
+280   1491      j.v subba rao          47/5              DRDO              400             
+
+281   1494      g.v subhramanyam       48/15             DRDO              100             
+
+                                                                    	----------
+                                                                    	50410
+                                                                    	----------
+
+                                END OF THE REPORT

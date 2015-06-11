@@ -1,0 +1,45 @@
+
+                                     DUE LIST
+                                     --------
+Area : nirmalan agar
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     7         A                      PLOT NO 21        PLOT 21           180             
+
+2     48        srinivas guptha        pt.no:13          .                 50              
+
+3     47        r.bumaiah              pt.no:13          .                 50              
+
+4     39        durga prasad           pt.no:17          .                 50              
+
+5     49        ajay                   pt.no:17/a        .                 100             
+
+6     46        kishor                 pt.no:21          .                 50              
+
+7     44        naresh kumar           pt.no:41          .                 50              
+
+8     43        narendhar reddy        pt.no:41          .                 50              
+
+9     42        jepal reddy            pt.no:41          .                 50              
+
+10    41        surendhar reddy        pt.no:41          .                 100             
+
+11    45        srinivas               pt.no:41/a        .                 100             
+
+12    40        sri sai traders        rice shop         .                 50              
+
+13    38        TULJABHANIREAL         RTO OFF ROAD      R T O OFF ROAD    180             
+
+14    50        durga homeyo pathi     12                .                 50              
+
+15    13        S NARESH               41/42             HNO41/42          180             
+
+                                                                    	----------
+                                                                    	1290
+                                                                    	----------
+
+                                END OF THE REPORT

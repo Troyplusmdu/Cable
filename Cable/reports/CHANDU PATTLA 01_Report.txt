@@ -1,0 +1,117 @@
+
+                                     DUE LIST
+                                     --------
+Area : CHANDU PATTLA 01
+Order By : doorno
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+1     20        S. POORAIAH            .                 .                 1180            
+
+2     30        B. SANDEEP REDDY       .                 .                 1380            
+
+3     28        P. VENKATAIAH          .                 .                 1760            
+
+4     27        G. SAIDULU             .                 .                 1760            
+
+5     49        B. ACHI REDDY          .                 .                 1220            
+
+6     25        SHRAVAN                .                 .                 1760            
+
+7     23        R. PAPAIAH             .                 .                 1200            
+
+8     31        A. LAXMAIAH            .                 .                 920             
+
+9     21        S. LINGAIAH            .                 .                 1500            
+
+10    26        M. BUCCAIAH            .                 .                 1760            
+
+11    19        D. MAHESH              .                 .                 1560            
+
+12    17        SRINIVAS REDDY         .                 .                 1460            
+
+13    16        B. ANJAIAH             .                 .                 1060            
+
+14    15        S. YADAIAH             .                 .                 1060            
+
+15    14        CH. SAIDULU            .                 .                 1110            
+
+16    13        S. LACHAIAH            .                 .                 880             
+
+17    22        CH. YADAIAH            .                 .                 1760            
+
+18    44        S. RAMULU              .                 .                 300             
+
+19    48        M. RANGA REDDY         .                 .                 1220            
+
+20    47        M. LAXMAIAH            .                 .                 1360            
+
+21    24        V. EDDIAH              .                 .                 1760            
+
+22    45        M. PRABHAKAR RAO       .                 .                 660             
+
+23    32        P. VENKAT RAO          .                 .                 1240            
+
+24    43        V. VENKATAIAH          .                 .                 660             
+
+25    42        V. THIRUMALESH         .                 .                 1080            
+
+
+Sl    Code      Name                   Door No         Address           Balance
+----  -------   --------------------   ----------     ---------------   -------
+
+26    41        M. VENGAL RAO          .                 .                 1060            
+
+27    40        M. NAGESHWAR RAO       .                 .                 1480            
+
+28    38        PUSHPALATHA            .                 .                 1040            
+
+29    35        KISHAN RAO             .                 .                 1660            
+
+30    34        P. JANAIAH             .                 .                 1160            
+
+31    33        S. RAMA CHANDRIAH      .                 .                 1300            
+
+32    39        M. JANARDHAN RAO       .                 .                 1530            
+
+33    46        N. SAIDA RAO           .                 .                 1760            
+
+34    2         S.PADA SAIDULU         ......            .                 1760            
+
+35    8         V.BIKSHAM              ........          .                 1760            
+
+36    3         DYAKAR SCHOOL          .........         .                 1300            
+
+37    9         S.BHIMAIAH             .........         .                 1560            
+
+38    10        S. ANJANEYULU          ..........        .                 530             
+
+39    6         S.PARSHRAMULU          ..........        .                 1260            
+
+40    7         RACHU BIKSHAM          ...........       .                 1190            
+
+41    5         D.YADAGIRI             ............      .                 1760            
+
+42    12        V.YADAIAH              ............      .                 1220            
+
+43    11        S.VENKATAIAH           ............      .                 1760            
+
+44    1         P . SRINIVAS           GAS               .                 1260            
+
+45    29        S. MAHESH              MR                .                 1460            
+
+46    18        K. LINGAIAH            MR                .                 1380            
+
+47    36        KAMURUDDIN             RICE MILL         .                 1760            
+
+48    37        PUNNAIAH               RICE MILL         .                 1680            
+
+49    4         P.YADAGIRI             SHOP              .                 1360            
+
+                                                                    	----------
+                                                                    	65600
+                                                                    	----------
+
+                                END OF THE REPORT
